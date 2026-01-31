@@ -58,9 +58,9 @@
 
 | **🗝️ Sacred Metric** | 💎 **Legendary Value** | 🔮 **Significance** |
 | :--- | :---: | :--- |
-| **📚 Series Documented** | **1 Tale** | *Stories Tracked* |
-| **📖 Chapters Read** | **46 Chapters** | *Panels Witnessed* |
-| **✅ Series Completed** | **0 Journeys** | *Tales Finished* |
+| **📚 Series Documented** | **2 Tales** | *Stories Tracked* |
+| **📖 Chapters Read** | **134 Chapters** | *Panels Witnessed* |
+| **✅ Series Completed** | **1 Journey** | *Tales Finished* |
 | **📗 Currently Reading** | **1 Active** | *Stories Unfolding* |
 | **⏸️ On Hold** | **0 Paused** | *Awaiting Return* |
 | **❌ Dropped** | **0 Abandoned** | *Paths Not Taken* |
@@ -134,6 +134,7 @@
 
 | 📚 **Series** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
 |:---|:---:|:---:|:---:|:---:|
+| [I Shall Live as a Prince](i_shall_live_as_a_prince.md) | 🇰🇷 Manhwa | 7.72/10 | Completed | ✅ Completed |
 | [Kim Ohjin's Adventures with Strange Animals](kim_ohjins_adventures_with_strange_animals.md) | 🇰🇷 Manhwa | 📖 Reading | Ch. 46 / Ongoing | Reading |
 
 ---

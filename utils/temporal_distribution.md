@@ -10,9 +10,9 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Metric** | **Value** |
 |:---|:---:|
-| **Total Series Read** | 1 |
-| **Total Chapters Read** | 46 |
-| **Series Completed** | 0 |
+| **Total Series Read** | 2 |
+| **Total Chapters Read** | 134 |
+| **Series Completed** | 1 |
 | **Currently Reading** | 1 |
 | **On Hold** | 0 |
 | **Dropped** | 0 |
@@ -26,7 +26,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Origin** | **Series** | **Chapters Read** | **Completed** | **Reading** | **On Hold** | **Dropped** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | 🇯🇵 Manga (Japan) | 0 | 0 | 0 | 0 | 0 | 0 |
-| 🇰🇷 Manhwa (Korea) | 1 | 46 | 0 | 1 | 0 | 0 |
+| 🇰🇷 Manhwa (Korea) | 2 | 134 | 1 | 1 | 0 | 0 |
 | 🇨🇳 Manhua (China) | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ---
@@ -38,7 +38,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | Action & Adventure | 0 | 0 | N/A |
 | Drama & Slice of Life | 0 | 0 | N/A |
 | Comedy | 0 | 0 | N/A |
-| Fantasy & Isekai | 1 | 46 | 📖 Reading |
+| Fantasy & Isekai | 2 | 134 | 7.72 |
 | Romance | 0 | 0 | N/A |
 | Horror & Psychological | 0 | 0 | N/A |
 | Mystery & Thriller | 0 | 0 | N/A |
@@ -52,7 +52,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Month** | **Series Started** | **Series Completed** | **Chapters Read** |
 |:---|:---:|:---:|:---:|
-| January 2026 | 1 | 0 | 46 |
+| January 2026 | 1 | 1 | 134 |
 
 ---
 
@@ -60,7 +60,8 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Rank** | **Series** | **Origin** | **Rating** | **Genre** | **Status** |
 |:---:|:---|:---:|:---:|:---:|:---:|
-| 1 | Kim Ohjin's Adventures with Strange Animals | 🇰🇷 Manhwa | 📖 Reading | Fantasy & Isekai | Reading |
+| 1 | I Shall Live as a Prince | 🇰🇷 Manhwa | 7.72 | Fantasy & Isekai | Completed |
+| 2 | Kim Ohjin's Adventures with Strange Animals | 🇰🇷 Manhwa | 📖 Reading | Fantasy & Isekai | Reading |
 
 ---
 
