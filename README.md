@@ -44,6 +44,7 @@
 | └─ [👻 Horror & Psychological](#-horror--psychological) | Chills, thrills, and mind games |
 | └─ [🕵️ Mystery & Thriller](#️-mystery--thriller) | Suspense and detective work |
 | └─ [🏃 Sports & Competition](#-sports--competition) | Athletic prowess and competitive spirit |
+| └─ [🥋 Murim & Martial Arts](#-murim--martial-arts) | Cultivation and the way of the warrior |
 | [🌟 The Star Chart of Judgment](#-the-star-chart-of-judgment) | Rating system explained |
 | [📚 The Reader's Wisdom](#-the-readers-wisdom) | Philosophy & quotes |
 
@@ -94,12 +95,24 @@
 ### ⚔️ Action & Adventure
 *Epic Battles, Legendary Heroes & Thrilling Quests*
 
-<p><em>These are the chronicles of warriors, adventurers, and heroes who face impossible odds. From martial arts mastery to supernatural battles, from dungeon crawling to world-saving quests—these series remind us why we love stories of courage and determination.</em></p>
+<p><em>These are the chronicles of warriors, adventurers, and heroes who face impossible odds. For martial arts specific tales, see the Murim & Martial Arts section below.</em></p>
 
-| 📚 **Series** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
-|:---|:---:|:---:|:---:|:---:|
+| 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
+|:---|:---|:---:|:---:|:---:|:---:|
 
 *No series logged yet. Add your first action manga/manhwa/manhua!*
+
+---
+
+### 🥋 Murim & Martial Arts
+*Cultivation, Sects & The Way of the Warrior*
+
+<p><em>The world of Murim is one of honor, sects, and endless cultivation. These stories follow martial artists as they train their bodies and spirits, master technique, and rise through the ranks of the Jianghu.</em></p>
+
+| 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
+|:---|:---|:---:|:---:|:---:|:---:|
+
+*No series logged yet. Add your first Murim masterpiece!*
 
 ---
 
@@ -108,8 +121,8 @@
 
 <p><em>The heart of sequential art lies in human connection. These stories explore relationships, personal growth, and the beauty of everyday moments. No grand battles needed—just truth, emotion, and characters that feel real.</em></p>
 
-| 📚 **Series** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
-|:---|:---:|:---:|:---:|:---:|
+| 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
+|:---|:---|:---:|:---:|:---:|:---:|
 
 *No series logged yet. Add your first drama!*
 
@@ -120,8 +133,8 @@
 
 <p><em>Sometimes the best stories are the ones that make you laugh. These series deliver joy through clever writing, absurd situations, and characters who remind us not to take life too seriously.</em></p>
 
-| 📚 **Series** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
-|:---|:---:|:---:|:---:|:---:|
+| 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
+|:---|:---|:---:|:---:|:---:|:---:|
 
 *No series logged yet. Add your first comedy!*
 
@@ -132,10 +145,10 @@
 
 <p><em>From traditional fantasy realms to modern isekai reincarnations, these stories transport us to worlds where magic is real and anything is possible. Whether exploring dungeons, building kingdoms, or mastering supernatural powers, these tales remind us that imagination has no limits.</em></p>
 
-| 📚 **Series** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
-|:---|:---:|:---:|:---:|:---:|
-| [I Shall Live as a Prince](i_shall_live_as_a_prince.md) | 🇰🇷 Manhwa | 7.72/10 | Completed | ✅ Completed |
-| [Kim Ohjin's Adventures with Strange Animals](kim_ohjins_adventures_with_strange_animals.md) | 🇰🇷 Manhwa | 📖 Reading | Ch. 46 / Ongoing | Reading |
+| 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
+|:---|:---|:---:|:---:|:---:|:---:|
+| [I Shall Live as a Prince](i_shall_live_as_a_prince.md) | My Royal Awakening | 🇰🇷 Manhwa | 7.72/10 | Completed | ✅ Completed |
+| [Kim Ohjin's Adventures with Strange Animals](kim_ohjins_adventures_with_strange_animals.md) | - | 🇰🇷 Manhwa | 4.84/10 | Ch. 46 / Ongoing | Reading |
 
 ---
 
@@ -144,8 +157,8 @@
 
 <p><em>The universal language of storytelling. Romance series explore connection, heartbreak, and the courage it takes to be vulnerable. From school romances to adult relationships, these stories remind us why love is worth fighting for.</em></p>
 
-| 📚 **Series** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
-|:---|:---:|:---:|:---:|:---:|
+| 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
+|:---|:---|:---:|:---:|:---:|:---:|
 
 *No series logged yet. Add your first romance!*
 
@@ -156,8 +169,8 @@
 
 <p><em>The genre that tests our limits. Horror and psychological series tap into primal fears and explore the darkest corners of the human mind. The best don't just scare—they linger, making you think twice before turning the page.</em></p>
 
-| 📚 **Series** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
-|:---|:---:|:---:|:---:|:---:|
+| 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
+|:---|:---|:---:|:---:|:---:|:---:|
 
 *No series logged yet. Add your first horror or psychological thriller!*
 
@@ -168,8 +181,8 @@
 
 <p><em>The puzzle box of sequential art. Mystery and thriller series challenge us to piece together clues, follow red herrings, and try to outsmart the detective. From classic whodunits to modern crime sagas, these stories prove that the journey to the truth is just as important as the revelation itself.</em></p>
 
-| 📚 **Series** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
-|:---|:---:|:---:|:---:|:---:|
+| 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
+|:---|:---|:---:|:---:|:---:|:---:|
 
 *No series logged yet. Add your first mystery or thriller!*
 
@@ -180,8 +193,8 @@
 
 <p><em>Stories of dedication, teamwork, and pushing beyond limits. Sports series capture the thrill of competition and the bonds forged through shared struggle. Whether on the court, field, or track, these tales remind us that victory is sweetest when earned through hard work.</em></p>
 
-| 📚 **Series** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
-|:---|:---:|:---:|:---:|:---:|
+| 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
+|:---|:---|:---:|:---:|:---:|:---:|
 
 *No series logged yet. Add your first sports series!*
 

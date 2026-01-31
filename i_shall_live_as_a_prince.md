@@ -3,6 +3,7 @@
 | | |
 |---|---|
 | Original Title | 대군으로 살어리랏다 (Daegun-euro Sareoriratda) |
+| Alternative Title | My Royal Awakening |
 | Release Year | 2020 |
 | Author | Dopamine, Kusa |
 | Artist | Kim Tae-Hyung |
@@ -10,10 +11,10 @@
 | Genre | Historical / Isekai / Drama |
 | Status | Completed |
 | Chapters Read | 88 / 88 (Completed) |
-| Start Date | - |
-| End Date | 31st January 2026 |
+| Start Date | 29th June 2024 |
+| End Date | 2nd July 2024 |
 | Rating | 7.72 / 10 |
-| Platform | - |
+| Platform | Mihon |
 
 ## Overview
 
@@ -74,6 +75,9 @@ I found this manhwa pretty amazing. It's not something I normally like as there'
 **Would I reread?** Likely not immediately, but it remains a "good and relaxing" read.
 
 **Best for:** Readers who enjoy historical dramas with a smart protagonist and political intrigue rather than pure action or cultivation.
+
+**Similar series:**
+- (To be added)
 
 ---
 

@@ -38,7 +38,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | Action & Adventure | 0 | 0 | N/A |
 | Drama & Slice of Life | 0 | 0 | N/A |
 | Comedy | 0 | 0 | N/A |
-| Fantasy & Isekai | 2 | 134 | 7.72 |
+| Fantasy & Isekai | 2 | 134 | 6.28 |
 | Romance | 0 | 0 | N/A |
 | Horror & Psychological | 0 | 0 | N/A |
 | Mystery & Thriller | 0 | 0 | N/A |
@@ -48,11 +48,18 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 ## 📈 Reading Timeline
 
-### By Month (Current Year)
+### By Month (2026)
 
 | **Month** | **Series Started** | **Series Completed** | **Chapters Read** |
 |:---|:---:|:---:|:---:|
-| January 2026 | 1 | 1 | 134 |
+| January 2026 | 1 | 0 | 46 |
+
+### By Month (2024)
+
+| **Month** | **Series Started** | **Series Completed** | **Chapters Read** |
+|:---|:---:|:---:|:---:|
+| July 2024 | 0 | 1 | 80 |
+| June 2024 | 1 | 0 | 8 |
 
 ---
 
@@ -61,7 +68,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Rank** | **Series** | **Origin** | **Rating** | **Genre** | **Status** |
 |:---:|:---|:---:|:---:|:---:|:---:|
 | 1 | I Shall Live as a Prince | 🇰🇷 Manhwa | 7.72 | Fantasy & Isekai | Completed |
-| 2 | Kim Ohjin's Adventures with Strange Animals | 🇰🇷 Manhwa | 📖 Reading | Fantasy & Isekai | Reading |
+| 2 | Kim Ohjin's Adventures with Strange Animals | 🇰🇷 Manhwa | 4.84 | Fantasy & Isekai | Reading |
 
 ---
 

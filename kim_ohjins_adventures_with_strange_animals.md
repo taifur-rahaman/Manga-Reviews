@@ -3,6 +3,7 @@
 | |                             |
 |--------------------|-----------------------------| 
 | Original Title     | 김오진의 이상한 동물 모험기   |
+| Alternative Title  | -                           |
 | Release Year       | 2023                        |
 | Author             | Giseon                      |
 | Artist             | Philsallin                  |
@@ -12,7 +13,7 @@
 | Chapters Read      | 46 / Ongoing                |
 | Start Date         | 30th January 2026           |
 | End Date           | -                           |
-| Rating             | (To be updated)             |
+| Rating             | 4.84 / 10                   |
 | Platform           | Mihon                       |
 
 
@@ -58,6 +59,18 @@ Early themes emerging:
 ## Personal Notes & Observations
 
 *(Raw thoughts as I read)*
+
+### Rating Breakdown
+
+| Category | Score | Notes |
+|---|---|---|
+| **Artwork** | **8.2** | - |
+| **Plot** | **3.2** | - |
+| **Story** | **4.0** | - |
+| **Character Development** | **5.5** | - |
+| **Enjoyment** | **3.3** | - |
+| **Overall** | **4.84** | **Mediocre** |
+| **Pace** | **Hit or Miss** | Sometimes boring, sometimes fun |
 
 - Unique premise combining veterinary medicine with fantasy adventure
 - The concept of a modern vet treating magical creatures is fresh and entertaining
