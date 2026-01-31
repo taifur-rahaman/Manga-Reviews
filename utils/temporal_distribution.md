@@ -10,11 +10,11 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Metric** | **Value** |
 |:---|:---:|
-| **Total Series Read** | 2 |
-| **Total Chapters Read** | 134 |
+| **Total Series Read** | 3 |
+| **Total Chapters Read** | 303 |
 | **Series Completed** | 1 |
 | **Currently Reading** | 1 |
-| **On Hold** | 0 |
+| **On Hold** | 1 |
 | **Dropped** | 0 |
 | **Most Read Origin** | 🇰🇷 Manhwa (Korea) |
 | **Most Read Genre** | Fantasy & Isekai |
@@ -26,8 +26,8 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Origin** | **Series** | **Chapters Read** | **Completed** | **Reading** | **On Hold** | **Dropped** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | 🇯🇵 Manga (Japan) | 0 | 0 | 0 | 0 | 0 | 0 |
-| 🇰🇷 Manhwa (Korea) | 2 | 134 | 1 | 1 | 0 | 0 |
-| 🇨🇳 Manhua (China) | 0 | 0 | 0 | 0 | 0 | 0 |
+| 🇰🇷 Manhwa (Korea) | 2 | 134 | 1 | 0 | 1 | 0 |
+| 🇨🇳 Manhua (China) | 1 | 169 | 0 | 1 | 0 | 0 |
 
 ---
 
@@ -43,6 +43,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | Horror & Psychological | 0 | 0 | N/A |
 | Mystery & Thriller | 0 | 0 | N/A |
 | Sports & Competition | 0 | 0 | N/A |
+| Murim & Martial Arts | 1 | 169 | 7.68 |
 
 ---
 
@@ -58,6 +59,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Month** | **Series Started** | **Series Completed** | **Chapters Read** |
 |:---|:---:|:---:|:---:|
+| November 2024 | 1 | 0 | 169 |
 | July 2024 | 0 | 1 | 80 |
 | June 2024 | 1 | 0 | 8 |
 
@@ -68,7 +70,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Rank** | **Series** | **Origin** | **Rating** | **Genre** | **Status** |
 |:---:|:---|:---:|:---:|:---:|:---:|
 | 1 | I Shall Live as a Prince | 🇰🇷 Manhwa | 7.72 | Fantasy & Isekai | Completed |
-| 2 | Kim Ohjin's Adventures with Strange Animals | 🇰🇷 Manhwa | 4.84 | Fantasy & Isekai | Reading |
+| 2 | Kim Ohjin's Adventures with Strange Animals | 🇰🇷 Manhwa | 4.84 | Fantasy & Isekai | On Hold |
 
 ---
 

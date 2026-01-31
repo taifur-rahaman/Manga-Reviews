@@ -9,7 +9,7 @@
 | Artist             | Philsallin                  |
 | Origin             | 🇰🇷 Manhwa                  |
 | Genre              | Fantasy / Adventure / Comedy |
-| Status             | Reading                     |
+| Status             | On Hold                     |
 | Chapters Read      | 46 / Ongoing                |
 | Start Date         | 30th January 2026           |
 | End Date           | -                           |
@@ -72,6 +72,10 @@ Early themes emerging:
 | **Overall** | **4.84** | **Mediocre** |
 | **Pace** | **Hit or Miss** | Sometimes boring, sometimes fun |
 
+## Verdict
+
+*(To be written upon completion)*
+
 - Unique premise combining veterinary medicine with fantasy adventure
 - The concept of a modern vet treating magical creatures is fresh and entertaining
 - Good balance of comedy, adventure, and heartwarming moments
@@ -94,7 +98,9 @@ Early themes emerging:
 **Best for:** Readers who enjoy fantasy with unique premises, slice-of-life elements, and lighthearted adventure
 
 **Similar series:** 
-- (To be added as I discover similar manhwa)
+- The Legendary Beasts Animal Hospital (Manhwa - Veterinarian treating mythical creatures)
+- Doctor Elise: The Royal Lady with the Lamp (Manhwa - Medical professional in fantasy world)
+- Survival Story of a Sword King in a Fantasy World (Manhwa - Comedy + Fantasy adventure)
 
 ---
 

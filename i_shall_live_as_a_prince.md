@@ -62,6 +62,10 @@ I found this manhwa pretty amazing. It's not something I normally like as there'
 | **Overall** | **7.72** | **Good Series** |
 | **Pace** | **Relaxing** | - |
 
+## Verdict
+
+I found this manhwa pretty amazing. It's not something I normally like as there's no Cultivation or OP MC, but still, I enjoyed it very much. I won't put it in my list of Best Manhwas I've read, but it's still a good and relaxing manhwa to read.
+
 ## Memorable Moments So Far
 
 -   The protagonist's rise to power using modern wisdom.
@@ -77,7 +81,9 @@ I found this manhwa pretty amazing. It's not something I normally like as there'
 **Best for:** Readers who enjoy historical dramas with a smart protagonist and political intrigue rather than pure action or cultivation.
 
 **Similar series:**
-- (To be added)
+- Doctor's Rebirth (Manhwa - Modern medical knowledge in Murim world)
+- The Greatest Estate Developer (Manhwa - Civil engineering knowledge in medieval setting)
+- I Shall Master This Family (Manhwa - Future knowledge to change family's fate)
 
 ---
 

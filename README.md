@@ -59,11 +59,11 @@
 
 | **🗝️ Sacred Metric** | 💎 **Legendary Value** | 🔮 **Significance** |
 | :--- | :---: | :--- |
-| **📚 Series Documented** | **2 Tales** | *Stories Tracked* |
-| **📖 Chapters Read** | **134 Chapters** | *Panels Witnessed* |
+| **📚 Series Documented** | **3 Tales** | *Stories Tracked* |
+| **📖 Chapters Read** | **303 Chapters** | *Panels Witnessed* |
 | **✅ Series Completed** | **1 Journey** | *Tales Finished* |
 | **📗 Currently Reading** | **1 Active** | *Stories Unfolding* |
-| **⏸️ On Hold** | **0 Paused** | *Awaiting Return* |
+| **⏸️ On Hold** | **1 Paused** | *Awaiting Return* |
 | **❌ Dropped** | **0 Abandoned** | *Paths Not Taken* |
 
 <pre>
@@ -83,7 +83,7 @@
 
 | 🏷️ **Genre** | 📚 **Series** | 📖 **Progress** | ⚡ **Status** | 🌍 **Origin** |
 | :--- | :--- | :---: | :---: | :---: |
-| 🌌 Fantasy & Isekai | Kim Ohjin's Adventures with Strange Animals | Ch. 46 / Ongoing | 📖 Reading | 🇰🇷 Manhwa |
+| 🥋 Murim & Martial Arts | Am I Invincible | Ch. 169 / Ongoing | 📖 Reading | 🇨🇳 Manhua |
 
 <pre>
 ╔══════════════════════════════════════════════════════════════════════╗
@@ -112,7 +112,7 @@
 | 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
 |:---|:---|:---:|:---:|:---:|:---:|
 
-*No series logged yet. Add your first Murim masterpiece!*
+| [Am I Invincible](am_i_invincible.md) | When Did I Become Invincible? / When Did I Become Unbeatable? | 🇨🇳 Manhua | 7.68/10 | Ch. 169 / Ongoing | 📖 Reading |
 
 ---
 
@@ -148,7 +148,7 @@
 | 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
 |:---|:---|:---:|:---:|:---:|:---:|
 | [I Shall Live as a Prince](i_shall_live_as_a_prince.md) | My Royal Awakening | 🇰🇷 Manhwa | 7.72/10 | Completed | ✅ Completed |
-| [Kim Ohjin's Adventures with Strange Animals](kim_ohjins_adventures_with_strange_animals.md) | - | 🇰🇷 Manhwa | 4.84/10 | Ch. 46 / Ongoing | Reading |
+| [Kim Ohjin's Adventures with Strange Animals](kim_ohjins_adventures_with_strange_animals.md) | - | 🇰🇷 Manhwa | 4.84/10 | Ch. 46 / Ongoing | On Hold |
 
 ---
 
