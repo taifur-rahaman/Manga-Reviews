@@ -32,11 +32,6 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 [⏳ View Detailed Temporal Distribution](utils/temporal_distribution.md)
 
-**Top Rated Series:**
-- [I Shall Live as a Prince](i_shall_live_as_a_prince.md) - 7.72/10
-- [Am I Invincible](am_i_invincible.md) - 6.92/10
-- [Kim Ohjin's Adventures with Strange Animals](kim_ohjins_adventures_with_strange_animals.md) - 4.84/10
-
 ---
 
 ## 📖 Currently Reading
@@ -63,7 +58,7 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 | 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
 |:---|:---|:---:|:---:|:---:|:---:|
 
-| [Am I Invincible](am_i_invincible.md) | When Did I Become Invincible? / When Did I Become Unbeatable? | 🇨🇳 Manhua | 6.92/10 | 315 / 315 | ✅ Completed |
+| [Am I Invincible](titles/am_i_invincible.md) | When Did I Become Invincible? / When Did I Become Unbeatable? | 🇨🇳 Manhua | 6.92/10 | 315 / 315 | ✅ Completed |
 
 ---
 
@@ -89,9 +84,9 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 | 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
 |:---|:---|:---:|:---:|:---:|:---:|
-| [8th Circle Mage Reborn](8th_circle_mage_reborn.md) | Return of the 8th Class Magician | 🇰🇷 Manhwa | TBD | Ch. 28 / 160 | 📖 Reading |
-| [I Shall Live as a Prince](i_shall_live_as_a_prince.md) | My Royal Awakening | 🇰🇷 Manhwa | 7.72/10 | Completed | ✅ Completed |
-| [Kim Ohjin's Adventures with Strange Animals](kim_ohjins_adventures_with_strange_animals.md) | - | 🇰🇷 Manhwa | 4.84/10 | Ch. 46 / Ongoing | On Hold |
+| [8th Circle Mage Reborn](titles/8th_circle_mage_reborn.md) | Return of the 8th Class Magician | 🇰🇷 Manhwa | TBD | Ch. 28 / 160 | 📖 Reading |
+| [I Shall Live as a Prince](titles/i_shall_live_as_a_prince.md) | My Royal Awakening | 🇰🇷 Manhwa | 7.72/10 | Completed | ✅ Completed |
+| [Kim Ohjin's Adventures with Strange Animals](titles/kim_ohjins_adventures_with_strange_animals.md) | - | 🇰🇷 Manhwa | 4.84/10 | Ch. 46 / Ongoing | On Hold |
 
 ---
 
