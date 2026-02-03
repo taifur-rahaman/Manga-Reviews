@@ -38,7 +38,7 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 | 🏷️ **Genre** | 📚 **Series** | 📖 **Progress** | ⚡ **Status** | 🌍 **Origin** |
 | :--- | :--- | :---: | :---: | :---: |
-| 🌌 Fantasy & Magic | 8th Circle Mage Reborn | Ch. 28 / 160 | 📖 Reading | 🇰🇷 Manhwa |
+| 🌌 Fantasy & Magic | [8th Circle Mage Reborn](titles/8th_circle_mage_reborn.md) | Ch. 28 / 160 | 📖 Reading | 🇰🇷 Manhwa |
 
 ---
 
