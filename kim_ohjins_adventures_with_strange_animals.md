@@ -1,5 +1,7 @@
 # Kim Ohjin's Adventures with Strange Animals
 
+![Kim Ohjin's Adventures with Strange Animals Cover](C:/Users/srtai/.gemini/antigravity/brain/2db0308d-f421-4227-9d8c-184d882417d6/kim_ohjin_cover_1770135043918.png)
+
 | |                             |
 |--------------------|-----------------------------| 
 | Original Title     | 김오진의 이상한 동물 모험기   |

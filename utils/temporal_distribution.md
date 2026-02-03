@@ -1,6 +1,6 @@
 # Temporal Distribution - Manga/Manhwa/Manhua
 
-> **Last Updated:** 31st January 2026
+> **Last Updated:** 3rd February 2026
 
 This document tracks the temporal distribution of manga/manhwa/manhua series read, organized by origin, genre, and reading progress.
 
@@ -10,14 +10,14 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Metric** | **Value** |
 |:---|:---:|
-| **Total Series Read** | 3 |
-| **Total Chapters Read** | 303 |
-| **Series Completed** | 1 |
+| **Total Series Read** | 4 |
+| **Total Chapters Read** | 477 |
+| **Series Completed** | 2 |
 | **Currently Reading** | 1 |
 | **On Hold** | 1 |
 | **Dropped** | 0 |
-| **Most Read Origin** | 🇰🇷 Manhwa (Korea) |
-| **Most Read Genre** | Fantasy & Isekai |
+| **Most Read Origin** | 🇨🇳 Manhua (China) |
+| **Most Read Genre** | Murim & Martial Arts |
 
 ---
 
@@ -26,8 +26,8 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Origin** | **Series** | **Chapters Read** | **Completed** | **Reading** | **On Hold** | **Dropped** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | 🇯🇵 Manga (Japan) | 0 | 0 | 0 | 0 | 0 | 0 |
-| 🇰🇷 Manhwa (Korea) | 2 | 134 | 1 | 0 | 1 | 0 |
-| 🇨🇳 Manhua (China) | 1 | 169 | 0 | 1 | 0 | 0 |
+| 🇰🇷 Manhwa (Korea) | 3 | 162 | 1 | 1 | 1 | 0 |
+| 🇨🇳 Manhua (China) | 1 | 315 | 1 | 0 | 0 | 0 |
 
 ---
 
@@ -38,12 +38,12 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | Action & Adventure | 0 | 0 | N/A |
 | Drama & Slice of Life | 0 | 0 | N/A |
 | Comedy | 0 | 0 | N/A |
-| Fantasy & Isekai | 2 | 134 | 6.28 |
+| Fantasy & Isekai | 3 | 162 | 6.28 |
 | Romance | 0 | 0 | N/A |
 | Horror & Psychological | 0 | 0 | N/A |
 | Mystery & Thriller | 0 | 0 | N/A |
 | Sports & Competition | 0 | 0 | N/A |
-| Murim & Martial Arts | 1 | 169 | 7.68 |
+| Murim & Martial Arts | 1 | 315 | 6.92 |
 
 ---
 
@@ -53,6 +53,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Month** | **Series Started** | **Series Completed** | **Chapters Read** |
 |:---|:---:|:---:|:---:|
+| February 2026 | 1 | 1 | 174 |
 | January 2026 | 1 | 0 | 46 |
 
 ### By Month (2024)
@@ -70,7 +71,8 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Rank** | **Series** | **Origin** | **Rating** | **Genre** | **Status** |
 |:---:|:---|:---:|:---:|:---:|:---:|
 | 1 | I Shall Live as a Prince | 🇰🇷 Manhwa | 7.72 | Fantasy & Isekai | Completed |
-| 2 | Kim Ohjin's Adventures with Strange Animals | 🇰🇷 Manhwa | 4.84 | Fantasy & Isekai | On Hold |
+| 2 | Am I Invincible | 🇨🇳 Manhua | 6.92 | Murim & Martial Arts | Completed |
+| 3 | Kim Ohjin's Adventures with Strange Animals | 🇰🇷 Manhwa | 4.84 | Fantasy & Isekai | On Hold |
 
 ---
 

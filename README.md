@@ -59,9 +59,9 @@
 
 | **🗝️ Sacred Metric** | 💎 **Legendary Value** | 🔮 **Significance** |
 | :--- | :---: | :--- |
-| **📚 Series Documented** | **3 Tales** | *Stories Tracked* |
-| **📖 Chapters Read** | **303 Chapters** | *Panels Witnessed* |
-| **✅ Series Completed** | **1 Journey** | *Tales Finished* |
+| **📚 Series Documented** | **4 Tales** | *Stories Tracked* |
+| **📖 Chapters Read** | **477 Chapters** | *Panels Witnessed* |
+| **✅ Series Completed** | **2 Journeys** | *Tales Finished* |
 | **📗 Currently Reading** | **1 Active** | *Stories Unfolding* |
 | **⏸️ On Hold** | **1 Paused** | *Awaiting Return* |
 | **❌ Dropped** | **0 Abandoned** | *Paths Not Taken* |
@@ -83,7 +83,7 @@
 
 | 🏷️ **Genre** | 📚 **Series** | 📖 **Progress** | ⚡ **Status** | 🌍 **Origin** |
 | :--- | :--- | :---: | :---: | :---: |
-| 🥋 Murim & Martial Arts | Am I Invincible | Ch. 169 / Ongoing | 📖 Reading | 🇨🇳 Manhua |
+| 🌌 Fantasy & Magic | 8th Circle Mage Reborn | Ch. 28 / 160 | 📖 Reading | 🇰🇷 Manhwa |
 
 <pre>
 ╔══════════════════════════════════════════════════════════════════════╗
@@ -112,7 +112,7 @@
 | 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
 |:---|:---|:---:|:---:|:---:|:---:|
 
-| [Am I Invincible](am_i_invincible.md) | When Did I Become Invincible? / When Did I Become Unbeatable? | 🇨🇳 Manhua | 7.68/10 | Ch. 169 / Ongoing | 📖 Reading |
+| [Am I Invincible](am_i_invincible.md) | When Did I Become Invincible? / When Did I Become Unbeatable? | 🇨🇳 Manhua | 6.92/10 | 315 / 315 | ✅ Completed |
 
 ---
 
@@ -147,6 +147,7 @@
 
 | 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
 |:---|:---|:---:|:---:|:---:|:---:|
+| [8th Circle Mage Reborn](8th_circle_mage_reborn.md) | Return of the 8th Class Magician | 🇰🇷 Manhwa | TBD | Ch. 28 / 160 | 📖 Reading |
 | [I Shall Live as a Prince](i_shall_live_as_a_prince.md) | My Royal Awakening | 🇰🇷 Manhwa | 7.72/10 | Completed | ✅ Completed |
 | [Kim Ohjin's Adventures with Strange Animals](kim_ohjins_adventures_with_strange_animals.md) | - | 🇰🇷 Manhwa | 4.84/10 | Ch. 46 / Ongoing | On Hold |
 
@@ -259,8 +260,8 @@
 
 *The Sequential Archives are maintained by the Eternal Reader*  
 *A Devoted Lover of Illustrated Stories*  
-*Last Updated: 31st January 2026*  
-*Version: 1.2.0 - Chapter Progress Updated*
+*Last Updated: 3rd February 2026*  
+*Version: 1.3.0 - Series Completion Updated*
 
 <pre>
 ┌────────────────────────────────────────────────────────────┐

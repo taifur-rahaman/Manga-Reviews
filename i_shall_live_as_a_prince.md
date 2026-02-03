@@ -1,5 +1,7 @@
 # I Shall Live as a Prince
 
+![I Shall Live as a Prince Cover](C:/Users/srtai/.gemini/antigravity/brain/2db0308d-f421-4227-9d8c-184d882417d6/i_shall_live_prince_cover_1770135063358.png)
+
 | | |
 |---|---|
 | Original Title | 대군으로 살어리랏다 (Daegun-euro Sareoriratda) |
