@@ -1,6 +1,6 @@
 # 8th Circle Mage Reborn
 
-![8th Circle Mage Reborn Cover](C:/Users/srtai/.gemini/antigravity/brain/2db0308d-f421-4227-9d8c-184d882417d6/8th_circle_mage_cover_1770134995958.png)
+![8th Circle Mage Reborn Cover](utils/covers/8th_circle_mage_reborn.png)
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Am I Invincible
 
-![Am I Invincible Cover](C:/Users/srtai/.gemini/antigravity/brain/2db0308d-f421-4227-9d8c-184d882417d6/am_i_invincible_cover_1770135013137.png)
+![Am I Invincible Cover](utils/covers/am_i_invincible.png)
 
 | | |
 |---|---|
