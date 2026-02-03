@@ -70,9 +70,9 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Rank** | **Series** | **Origin** | **Rating** | **Genre** | **Status** |
 |:---:|:---|:---:|:---:|:---:|:---:|
-| 1 | I Shall Live as a Prince | 🇰🇷 Manhwa | 7.72 | Fantasy & Isekai | Completed |
-| 2 | Am I Invincible | 🇨🇳 Manhua | 6.92 | Murim & Martial Arts | Completed |
-| 3 | Kim Ohjin's Adventures with Strange Animals | 🇰🇷 Manhwa | 4.84 | Fantasy & Isekai | On Hold |
+| 1 | [I Shall Live as a Prince](../i_shall_live_as_a_prince.md) | 🇰🇷 Manhwa | 7.72 | Fantasy & Isekai | Completed |
+| 2 | [Am I Invincible](../am_i_invincible.md) | 🇨🇳 Manhua | 6.92 | Murim & Martial Arts | Completed |
+| 3 | [Kim Ohjin's Adventures with Strange Animals](../kim_ohjins_adventures_with_strange_animals.md) | 🇰🇷 Manhwa | 4.84 | Fantasy & Isekai | On Hold |
 
 ---
 
