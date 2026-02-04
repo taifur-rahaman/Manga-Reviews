@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📚 Manga/Manhwa/Manhua Reviews 📚
+# 📚 𝕿𝖍𝖊 𝕾𝖊𝖖𝖚𝖊𝖓𝖙𝖎𝖆𝖑 𝕬𝖗𝖈𝖍𝖎𝖛𝖊𝖘 📚
 
 A personal collection tracking manga from Japan, manhwa from Korea, and manhua from China.
 
