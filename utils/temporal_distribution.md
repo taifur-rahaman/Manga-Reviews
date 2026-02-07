@@ -1,6 +1,6 @@
 # Temporal Distribution - Manga/Manhwa/Manhua
 
-> **Last Updated:** 3rd February 2026
+> **Last Updated:** 7th February 2026
 
 This document tracks the temporal distribution of manga/manhwa/manhua series read, organized by origin, genre, and reading progress.
 
@@ -11,13 +11,13 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Metric** | **Value** |
 |:---|:---:|
 | **Total Series Read** | 4 |
-| **Total Chapters Read** | 477 |
-| **Series Completed** | 2 |
-| **Currently Reading** | 1 |
+| **Total Chapters Read** | 637 |
+| **Series Completed** | 3 |
+| **Currently Reading** | 0 |
 | **On Hold** | 1 |
 | **Dropped** | 0 |
-| **Most Read Origin** | 🇨🇳 Manhua (China) |
-| **Most Read Genre** | Murim & Martial Arts |
+| **Most Read Origin** | �� Manhwa (Korea) |
+| **Most Read Genre** | Fantasy & Isekai |
 
 ---
 
@@ -26,7 +26,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Origin** | **Series** | **Chapters Read** | **Completed** | **Reading** | **On Hold** | **Dropped** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | 🇯🇵 Manga (Japan) | 0 | 0 | 0 | 0 | 0 | 0 |
-| 🇰🇷 Manhwa (Korea) | 3 | 162 | 1 | 1 | 1 | 0 |
+| 🇰🇷 Manhwa (Korea) | 3 | 322 | 2 | 0 | 1 | 0 |
 | 🇨🇳 Manhua (China) | 1 | 315 | 1 | 0 | 0 | 0 |
 
 ---
@@ -38,7 +38,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | Action & Adventure | 0 | 0 | N/A |
 | Drama & Slice of Life | 0 | 0 | N/A |
 | Comedy | 0 | 0 | N/A |
-| Fantasy & Isekai | 3 | 162 | 6.28 |
+| Fantasy & Isekai | 3 | 322 | 6.75 |
 | Romance | 0 | 0 | N/A |
 | Horror & Psychological | 0 | 0 | N/A |
 | Mystery & Thriller | 0 | 0 | N/A |
@@ -53,7 +53,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Month** | **Series Started** | **Series Completed** | **Chapters Read** |
 |:---|:---:|:---:|:---:|
-| February 2026 | 1 | 1 | 174 |
+| February 2026 | 1 | 2 | 334 |
 | January 2026 | 1 | 0 | 46 |
 
 ### By Month (2024)
@@ -71,8 +71,9 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Rank** | **Series** | **Origin** | **Rating** | **Genre** | **Status** |
 |:---:|:---|:---:|:---:|:---:|:---:|
 | 1 | [I Shall Live as a Prince](../titles/i_shall_live_as_a_prince.md) | 🇰🇷 Manhwa | 7.72 | Fantasy & Isekai | Completed |
-| 2 | [Am I Invincible](../titles/am_i_invincible.md) | 🇨🇳 Manhua | 6.92 | Murim & Martial Arts | Completed |
-| 3 | [Kim Ohjin's Adventures with Strange Animals](../titles/kim_ohjins_adventures_with_strange_animals.md) | 🇰🇷 Manhwa | 4.84 | Fantasy & Isekai | On Hold |
+| 2 | [8th Circle Mage Reborn](../titles/8th_circle_mage_reborn.md) | 🇰🇷 Manhwa | 7.62 | Fantasy & Isekai | Completed |
+| 3 | [Am I Invincible](../titles/am_i_invincible.md) | 🇨🇳 Manhua | 6.92 | Murim & Martial Arts | Completed |
+| 4 | [Kim Ohjin's Adventures with Strange Animals](../titles/kim_ohjins_adventures_with_strange_animals.md) | 🇰🇷 Manhwa | 4.84 | Fantasy & Isekai | On Hold |
 
 ---
 

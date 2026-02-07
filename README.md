@@ -22,9 +22,9 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 | **Metric** | **Value** |
 | :--- | :---: |
 | **📚 Series Documented** | 4 |
-| **📖 Chapters Read** | 477 |
-| **✅ Series Completed** | 2 |
-| **📗 Currently Reading** | 1 |
+| **📖 Chapters Read** | 637 |
+| **✅ Series Completed** | 3 |
+| **📗 Currently Reading** | 0 |
 | **⏸️ On Hold** | 1 |
 | **❌ Dropped** | 0 |
 
@@ -36,9 +36,7 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 ## 📖 Currently Reading
 
-| 🏷️ **Genre** | 📚 **Series** | 📖 **Progress** | ⚡ **Status** | 🌍 **Origin** |
-| :--- | :--- | :---: | :---: | :---: |
-| 🌌 Fantasy & Magic | [8th Circle Mage Reborn](titles/8th_circle_mage_reborn.md) | Ch. 28 / 160 | 📖 Reading | 🇰🇷 Manhwa |
+*No series currently being read. Check out the completed series below!*
 
 ---
 
@@ -84,9 +82,9 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 | 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
 |:---|:---|:---:|:---:|:---:|:---:|
-| [8th Circle Mage Reborn](titles/8th_circle_mage_reborn.md) | Return of the 8th Class Magician | 🇰🇷 Manhwa | TBD | Ch. 28 / 160 | 📖 Reading |
+| [8th Circle Mage Reborn](titles/8th_circle_mage_reborn.md) | Return of the 8th Circle Mage | 🇰🇷 Manhwa | 7.62/10 | 160 / 160 | ✅ Completed |
 | [I Shall Live as a Prince](titles/i_shall_live_as_a_prince.md) | My Royal Awakening | 🇰🇷 Manhwa | 7.72/10 | Completed | ✅ Completed |
-| [Kim Ohjin's Adventures with Strange Animals](titles/kim_ohjins_adventures_with_strange_animals.md) | - | 🇰🇷 Manhwa | 4.84/10 | Ch. 46 / Ongoing | On Hold |
+| [Kim Ohjin's Adventures with Strange Animals](titles/kim_ohjins_adventures_with_strange_animals.md) | - | 🇰🇷 Manhwa | 4.84/10 | Ch. 46 / Ongoing | ⏸️ On Hold |
 
 ---
 
@@ -130,6 +128,6 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 ---
 
-*Last Updated: 3rd February 2026*
+*Last Updated: 7th February 2026*
 
 </div>
