@@ -66,11 +66,11 @@ Early themes emerging:
 
 | Category | Score | Notes |
 |---|---|---|
-| **Artwork** | **8.2** | - |
-| **Plot** | **3.2** | - |
-| **Story** | **4.0** | - |
-| **Character Development** | **5.5** | - |
-| **Enjoyment** | **3.3** | - |
+| **Artwork** | **8.2** | Good art quality, well-drawn creatures |
+| **Plot** | **3.2** | Very shallow and predictable |
+| **Story** | **4.0** | Interesting premise but weak execution |
+| **Character Development** | **5.5** | Decent but nothing special |
+| **Enjoyment** | **3.3** | Hit or miss, often boring |
 | **Overall** | **4.84** | **Mediocre** |
 | **Pace** | **Hit or Miss** | Sometimes boring, sometimes fun |
 

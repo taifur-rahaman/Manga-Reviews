@@ -53,9 +53,8 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 ### 🥋 Murim & Martial Arts
 
-| 📚 **Series** | 🌏 **Alt Name** | � **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
-|:---|:---|:---:|:---:|:---:|:---:|
-
+| 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
+|:---|:---|:---:|:---|:---:|:---:|
 | [Am I Invincible](titles/am_i_invincible.md) | When Did I Become Invincible? / When Did I Become Unbeatable? | 🇨🇳 Manhua | 6.92/10 | 315 / 315 | ✅ Completed |
 
 ---
