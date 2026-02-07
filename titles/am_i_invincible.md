@@ -88,6 +88,6 @@ This Manhua is Very Fun to read. It's easy going and relaxing.
 **Similar series:**
 - I'm Actually a Cultivation Bigshot (Manhua - OP MC who thinks he's mortal, comedy misunderstandings)
 - I'm Really Not The Demon God's Lackey (Manhua - Normal human misunderstood as god-like being)
-- Beyond Myriad Peoples (Manhua - Clueless OP MC running martial arts gym)
+- [Beyond Myriad Peoples](beyond_myriad_peoples.md) (Manhua - Clueless OP MC running martial arts gym) 📖 *Currently Reading*
 - The Unmatched Powerhouse Just Wants To Farm (Manhua - OP farmer unaware of his power)
 - The Eminence in Shadow (Manhwa adaptation - Clueless OP MC comedy)

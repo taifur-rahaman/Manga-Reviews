@@ -10,10 +10,10 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Metric** | **Value** |
 |:---|:---:|
-| **Total Series Read** | 5 |
+| **Total Series Read** | 6 |
 | **Total Chapters Read** | 802 |
 | **Series Completed** | 3 |
-| **Currently Reading** | 0 |
+| **Currently Reading** | 1 |
 | **On Hold** | 2 |
 | **Dropped** | 0 |
 | **Most Read Origin** | 🇰🇷 Manhwa (Korea) |
@@ -27,7 +27,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | 🇯🇵 Manga (Japan) | 0 | 0 | 0 | 0 | 0 | 0 |
 | 🇰🇷 Manhwa (Korea) | 4 | 487 | 2 | 0 | 2 | 0 |
-| 🇨🇳 Manhua (China) | 1 | 315 | 1 | 0 | 0 | 0 |
+| 🇨🇳 Manhua (China) | 2 | 315 | 1 | 1 | 0 | 0 |
 
 ---
 
@@ -53,7 +53,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Month** | **Series Started** | **Series Completed** | **Chapters Read** |
 |:---|:---:|:---:|:---:|
-| February 2026 | 1 | 2 | 334 |
+| February 2026 | 2 | 2 | 334 |
 | January 2026 | 2 | 0 | 211 |
 
 ### By Month (2024)
@@ -75,6 +75,14 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | 3 | [8th Circle Mage Reborn](../titles/8th_circle_mage_reborn.md) | 🇰🇷 Manhwa | 7.62 | Fantasy & Isekai | Completed |
 | 4 | [Am I Invincible](../titles/am_i_invincible.md) | 🇨🇳 Manhua | 6.92 | Murim & Martial Arts | Completed |
 | 5 | [Kim Ohjin's Adventures with Strange Animals](../titles/kim_ohjins_adventures_with_strange_animals.md) | 🇰🇷 Manhwa | 4.84 | Fantasy & Isekai | On Hold |
+
+---
+
+## 📖 Currently Reading
+
+| **Series** | **Origin** | **Genre** | **Progress** | **Started** |
+|:---|:---:|:---:|:---:|:---:|
+| [Beyond Myriad Peoples](../titles/beyond_myriad_peoples.md) | 🇨🇳 Manhua | Cultivation / Fantasy | Ch. 0 / Ongoing | 7th Feb 2026 |
 
 ---
 

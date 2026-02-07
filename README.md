@@ -21,10 +21,10 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 | **Metric** | **Value** |
 | :--- | :---: |
-| **📚 Series Documented** | 5 |
+| **📚 Series Documented** | 6 |
 | **📖 Chapters Read** | 802 |
 | **✅ Series Completed** | 3 |
-| **📗 Currently Reading** | 0 |
+| **📗 Currently Reading** | 1 |
 | **⏸️ On Hold** | 2 |
 | **❌ Dropped** | 0 |
 
@@ -36,7 +36,9 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 ## 📖 Currently Reading
 
-*No series currently being read. Check out the completed series below!*
+| 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🎭 **Genre** | 📖 **Progress** | 📅 **Started** |
+|:---|:---|:---:|:---:|:---:|:---:|
+| [Beyond Myriad Peoples](titles/beyond_myriad_peoples.md) | Above Ten Thousand People / Above Myriads | 🇨🇳 Manhua | Cultivation / Fantasy | Ch. 0 / Ongoing | 7th Feb 2026 |
 
 ---
 
