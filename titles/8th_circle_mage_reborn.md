@@ -1,6 +1,6 @@
 # 8th Circle Mage Reborn
 
-![8th Circle Mage Reborn Cover](utils/covers/8th_circle_mage_reborn.png)
+![8th Circle Mage Reborn Cover](../utils/covers/8th_circle_mage_reborn.png)
 
 | | |
 |---|---|

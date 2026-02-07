@@ -1,6 +1,6 @@
 # Kim Ohjin's Adventures with Strange Animals
 
-![Kim Ohjin's Adventures with Strange Animals Cover](utils/covers/kim_ohjins_adventures_with_strange_animals.png)
+![Kim Ohjin's Adventures with Strange Animals Cover](../utils/covers/kim_ohjins_adventures_with_strange_animals.png)
 
 | |                             |
 |--------------------|-----------------------------| 

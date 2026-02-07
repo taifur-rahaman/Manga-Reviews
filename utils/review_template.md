@@ -7,7 +7,7 @@ When creating a new manga/manhwa/manhua review, use the following structure:
 ```markdown
 # [Title]
 
-![Cover Image](utils/covers/[series_name].png)
+![Cover Image](../utils/covers/[series_name].png)
 
 | | |
 |---|---|

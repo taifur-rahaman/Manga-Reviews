@@ -1,6 +1,6 @@
 # I Shall Live as a Prince
 
-![I Shall Live as a Prince Cover](utils/covers/i_shall_live_as_a_prince.png)
+![I Shall Live as a Prince Cover](../utils/covers/i_shall_live_as_a_prince.png)
 
 | | |
 |---|---|

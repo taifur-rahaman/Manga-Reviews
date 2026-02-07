@@ -1,6 +1,6 @@
 # Am I Invincible
 
-![Am I Invincible Cover](utils/covers/am_i_invincible.png)
+![Am I Invincible Cover](../utils/covers/am_i_invincible.png)
 
 | | |
 |---|---|

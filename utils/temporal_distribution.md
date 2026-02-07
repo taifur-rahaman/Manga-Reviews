@@ -81,5 +81,5 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 - This document is automatically updated as new series are logged
 - Chapter counts include all chapters read, even for dropped or on-hold series
-- Ratings are based on the Reader's personal 6-star scale
+- Ratings are based on the Reader's personal 10-point scale
 - Origin classifications: Manga (Japan), Manhwa (Korea), Manhua (China)
