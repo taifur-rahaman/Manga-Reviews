@@ -12,7 +12,7 @@
 | Origin | 🇨🇳 Manhua |
 | Genre | Action / Comedy / Cultivation / Fantasy / Slice of Life |
 | Status | Currently Reading |
-| Chapters Read | 0 / Ongoing |
+| Chapters Read | 70 / 314 (Hiatus since 26th March 2024) |
 | Start Date | 7th February 2026 |
 | End Date | - |
 | Rating | TBD |
@@ -58,6 +58,16 @@ Early themes emerging:
 *(Raw thoughts as I read)*
 
 Just started reading this series on 7th February 2026. It's a "Clueless OP MC" story similar to "Am I Invincible".
+
+### Progress Update - Chapter 70 (9th February 2026)
+
+**Observations:**
+
+- **Artwork:** Honestly, the art could use some work. Feels like they're going for that One Piece vibe - you know, decent artwork but carried by an incredible story. Thing is, while the story here is good, it's not quite at that "amazing" level to pull off the same magic.
+
+- **World Building vs Main Story:** The author really went all-in on side characters and world building. Like, I appreciate the effort to create a rich universe, but sometimes I'm just sitting here wondering what happened to the main cast. It's not confusing or anything, just feels like the focus shifted a bit too much.
+
+- **The Weird Thing About Enjoyment:** Here's the funny part - I'm actually really enjoying this! But because I'm enjoying it so much, I'm noticing all these flaws way more than I would with other titles. I think I have this weird habit where if I like something, I want it to be absolutely perfect at everything. It's like my brain goes "this is great, but it could be LEGENDARY if they just fixed X, Y, and Z." Still having a blast reading it though!
 
 ### Rating Breakdown
 

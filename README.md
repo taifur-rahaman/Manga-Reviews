@@ -22,7 +22,7 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 | **Metric** | **Value** |
 | :--- | :---: |
 | **📚 Series Documented** | 6 |
-| **📖 Chapters Read** | 802 |
+| **📖 Chapters Read** | 872 |
 | **✅ Series Completed** | 3 |
 | **📗 Currently Reading** | 1 |
 | **⏸️ On Hold** | 2 |
@@ -38,7 +38,7 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 | 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🎭 **Genre** | 📖 **Progress** | 📅 **Started** |
 |:---|:---|:---:|:---:|:---:|:---:|
-| [Beyond Myriad Peoples](titles/beyond_myriad_peoples.md) | Above Ten Thousand People / Above Myriads | 🇨🇳 Manhua | Cultivation / Fantasy | Ch. 0 / Ongoing | 7th Feb 2026 |
+| [Beyond Myriad Peoples](titles/beyond_myriad_peoples.md) | Above Ten Thousand People / Above Myriads | 🇨🇳 Manhua | Cultivation / Fantasy | Ch. 70 / 314 (Hiatus) | 7th Feb 2026 |
 
 ---
 
@@ -130,6 +130,6 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 ---
 
-*Last Updated: 7th February 2026*
+*Last Updated: 9th February 2026*
 
 </div>
