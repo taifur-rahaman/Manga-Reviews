@@ -1,6 +1,6 @@
 # Temporal Distribution - Manga/Manhwa/Manhua
 
-> **Last Updated:** 9th February 2026
+> **Last Updated:** 11th February 2026
 
 This document tracks the temporal distribution of manga/manhwa/manhua series read, organized by origin, genre, and reading progress.
 
@@ -11,7 +11,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Metric** | **Value** |
 |:---|:---:|
 | **Total Series Read** | 6 |
-| **Total Chapters Read** | 872 |
+| **Total Chapters Read** | 1037 |
 | **Series Completed** | 3 |
 | **Currently Reading** | 1 |
 | **On Hold** | 2 |
@@ -27,7 +27,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | 🇯🇵 Manga (Japan) | 0 | 0 | 0 | 0 | 0 | 0 |
 | 🇰🇷 Manhwa (Korea) | 4 | 487 | 2 | 0 | 2 | 0 |
-| 🇨🇳 Manhua (China) | 2 | 385 | 1 | 1 | 0 | 0 |
+| 🇨🇳 Manhua (China) | 2 | 550 | 1 | 1 | 0 | 0 |
 
 ---
 
@@ -53,7 +53,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Month** | **Series Started** | **Series Completed** | **Chapters Read** |
 |:---|:---:|:---:|:---:|
-| February 2026 | 2 | 2 | 404 |
+| February 2026 | 2 | 2 | 569 |
 | January 2026 | 2 | 0 | 211 |
 
 ### By Month (2024)
@@ -82,7 +82,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Series** | **Origin** | **Genre** | **Progress** | **Started** |
 |:---|:---:|:---:|:---:|:---:|
-| [Beyond Myriad Peoples](../titles/beyond_myriad_peoples.md) | 🇨🇳 Manhua | Cultivation / Fantasy | Ch. 70 / 314 (Hiatus) | 7th Feb 2026 |
+| [Beyond Myriad Peoples](../titles/beyond_myriad_peoples.md) | 🇨🇳 Manhua | Cultivation / Fantasy | Ch. 235 / 314 (Hiatus) | 7th Feb 2026 |
 
 ---
 
@@ -123,7 +123,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Series** | **Origin** | **Genre** | **Progress** | **Hiatus Since** |
 |:---|:---:|:---:|:---:|:---:|
-| [Beyond Myriad Peoples](../titles/beyond_myriad_peoples.md) | 🇨🇳 Manhua | Cultivation / Fantasy | Ch. 70 / 314 | 26th Mar 2024 |
+| [Beyond Myriad Peoples](../titles/beyond_myriad_peoples.md) | 🇨🇳 Manhua | Cultivation / Fantasy | Ch. 235 / 314 | 26th Mar 2024 |
 
 ---
 
