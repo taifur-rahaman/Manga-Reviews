@@ -11,11 +11,11 @@
 | Artist | Boyi Animation |
 | Origin | 🇨🇳 Manhua |
 | Genre | Action / Comedy / Cultivation / Fantasy / Slice of Life |
-| Status | Currently Reading |
-| Chapters Read | 235 / 314 (Hiatus since 26th March 2024) |
+| Status | Completed |
+| Chapters Read | 314 / 314 (Hiatus since 26th March 2024) |
 | Start Date | 7th February 2026 |
-| End Date | - |
-| Rating | TBD |
+| End Date | 13th February 2026 |
+| Rating | 6.5/10 |
 | Platform | Mihon |
 
 ## Overview
@@ -73,23 +73,37 @@ Just started reading this series on 7th February 2026. It's a "Clueless OP MC" s
 
 - **The Weird Thing About Enjoyment:** Here's the funny part - I'm actually really enjoying this! But because I'm enjoying it so much, I'm noticing all these flaws way more than I would with other titles. I think I have this weird habit where if I like something, I want it to be absolutely perfect at everything. It's like my brain goes "this is great, but it could be LEGENDARY if they just fixed X, Y, and Z." The fact that I've read 235 chapters speaks volumes about how much fun I'm having, even if I'm critiquing it along the way. The series knows what it is and does it well, even if it's not perfect. Still having a blast reading it though!
 
+### Final Thoughts - Completed (13th February 2026)
+
+**The Ending Arc - A Disappointing Conclusion:**
+
+To be frank, the ending arc went completely over my head. I didn't even enjoy it in the least. I just went through the chapters only because I had few chapters left to complete it. It started as strong and fun, but at the end, reading it became like chores rather than something I was reading for fun and enjoyment.
+
+The series had such a promising beginning with its comedy and misunderstanding-based humor, but somewhere along the way - especially in the final arc - it lost what made it special. The shift from enjoyable comedy to a slog was jarring. I found myself pushing through just to say I finished it, not because I was genuinely invested anymore.
+
+It's a shame because the first 200+ chapters were genuinely entertaining, but the ending left a sour taste that colors my overall impression of the series.
+
 ### Rating Breakdown
 
 | Category | Score | Notes |
 |---|---|---|
-| **Artwork** | **TBD** | - |
-| **Plot** | **TBD** | - |
-| **Story** | **TBD** | - |
-| **Character Development** | **TBD** | - |
-| **Enjoyment** | **TBD** | - |
-| **Overall** | **TBD** | - |
-| **Pace** | **TBD** | - |
+| **Artwork** | **5/10** | Serviceable but nothing special; goes for the "carried by story" approach but the story isn't strong enough to fully justify it |
+| **Plot** | **6/10** | Strong start with the misunderstanding comedy, but loses focus with too much world-building and side character arcs |
+| **Story** | **6/10** | Good premise that's executed well initially, but the ending arc was a major letdown |
+| **Character Development** | **6/10** | Main character stays consistent (which is the point), but side characters get more development than necessary at the expense of the main story |
+| **Enjoyment** | **7/10** | First 200+ chapters were genuinely fun, but the ending dragged it down significantly |
+| **Overall** | **6.5/10** | Started strong and fun, ended as a chore - the disappointing conclusion overshadows the entertaining beginning |
+| **Pace** | **5/10** | Leisurely pacing works for comedy but becomes a problem when the story loses its charm |
 
 ## Verdict
 
-*(To be written as I continue reading)*
+**Beyond Myriad Peoples** started with so much promise - a hilarious misunderstanding-based comedy with an overpowered protagonist who thinks he's just a regular guy. The first 200+ chapters were genuinely entertaining, with solid comedic timing and absurd situations that kept me engaged.
 
-Just started this series. Will update with thoughts as I progress.
+However, the series gradually lost its way. The focus shifted too much to world-building and side characters at the expense of the main story. The pacing became leisurely to the point of being sluggish. And worst of all, the ending arc was a complete disappointment - confusing, unenjoyable, and turned what was once fun reading into a chore I only finished out of obligation.
+
+It's a shame because this could have been something special. Instead, it's a series that peaked early and couldn't maintain its momentum, leaving a sour taste that overshadows the good times.
+
+**Final Score: 6.5/10** - Good start, disappointing finish.
 
 ### Memorable Moments So Far
 
@@ -99,7 +113,7 @@ Just started this series. Will update with thoughts as I progress.
 
 ## Reread Value
 
-**Would I reread?** (To be determined)
+**Would I reread?** No. The disappointing ending and the fact that it became a chore to finish means I wouldn't put myself through it again. Maybe I'd revisit some of the early chapters for the comedy, but definitely not the whole series.
 
 **Best for:** Fans of misunderstanding-based comedies and OP protagonists who don't know they are OP.
 

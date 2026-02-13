@@ -21,9 +21,9 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 | **Metric** | **Value** |
 | :--- | :---: |
-| **📚 Series Documented** | 6 |
-| **📖 Chapters Read** | 872 |
-| **✅ Series Completed** | 3 |
+| **📚 Series Documented** | 7 |
+| **📖 Chapters Read** | 1086 |
+| **✅ Series Completed** | 4 |
 | **📗 Currently Reading** | 1 |
 | **⏸️ On Hold** | 2 |
 | **❌ Dropped** | 0 |
@@ -38,7 +38,7 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 | 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🎭 **Genre** | 📖 **Progress** | 📅 **Started** |
 |:---|:---|:---:|:---:|:---:|:---:|
-| [Beyond Myriad Peoples](titles/beyond_myriad_peoples.md) | Above Ten Thousand People / Above Myriads | 🇨🇳 Manhua | Cultivation / Fantasy | Ch. 70 / 314 (Hiatus) | 7th Feb 2026 |
+| [Eternal Club](titles/eternal_club.md) | Immortality Club / Lifespan Club | 🇨🇳 Manhua | Sci-Fi / Supernatural | Ch. 0 / 303 (Cancelled) | 13th Feb 2026 |
 
 ---
 
@@ -74,8 +74,7 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 | 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
 |:---|:---|:---:|:---:|:---:|:---:|
-
-*No series logged yet. Add your first comedy!*
+| [Beyond Myriad Peoples](titles/beyond_myriad_peoples.md) | Above Ten Thousand People / Above Myriads | 🇨🇳 Manhua | 6.5/10 | 314 / 314 | ✅ Completed |
 
 ---
 
@@ -130,6 +129,6 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 ---
 
-*Last Updated: 9th February 2026*
+*Last Updated: 13th February 2026*
 
 </div>
