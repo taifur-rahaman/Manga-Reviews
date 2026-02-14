@@ -68,8 +68,8 @@ Just started reading this series on 13th February 2026. Intrigued by the premise
 | **Story** | **TBD** | - |
 | **Character Development** | **TBD** | - |
 | **Enjoyment** | **TBD** | - |
-| **Overall** | **TBD** | - |
 | **Pace** | **TBD** | - |
+| **Overall** | **TBD** | - |
 
 ## Verdict
 

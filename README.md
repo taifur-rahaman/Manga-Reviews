@@ -57,7 +57,7 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 | 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
 |:---|:---|:---:|:---|:---:|:---:|
-| [Am I Invincible](titles/am_i_invincible.md) | When Did I Become Invincible? / When Did I Become Unbeatable? | 🇨🇳 Manhua | 6.92/10 | 315 / 315 | ✅ Completed |
+| [Am I Invincible](titles/am_i_invincible.md) | When Did I Become Invincible? / When Did I Become Unbeatable? | 🇨🇳 Manhua | 6.15/10 | 315 / 315 | ✅ Completed |
 
 ---
 
@@ -74,7 +74,7 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 | 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
 |:---|:---|:---:|:---:|:---:|:---:|
-| [Beyond Myriad Peoples](titles/beyond_myriad_peoples.md) | Above Ten Thousand People / Above Myriads | 🇨🇳 Manhua | 6.5/10 | 314 / 314 | ✅ Completed |
+| [Beyond Myriad Peoples](titles/beyond_myriad_peoples.md) | Above Ten Thousand People / Above Myriads | 🇨🇳 Manhua | 5.13/10 | 314 / 314 | ✅ Completed |
 
 ---
 
@@ -82,10 +82,10 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 | 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | �️ **Status** |
 |:---|:---|:---:|:---:|:---:|:---:|
-| [8th Circle Mage Reborn](titles/8th_circle_mage_reborn.md) | Return of the 8th Circle Mage | 🇰🇷 Manhwa | 7.62/10 | 160 / 160 | ✅ Completed |
-| [Heavenly Grand Archive's Young Master](titles/heavenly_grand_archives_young_master.md) | - | 🇰🇷 Manhwa | 7.8/10 | Ch. 165 / Ongoing | ⏸️ On Hold |
+| [8th Circle Mage Reborn](titles/8th_circle_mage_reborn.md) | Return of the 8th Circle Mage | 🇰🇷 Manhwa | 7.68/10 | 160 / 160 | ✅ Completed |
+| [Heavenly Grand Archive's Young Master](titles/heavenly_grand_archives_young_master.md) | - | 🇰🇷 Manhwa | 7.83/10 | Ch. 165 / Ongoing | ⏸️ On Hold |
 | [I Shall Live as a Prince](titles/i_shall_live_as_a_prince.md) | My Royal Awakening | �🇷 Manhwa | 7.72/10 | 88 / 88 | ✅ Completed |
-| [Kim Ohjin's Adventures with Strange Animals](titles/kim_ohjins_adventures_with_strange_animals.md) | - | 🇰🇷 Manhwa | 4.84/10 | Ch. 46 / Ongoing | ⏸️ On Hold |
+| [Kim Ohjin's Adventures with Strange Animals](titles/kim_ohjins_adventures_with_strange_animals.md) | - | 🇰🇷 Manhwa | 4.87/10 | Ch. 46 / Ongoing | ⏸️ On Hold |
 
 ---
 

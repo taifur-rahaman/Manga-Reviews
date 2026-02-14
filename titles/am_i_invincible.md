@@ -15,7 +15,7 @@
 | Chapters Read | 315 / 315 |
 | Start Date | 9th November 2024 |
 | End Date | 3rd February 2026 |
-| Rating | 6.92 / 10 |
+| Rating | 6.15/10 |
 | Platform | Mihon |
 
 ## Overview
@@ -63,8 +63,8 @@ This Manhua is Very Fun to read. It's easy going and relaxing.
 | **Story** | **5.1** | Strong comedic premise ruined by terrible final arc. |
 | **Character Development** | **6.5** | Good until ch. 278, then characters act completely OOC. |
 | **Enjoyment** | **6.8** | First 278 chapters were great (9/10), last 37 were awful (2/10). |
-| **Overall** | **6.92** | **Decent Series** (would've been 8+ without the ending) |
-| **Pace** | **Inconsistent** | Breezy and fun until the disastrous final arc |
+| **Pace** | **6.0/10** | Breezy and fun until the disastrous final arc |
+| **Overall** | **6.15/10** | **Decent Series** (would've been 8+ without the ending) |
 
 ## Verdict
 

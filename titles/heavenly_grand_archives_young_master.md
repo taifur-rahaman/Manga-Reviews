@@ -15,7 +15,7 @@
 | Chapters Read | 165 / Ongoing |
 | Start Date | 17th January 2026 |
 | End Date | - |
-| Rating | 7.8 / 10 |
+| Rating | 7.83/10 |
 | Platform | Mihon |
 
 ## Overview
@@ -69,8 +69,8 @@ Currently at chapter 165. The series updates weekly (sometimes with longer gaps)
 | **Story** | **7.6** | Well-developed world and interesting premise |
 | **Character Development** | **7.8** | Good character growth and interactions |
 | **Enjoyment** | **8.0** | Highly enjoyable, worth following weekly |
-| **Overall** | **7.8** | **Good Series** |
-| **Pace** | **Weekly Updates** | Updates once per week (sometimes longer) |
+| **Pace** | **8.0/10** | Updates once per week (sometimes longer) |
+| **Overall** | **7.83/10** | **Good Series** |
 
 ## Verdict
 

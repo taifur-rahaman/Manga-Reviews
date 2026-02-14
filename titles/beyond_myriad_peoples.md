@@ -15,7 +15,7 @@
 | Chapters Read | 314 / 314 (Hiatus since 26th March 2024) |
 | Start Date | 7th February 2026 |
 | End Date | 13th February 2026 |
-| Rating | 6.5/10 |
+| Rating | 5.13/10 |
 | Platform | Mihon |
 
 ## Overview
@@ -87,13 +87,13 @@ It's a shame because the first 200+ chapters were genuinely entertaining, but th
 
 | Category | Score | Notes |
 |---|---|---|
-| **Artwork** | **5/10** | Serviceable but nothing special; goes for the "carried by story" approach but the story isn't strong enough to fully justify it |
-| **Plot** | **6/10** | Strong start with the misunderstanding comedy, but loses focus with too much world-building and side character arcs |
-| **Story** | **6/10** | Good premise that's executed well initially, but the ending arc was a major letdown |
-| **Character Development** | **6/10** | Main character stays consistent (which is the point), but side characters get more development than necessary at the expense of the main story |
-| **Enjoyment** | **7/10** | First 200+ chapters were genuinely fun, but the ending dragged it down significantly |
-| **Overall** | **6.5/10** | Started strong and fun, ended as a chore - the disappointing conclusion overshadows the entertaining beginning |
-| **Pace** | **5/10** | Leisurely pacing works for comedy but becomes a problem when the story loses its charm |
+| **Artwork** | **3.9/10** | Frequently inconsistent and unpolished; relies too heavily on simplifications and fails to deliver visual impact even in key moments |
+| **Plot** | **4.4/10** | Structure completely breaks down in later arcs; narrative threads become tangled and the conclusion is unsatisfyingly abrupt |
+| **Story** | **4.5/10** | Promising concept that collapses under its own weight; the final arc is a chore that actively detracts from the experience |
+| **Character Development** | **6.5/10** | Main character stays consistent (which is the point), but side characters get too much screen time which bloats the narrative |
+| **Enjoyment** | **7/10** | Still entertaining due to the comedy, despite the objective flaws in writing and art |
+| **Pace** | **4.5/10** | Drags significantly with unnecessary filler arcs, making the reading experience feel like a chore by the end |
+| **Overall** | **5.13/10** | Started strong and fun, ended as a chore - the disappointing conclusion overshadows the entertaining beginning |
 
 ## Verdict
 
@@ -103,7 +103,7 @@ However, the series gradually lost its way. The focus shifted too much to world-
 
 It's a shame because this could have been something special. Instead, it's a series that peaked early and couldn't maintain its momentum, leaving a sour taste that overshadows the good times.
 
-**Final Score: 6.5/10** - Good start, disappointing finish.
+**Final Score: 5.13/10** - Good start, disappointing finish.
 
 ### Memorable Moments So Far
 

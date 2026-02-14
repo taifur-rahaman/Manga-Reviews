@@ -15,7 +15,7 @@
 | Chapters Read | 160 / 160 (Completed) |
 | Start Date | 3rd February 2026 |
 | End Date | 7th February 2026 |
-| Rating | 7.62/10 |
+| Rating | 7.68/10 |
 | Platform | Mihon |
 
 ## Overview
@@ -58,8 +58,8 @@ Binged all 160 chapters in 5 days—that should tell you how engaging it was. Th
 | **Story** | **6.9/10** | Engaging but somewhat predictable |
 | **Character Development** | **7.8/10** | Good character growth |
 | **Enjoyment** | **8.0/10** | Highly enjoyable read |
-| **Overall** | **7.62/10** | **Completed** |
 | **Pace** | **8.0/10** | Well-paced, kept me engaged |
+| **Overall** | **7.68/10** | **Completed** |
 
 ## Verdict
 
@@ -71,7 +71,7 @@ What surprised me was the character development (7.8). For a power fantasy serie
 
 The real kicker is the enjoyment factor—solid 8.0. Despite being somewhat formulaic, it's just *fun* to read. The pacing keeps you turning pages, the magic system is interesting with the circle progression, and watching an OP mage flex on everyone never gets old. It's comfort food in manhwa form.
 
-**Overall: 7.62/10** - A well-executed regression fantasy that doesn't reinvent the wheel but delivers exactly what it promises. If you're into magic-focused power fantasies with good art and a revenge plot, you'll probably enjoy this as much as I did.
+**Overall: 7.68/10** - A well-executed regression fantasy that doesn't reinvent the wheel but delivers exactly what it promises. If you're into magic-focused power fantasies with good art and a revenge plot, you'll probably enjoy this as much as I did.
 
 -   **Started Reading**: 3rd February 2026
 -   **Completed**: 7th February 2026 (160 chapters in 5 days)

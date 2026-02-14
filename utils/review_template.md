@@ -60,9 +60,9 @@ When creating a new manga/manhwa/manhua review, use the following structure:
 | **Plot** | **X.X** | Notes |
 | **Story** | **X.X** | Notes |
 | **Character Development** | **X.X** | Notes |
-| **Enjoyment** | **X.X** | Notes |
-| **Overall** | **X.X** | **Classification** |
-| **Pace** | **Description** | Notes |
+| **Enjoyment** | **X.X/10** | Notes |
+| **Pace** | **X.X/10** | Notes |
+| **Overall** | **X.X/10** | **Classification** |
 
 ## Verdict
 

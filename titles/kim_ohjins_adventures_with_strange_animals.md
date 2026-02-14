@@ -15,7 +15,7 @@
 | Chapters Read      | 46 / Ongoing                |
 | Start Date         | 30th January 2026           |
 | End Date           | -                           |
-| Rating             | 4.84 / 10                   |
+| Rating             | 4.87/10                   |
 | Platform           | Mihon                       |
 
 
@@ -71,8 +71,8 @@ Early themes emerging:
 | **Story** | **4.0** | Interesting premise but weak execution |
 | **Character Development** | **5.5** | Decent but nothing special |
 | **Enjoyment** | **3.3** | Hit or miss, often boring |
-| **Overall** | **4.84** | **Mediocre** |
-| **Pace** | **Hit or Miss** | Sometimes boring, sometimes fun |
+| **Pace** | **5.0/10** | Sometimes boring, sometimes fun |
+| **Overall** | **4.87/10** | **Mediocre** |
 
 ## Verdict
 

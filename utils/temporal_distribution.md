@@ -37,13 +37,13 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 |:---|:---:|:---:|:---:|
 | Action & Adventure | 0 | 0 | N/A |
 | Drama & Slice of Life | 0 | 0 | N/A |
-| Comedy | 1 | 314 | 6.5 |
-| Fantasy & Isekai | 4 | 487 | 7.24 |
+| Comedy | 1 | 314 | 5.13 |
+| Fantasy & Isekai | 4 | 487 | 7.06 |
 | Romance | 0 | 0 | N/A |
 | Horror & Psychological | 0 | 0 | N/A |
 | Mystery & Thriller | 0 | 0 | N/A |
 | Sports & Competition | 0 | 0 | N/A |
-| Murim & Martial Arts | 1 | 315 | 6.92 |
+| Murim & Martial Arts | 1 | 315 | 6.15 |
 
 ---
 
@@ -70,12 +70,12 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Rank** | **Series** | **Origin** | **Rating** | **Genre** | **Status** |
 |:---:|:---|:---:|:---:|:---:|:---:|
-| 1 | [Heavenly Grand Archive's Young Master](../titles/heavenly_grand_archives_young_master.md) | 🇰🇷 Manhwa | 7.8 | Fantasy & Isekai | On Hold |
-| 2 | [I Shall Live as a Prince](../titles/i_shall_live_as_a_prince.md) | 🇰🇷 Manhwa | 7.72 | Fantasy & Isekai | Completed |
-| 3 | [8th Circle Mage Reborn](../titles/8th_circle_mage_reborn.md) | 🇰🇷 Manhwa | 7.62 | Fantasy & Isekai | Completed |
-| 4 | [Am I Invincible](../titles/am_i_invincible.md) | 🇨🇳 Manhua | 6.92 | Murim & Martial Arts | Completed |
-| 5 | [Beyond Myriad Peoples](../titles/beyond_myriad_peoples.md) | 🇨🇳 Manhua | 6.5 | Comedy / Cultivation | Completed |
-| 6 | [Kim Ohjin's Adventures with Strange Animals](../titles/kim_ohjins_adventures_with_strange_animals.md) | 🇰🇷 Manhwa | 4.84 | Fantasy & Isekai | On Hold |
+| 1 | [I Shall Live as a Prince](../titles/i_shall_live_as_a_prince.md) | 🇰🇷 Manhwa | 7.85 | Fantasy & Isekai | Completed |
+| 2 | [Heavenly Grand Archive's Young Master](../titles/heavenly_grand_archives_young_master.md) | 🇰🇷 Manhwa | 7.83 | Fantasy & Isekai | On Hold |
+| 3 | [8th Circle Mage Reborn](../titles/8th_circle_mage_reborn.md) | 🇰🇷 Manhwa | 7.68 | Fantasy & Isekai | Completed |
+| 4 | [Am I Invincible](../titles/am_i_invincible.md) | 🇨🇳 Manhua | 6.15 | Murim & Martial Arts | Completed |
+| 5 | [Beyond Myriad Peoples](../titles/beyond_myriad_peoples.md) | 🇨🇳 Manhua | 5.13 | Comedy / Cultivation | Completed |
+| 6 | [Kim Ohjin's Adventures with Strange Animals](../titles/kim_ohjins_adventures_with_strange_animals.md) | 🇰🇷 Manhwa | 4.87 | Fantasy & Isekai | On Hold |
 
 ---
 
@@ -93,10 +93,10 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Series** | **Origin** | **Genre** | **Rating** | **Progress** | **Completed Date** |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| [8th Circle Mage Reborn](../titles/8th_circle_mage_reborn.md) | 🇰🇷 Manhwa | Fantasy / Isekai | 7.62/10 | 160 / 160 | 7th Feb 2026 |
-| [Beyond Myriad Peoples](../titles/beyond_myriad_peoples.md) | 🇨🇳 Manhua | Comedy / Cultivation | 6.5/10 | 314 / 314 | 13th Feb 2026 |
-| [Am I Invincible](../titles/am_i_invincible.md) | 🇨🇳 Manhua | Murim / Martial Arts | 6.92/10 | 315 / 315 | 3rd Feb 2026 |
-| [I Shall Live as a Prince](../titles/i_shall_live_as_a_prince.md) | 🇰🇷 Manhwa | Fantasy / Isekai | 7.72/10 | 88 / 88 | 2nd Jul 2024 |
+| [8th Circle Mage Reborn](../titles/8th_circle_mage_reborn.md) | 🇰🇷 Manhwa | Fantasy / Isekai | 7.68/10 | 160 / 160 | 7th Feb 2026 |
+| [Beyond Myriad Peoples](../titles/beyond_myriad_peoples.md) | 🇨🇳 Manhua | Comedy / Cultivation | 5.13/10 | 314 / 314 | 13th Feb 2026 |
+| [Am I Invincible](../titles/am_i_invincible.md) | 🇨🇳 Manhua | Murim / Martial Arts | 6.15/10 | 315 / 315 | 3rd Feb 2026 |
+| [I Shall Live as a Prince](../titles/i_shall_live_as_a_prince.md) | 🇰🇷 Manhwa | Fantasy / Isekai | 7.85/10 | 88 / 88 | 2nd Jul 2024 |
 
 ---
 
@@ -106,8 +106,8 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Series** | **Origin** | **Genre** | **Rating** | **Progress** | **Release Schedule** |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| [Heavenly Grand Archive's Young Master](../titles/heavenly_grand_archives_young_master.md) | 🇰🇷 Manhwa | Fantasy / Martial Arts | 7.8/10 | Ch. 165 / Ongoing | Weekly |
-| [Kim Ohjin's Adventures with Strange Animals](../titles/kim_ohjins_adventures_with_strange_animals.md) | 🇰🇷 Manhwa | Fantasy / Adventure | 4.84/10 | Ch. 46 / Ongoing | Weekly |
+| [Heavenly Grand Archive's Young Master](../titles/heavenly_grand_archives_young_master.md) | 🇰🇷 Manhwa | Fantasy / Martial Arts | 7.83/10 | Ch. 165 / Ongoing | Weekly |
+| [Kim Ohjin's Adventures with Strange Animals](../titles/kim_ohjins_adventures_with_strange_animals.md) | 🇰🇷 Manhwa | Fantasy / Adventure | 4.87/10 | Ch. 46 / Ongoing | Weekly |
 
 ---
 

@@ -15,7 +15,7 @@
 | Chapters Read | 88 / 88 (Completed) |
 | Start Date | 29th June 2024 |
 | End Date | 2nd July 2024 |
-| Rating | 7.72 / 10 |
+| Rating | 7.85/10 |
 | Platform | Mihon |
 
 ## Overview
@@ -61,8 +61,8 @@ I found this manhwa pretty amazing. It's not something I normally like as there'
 | **Story** | **6.5** | Engaging narrative of rising to power. |
 | **Character Development** | **9.4** | Excellent growth, especially for the protagonist. |
 | **Enjoyment** | **9.0** | Highly enjoyable despite genre preferences. |
-| **Overall** | **7.72** | **Good Series** |
-| **Pace** | **Relaxing** | - |
+| **Pace** | **8.5/10** | Relaxing and enjoyable pace |
+| **Overall** | **7.85/10** | **Good Series** |
 
 ## Verdict
 
