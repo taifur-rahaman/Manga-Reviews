@@ -12,8 +12,9 @@
 | Origin | 🇨🇳 Manhua |
 | Genre | Action / Drama / Sci-Fi / Supernatural |
 | Status | Currently Reading |
-| Chapters Read | 0 / 303 (Cancelled 5th Nov 2024) |
+| Chapters Read | 37 / 303 (Cancelled 5th Nov 2024) |
 | Start Date | 13th February 2026 |
+| Last Read | 14th February 2026 |
 | End Date | - |
 | Rating | TBD |
 | Platform | Mihon |
@@ -58,6 +59,15 @@ Early themes emerging:
 *(Raw thoughts as I read)*
 
 Just started reading this series on 13th February 2026. Intrigued by the premise of trading lifespan and time manipulation.
+
+### Progress Update - Chapter 37 (14th February 2026)
+
+**Observations:**
+
+- **The Hook:** The core concept is fantastic. The MC grinding through life until he gets the power to buy and sell "lifespans" and mess with time is a unique hook that immediately grabbed me.
+- **MC's Transformation:** Lu Li goes from a pushover to a master strategist very quickly. It feels a bit rushed, but understandable—suddenly having god-tier powers would definitely spike anyone's confidence.
+- **Smart Usage of Abilities:** What's really engaging is that he's not just randomly using his powers; he's building an actual organization (the "Immortality Club"), thinking long-term, and being cautious. The business-building aspect is satisfying to watch.
+- **Art & Atmosphere:** The full-color art is solid and gets the job done with clean panels. The supernatural elements add depth, and the tangible fear of death in this world makes the stakes feel real.
 
 ### Rating Breakdown
 

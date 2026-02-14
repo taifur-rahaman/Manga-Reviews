@@ -11,10 +11,11 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Metric** | **Value** |
 |:---|:---:|
 | **Total Series Read** | 7 |
-| **Total Chapters Read** | 1086 |
-| **Series Completed** | 4 |
+| **Total Chapters Read** | 1123 |
+| **Series Completed** | 3 |
 | **Currently Reading** | 1 |
 | **On Hold** | 2 |
+| **On Hiatus** | 1 |
 | **Dropped** | 0 |
 | **Most Read Origin** | 🇰🇷 Manhwa (Korea) |
 | **Most Read Genre** | Fantasy & Isekai |
@@ -27,7 +28,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | 🇯🇵 Manga (Japan) | 0 | 0 | 0 | 0 | 0 | 0 |
 | 🇰🇷 Manhwa (Korea) | 4 | 487 | 2 | 0 | 2 | 0 |
-| 🇨🇳 Manhua (China) | 3 | 629 | 2 | 1 | 0 | 0 |
+| 🇨🇳 Manhua (China) | 3 | 666 | 2 | 1 | 0 | 0 |
 
 ---
 
@@ -42,6 +43,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | Romance | 0 | 0 | N/A |
 | Horror & Psychological | 0 | 0 | N/A |
 | Mystery & Thriller | 0 | 0 | N/A |
+| Sci-Fi & Supernatural | 1 | 37 | TBD |
 | Sports & Competition | 0 | 0 | N/A |
 | Murim & Martial Arts | 1 | 315 | 6.15 |
 
@@ -53,7 +55,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Month** | **Series Started** | **Series Completed** | **Chapters Read** |
 |:---|:---:|:---:|:---:|
-| February 2026 | 3 | 3 | 648 |
+| February 2026 | 3 | 3 | 685 |
 | January 2026 | 2 | 0 | 211 |
 
 ### By Month (2024)
@@ -74,7 +76,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | 2 | [Heavenly Grand Archive's Young Master](../titles/heavenly_grand_archives_young_master.md) | 🇰🇷 Manhwa | 7.83 | Fantasy & Isekai | On Hold |
 | 3 | [8th Circle Mage Reborn](../titles/8th_circle_mage_reborn.md) | 🇰🇷 Manhwa | 7.68 | Fantasy & Isekai | Completed |
 | 4 | [Am I Invincible](../titles/am_i_invincible.md) | 🇨🇳 Manhua | 6.15 | Murim & Martial Arts | Completed |
-| 5 | [Beyond Myriad Peoples](../titles/beyond_myriad_peoples.md) | 🇨🇳 Manhua | 5.13 | Comedy / Cultivation | Completed |
+| 5 | [Beyond Myriad Peoples](../titles/beyond_myriad_peoples.md) | 🇨🇳 Manhua | 5.13 | Comedy / Cultivation | Hiatus |
 | 6 | [Kim Ohjin's Adventures with Strange Animals](../titles/kim_ohjins_adventures_with_strange_animals.md) | 🇰🇷 Manhwa | 4.87 | Fantasy & Isekai | On Hold |
 
 ---
@@ -83,7 +85,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Series** | **Origin** | **Genre** | **Progress** | **Started** |
 |:---|:---:|:---:|:---:|:---:|
-| [Eternal Club](../titles/eternal_club.md) | 🇨🇳 Manhua | Sci-Fi / Supernatural | Ch. 0 / 303 (Cancelled) | 13th Feb 2026 |
+| [Eternal Club](../titles/eternal_club.md) | 🇨🇳 Manhua | Sci-Fi / Supernatural | Ch. 37 / 303 (Cancelled) | 13th Feb 2026 |
 
 ---
 
@@ -94,7 +96,6 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Series** | **Origin** | **Genre** | **Rating** | **Progress** | **Completed Date** |
 |:---|:---:|:---:|:---:|:---:|:---:|
 | [8th Circle Mage Reborn](../titles/8th_circle_mage_reborn.md) | 🇰🇷 Manhwa | Fantasy / Isekai | 7.68/10 | 160 / 160 | 7th Feb 2026 |
-| [Beyond Myriad Peoples](../titles/beyond_myriad_peoples.md) | 🇨🇳 Manhua | Comedy / Cultivation | 5.13/10 | 314 / 314 | 13th Feb 2026 |
 | [Am I Invincible](../titles/am_i_invincible.md) | 🇨🇳 Manhua | Murim / Martial Arts | 6.15/10 | 315 / 315 | 3rd Feb 2026 |
 | [I Shall Live as a Prince](../titles/i_shall_live_as_a_prince.md) | 🇰🇷 Manhwa | Fantasy / Isekai | 7.85/10 | 88 / 88 | 2nd Jul 2024 |
 
@@ -123,7 +124,9 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 *Series where the author/artist has put the series on hiatus*
 
-*No series on hiatus.*
+| **Series** | **Origin** | **Genre** | **Rating** | **Progress** | **Hiatus Date** |
+|:---|:---:|:---:|:---:|:---:|:---:|
+| [Beyond Myriad Peoples](../titles/beyond_myriad_peoples.md) | 🇨🇳 Manhua | Comedy / Cultivation | 5.13/10 | 314 / 314 | 26th Mar 2024 |
 
 ---
 

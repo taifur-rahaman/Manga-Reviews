@@ -11,10 +11,11 @@
 | Artist | Boyi Animation |
 | Origin | 🇨🇳 Manhua |
 | Genre | Action / Comedy / Cultivation / Fantasy / Slice of Life |
-| Status | Completed |
+| Status | Hiatus |
 | Chapters Read | 314 / 314 (Hiatus since 26th March 2024) |
 | Start Date | 7th February 2026 |
-| End Date | 13th February 2026 |
+| Last Read | 13th February 2026 |
+| End Date | - |
 | Rating | 5.13/10 |
 | Platform | Mihon |
 
@@ -73,7 +74,7 @@ Just started reading this series on 7th February 2026. It's a "Clueless OP MC" s
 
 - **The Weird Thing About Enjoyment:** Here's the funny part - I'm actually really enjoying this! But because I'm enjoying it so much, I'm noticing all these flaws way more than I would with other titles. I think I have this weird habit where if I like something, I want it to be absolutely perfect at everything. It's like my brain goes "this is great, but it could be LEGENDARY if they just fixed X, Y, and Z." The fact that I've read 235 chapters speaks volumes about how much fun I'm having, even if I'm critiquing it along the way. The series knows what it is and does it well, even if it's not perfect. Still having a blast reading it though!
 
-### Final Thoughts - Completed (13th February 2026)
+### Final Thoughts - Caught Up (13th February 2026)
 
 **The Ending Arc - A Disappointing Conclusion:**
 

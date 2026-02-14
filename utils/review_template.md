@@ -21,6 +21,7 @@ When creating a new manga/manhwa/manhua review, use the following structure:
 | Status | Reading / Completed / On Hold / Dropped |
 | Chapters Read | [X] / [Total or Ongoing] |
 | Start Date | [Date] |
+| Last Read | [Date] |
 | End Date | [Date or -] |
 | Rating | [Rating] / 10 |
 | Platform | Mihon |

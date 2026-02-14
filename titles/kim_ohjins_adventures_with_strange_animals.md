@@ -14,6 +14,7 @@
 | Status             | On Hold                     |
 | Chapters Read      | 46 / Ongoing                |
 | Start Date         | 30th January 2026           |
+| Last Read          | 30th January 2026           |
 | End Date           | -                           |
 | Rating             | 4.87/10                   |
 | Platform           | Mihon                       |

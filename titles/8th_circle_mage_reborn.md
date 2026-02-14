@@ -14,6 +14,7 @@
 | Status | Completed |
 | Chapters Read | 160 / 160 (Completed) |
 | Start Date | 3rd February 2026 |
+| Last Read | 7th February 2026 |
 | End Date | 7th February 2026 |
 | Rating | 7.68/10 |
 | Platform | Mihon |
