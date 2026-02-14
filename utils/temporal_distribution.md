@@ -11,7 +11,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Metric** | **Value** |
 |:---|:---:|
 | **Total Series Read** | 7 |
-| **Total Chapters Read** | 1123 |
+| **Total Chapters Read** | 1125 |
 | **Series Completed** | 3 |
 | **Currently Reading** | 1 |
 | **On Hold** | 2 |
@@ -24,11 +24,11 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 ## 🌍 Reading by Origin
 
-| **Origin** | **Series** | **Chapters Read** | **Completed** | **Reading** | **On Hold** | **Dropped** |
-|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| 🇯🇵 Manga (Japan) | 0 | 0 | 0 | 0 | 0 | 0 |
-| 🇰🇷 Manhwa (Korea) | 4 | 487 | 2 | 0 | 2 | 0 |
-| 🇨🇳 Manhua (China) | 3 | 666 | 2 | 1 | 0 | 0 |
+| **Origin** | **Series** | **Chapters Read** | **Completed** | **Reading** | **On Hold** | **Hiatus** | **Dropped** |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 🇯🇵 Manga (Japan) | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 🇰🇷 Manhwa (Korea) | 4 | 459 | 2 | 0 | 2 | 0 | 0 |
+| 🇨🇳 Manhua (China) | 3 | 666 | 1 | 1 | 0 | 1 | 0 |
 
 ---
 
@@ -39,7 +39,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | Action & Adventure | 0 | 0 | N/A |
 | Drama & Slice of Life | 0 | 0 | N/A |
 | Comedy | 1 | 314 | 5.13 |
-| Fantasy & Isekai | 4 | 487 | 7.06 |
+| Fantasy & Isekai | 4 | 459 | 6.81 |
 | Romance | 0 | 0 | N/A |
 | Horror & Psychological | 0 | 0 | N/A |
 | Mystery & Thriller | 0 | 0 | N/A |
@@ -55,7 +55,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Month** | **Series Started** | **Series Completed** | **Chapters Read** |
 |:---|:---:|:---:|:---:|
-| February 2026 | 3 | 3 | 685 |
+| February 2026 | 3 | 3 | 657 |
 | January 2026 | 2 | 0 | 211 |
 
 ### By Month (2024)

@@ -22,7 +22,7 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 | **Metric** | **Value** |
 | :--- | :---: |
 | **📚 Series Documented** | 7 |
-| **📖 Chapters Read** | 1123 |
+| **📖 Chapters Read** | 1125 |
 | **✅ Series Completed** | 3 |
 | **📗 Currently Reading** | 1 |
 | **⏸️ On Hold** | 2 |
