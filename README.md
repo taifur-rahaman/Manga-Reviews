@@ -21,9 +21,9 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 | **Metric** | **Value** |
 | :--- | :---: |
-| **📚 Series Documented** | 7 |
-| **📖 Chapters Read** | 1125 |
-| **✅ Series Completed** | 3 |
+| **📚 Series Documented** | 8 |
+| **📖 Chapters Read** | 1391 |
+| **✅ Series Completed** | 4 |
 | **📗 Currently Reading** | 1 |
 | **⏸️ On Hold** | 2 |
 | **🚫 On Hiatus** | 1 |
@@ -39,7 +39,7 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 | 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🎭 **Genre** | 📖 **Progress** | 📅 **Started** |
 |:---|:---|:---:|:---:|:---:|:---:|
-| [Eternal Club](titles/eternal_club.md) | Immortality Club / Lifespan Club | 🇨🇳 Manhua | Sci-Fi / Supernatural | Ch. 37 / 303 (Cancelled) | 13th Feb 2026 |
+| [The Top Dungeon Farmer](titles/the_top_dungeon_farmer.md) | Solo Farming in the Tower | 🇰🇷 Manhwa | Fantasy / Isekai / Slice of Life | Ch. 0 / Ongoing | 16th Feb 2026 |
 
 ---
 
@@ -81,12 +81,13 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 ### 🌌 Fantasy & Isekai
 
-| 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | �️ **Status** |
-|:---|:---|:---:|:---:|:---:|:---:|
+| 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
+|:---|:---|:---:|:---|:---:|:---:|
 | [8th Circle Mage Reborn](titles/8th_circle_mage_reborn.md) | Return of the 8th Circle Mage | 🇰🇷 Manhwa | 7.68/10 | 160 / 160 | ✅ Completed |
 | [Heavenly Grand Archive's Young Master](titles/heavenly_grand_archives_young_master.md) | - | 🇰🇷 Manhwa | 7.83/10 | Ch. 165 / Ongoing | ⏸️ On Hold |
-| [I Shall Live as a Prince](titles/i_shall_live_as_a_prince.md) | My Royal Awakening | �🇷 Manhwa | 7.72/10 | 88 / 88 | ✅ Completed |
+| [I Shall Live as a Prince](titles/i_shall_live_as_a_prince.md) | My Royal Awakening | 🇰🇷 Manhwa | 7.72/10 | 88 / 88 | ✅ Completed |
 | [Kim Ohjin's Adventures with Strange Animals](titles/kim_ohjins_adventures_with_strange_animals.md) | - | 🇰🇷 Manhwa | 4.87/10 | Ch. 46 / Ongoing | ⏸️ On Hold |
+| [The Top Dungeon Farmer](titles/the_top_dungeon_farmer.md) | Solo Farming in the Tower | 🇰🇷 Manhwa | TBD | Ch. 0 / Ongoing | 📗 Reading |
 
 ---
 
@@ -121,7 +122,7 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 | 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
 |:---|:---|:---:|:---:|:---:|:---:|
-| [Eternal Club](titles/eternal_club.md) | Immortality Club / Lifespan Club | 🇨🇳 Manhua | TBD | 37 / 303 | 📗 Reading |
+| [Eternal Club](titles/eternal_club.md) | Immortality Club / Lifespan Club | 🇨🇳 Manhua | 7.10/10 | 303 / 303 | ✅ Completed |
 
 ---
 
@@ -138,6 +139,6 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 ---
 
-*Last Updated: 13th February 2026*
+*Last Updated: 16th February 2026*
 
 </div>
