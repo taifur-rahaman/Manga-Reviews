@@ -11,45 +11,37 @@
 | Artist | Lee Ha-kyung |
 | Origin | 🇰🇷 Manhwa |
 | Genre | Fantasy / Isekai / Slice of Life / Adventure |
-| Status | Currently Reading |
-| Chapters Read | 0 / Ongoing (Season 2) |
+| Status | On Hold |
+| Chapters Read | 114 / Ongoing (Season 2) |
 | Start Date | 16th February 2026 |
-| Last Read | 16th February 2026 |
+| Last Read | 21st February 2026 |
 | End Date | - |
-| Rating | TBD |
+| Rating | 6.3/10 |
 | Platform | WEBTOON / Mihon |
 
 ## Overview
-
-*(To be updated as I continue reading)*
 
 "The Top Dungeon Farmer" (also known as "Solo Farming in the Tower") is a unique twist on the dungeon crawler genre. Instead of the typical adventurer role, the story follows Sejun, an ordinary Seoul resident who unexpectedly finds himself trapped in a mysterious dungeon and becomes... a farmer. Rather than battling monsters, he focuses on cultivating and selling cash crops while completing various quests and surviving with optimism, resourcefulness, and the help of loyal monster companions.
 
 ## Story & World
 
-*(To be updated as I continue reading)*
-
-The story explores farming and survival within a fantasy dungeon setting, blending slice-of-life elements with dungeon adventure.
+The story explores farming and survival within a fantasy dungeon setting, blending slice-of-life elements with dungeon adventure. What sets it apart is the localized setting within the tower—rather than sprawling adventures, the world-building is heavily centered around the farm's expansion, the mechanics of magical crops, and the ecosystem of monsters that either threaten or help the farming operations.
 
 ## Characters
 
-*(To be updated as I continue reading)*
+**Sejun (Protagonist)** - An ordinary Seoul resident who becomes an unlikely farmer in a mysterious dungeon tower. His pragmatic and somewhat business-minded approach to farming keeps things grounded.
 
-**Sejun (Protagonist)** - An ordinary Seoul resident who becomes an unlikely farmer in a mysterious dungeon tower.
+**Cuengi & The Animals** - The fluffy, adorable monster companions that end up doing most of the heavy lifting. They are arguably the heart and soul of the series, bringing a lot of the cozy factor.
 
 ## Art & Presentation
 
-*(To be updated as I continue reading)*
+Full-color manhwa available on WEBTOON with weekly releases. The art style is vibrant and leans heavily into the cute factor, especially when it comes to the animal companions and the ridiculously appetizing crops. The monster designs and farming aesthetics have a nice, welcoming warmth to them.
 
-Full-color manhwa available on WEBTOON with weekly releases.
-
-*Rating: TBD*
+*Rating: 7.0/10*
 
 ## Themes & Impact
 
-*(To be updated as I continue reading)*
-
-Early themes emerging:
+Core themes explored:
 - **Survival & Adaptation**: Making the best of an impossible situation
 - **Unconventional Problem-Solving**: Farming instead of fighting
 - **Resourcefulness**: Using what's available in creative ways
@@ -57,42 +49,57 @@ Early themes emerging:
 
 ## Personal Notes & Observations
 
-*(Raw thoughts as I read)*
+### Progress Update - Chapter 114 (21st February 2026)
 
-Just started reading this series on 16th February 2026. Intrigued by the unique premise of dungeon farming instead of typical monster hunting.
+**Observations:**
+
+- **The Hook:** The initial premise is super refreshing. Farming inside a dungeon instead of the usual edge-lord monster hunting is a very nice change of pace.
+- **The Carry:** Let's be real, Cuengi and the other animals hard-carry this series. The fluffy companions are adorable and add a massive amount of cozy, slice-of-life aesthetic.
+- **The Loop:** But 114 chapters in, the repetition really starts to show. It falls into a very formulaic loop: discover new crop/seed -> grow it -> make absurd money or get broken stats -> repeat. 
+- **Low Stakes:** The tension is practically non-existent. Without any real stakes or overarching threats, the story feels like it's just treading water. It's good brain-off reading, but it doesn't leave a very lasting impact.
 
 ### Rating Breakdown
 
 | Category | Score | Notes |
 |---|---|---|
-| **Artwork** | **TBD** | - |
-| **Plot** | **TBD** | - |
-| **Story** | **TBD** | - |
-| **Character Development** | **TBD** | - |
-| **Enjoyment** | **TBD** | - |
-| **Pace** | **TBD** | - |
-| **Overall** | **TBD** | - |
+| **Artwork** | **7.0/10** | Vibrant, adorable monster designs, and gets the job done |
+| **Plot** | **5.5/10** | Dips pretty hard after the setup; heavily formulaic loop |
+| **Story** | **6.0/10** | Cozy slice-of-life but lacks a compelling overarching narrative |
+| **Character Development** | **6.0/10** | Sejun does his thing, but the animals have more personality |
+| **Enjoyment** | **6.5/10** | Chill brain-off reading, but hard to binge without getting bored |
+| **Pace** | **5.5/10** | Drags noticeably since the farming loop repeats endlessly |
+| **Overall** | **6.3/10** | A chill, low-stakes farming sim disguised as a dungeon manhwa |
 
 ## Verdict
 
-*(To be written as I continue reading)*
+*The Top Dungeon Farmer* starts off strong with a fun, cozy twist on the standard dungeon tower trope. Instead of swinging swords and dodging death, our guy Sejun is out here planting cherry tomatoes and making a killing. It's super refreshing at first, and the addition of adorable animal companions (especially Cuengi!) gives it an incredibly relaxing, slice-of-life vibe.
 
-Just started this series. Will update with thoughts as I progress.
+But somewhere along the 114 chapters, the novelty wears thin. The series falls into a super repetitive loop: find a new seed, harvest it, get OP stats or insane wealth, and do it all over again. There’s barely any real tension or high stakes to shake things up, which makes the narrative feel pretty aimless after a while. 
+
+If you’re looking for a deep, thrilling plot, this ain’t it. But if you just want some chill, turn-your-brain-off downtime reading where the biggest crisis is a crop not growing fast enough, it’s a decent enough time-killer.
+
+**Bottom line:** A cozy, low-stakes farming loop that's heavily carried by its cute animal companions, though it gets noticeably repetitive the longer you read.
+
+*Final Rating:* **6.3/10** - Chill but repetitive farming sim
 
 ### Memorable Moments So Far
 
-*(Will update as I continue reading)*
+- Sejun's first successful cherry tomato harvest
+- Meeting the giant adorable bear (Cuengi) and other companions
+- The absurdly over-the-top reactions to the crops from outside the tower
 
 ---
 
 ## Reread Value
 
-**Would I reread?** (To be determined)
+**Would I reread?** Probably not—it's too repetitive to sit through from the beginning again, though checking in weekly isn't a bad way to pass the time.
 
-**Best for:** Fans of farming manga/manhwa, slice-of-life isekai, unconventional dungeon stories, and cozy fantasy adventures.
+**Best for:** Fans of farming manga/manhwa, slice-of-life isekai, Stardew Valley enthusiasts, unconventional dungeon stories, and those who just want to see cute animals doing farm work.
 
 **Similar series:**
-- TBD
+- **Spirit Farmer** (Manhwa) - Similar wholesome monster-taming and dungeon farming vibes
+- **Dungeon Reset** (Manhwa) - Unconventional survival and crafting within a glitched dungeon
+- **Leveling Up, by Only Eating!** (Manhwa) - Low-stakes, food-focused VR fantasy
 
 ---
 

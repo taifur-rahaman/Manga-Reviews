@@ -1,6 +1,6 @@
 # Temporal Distribution - Manga/Manhwa/Manhua
 
-> **Last Updated:** 16th February 2026
+> **Last Updated:** 21st February 2026
 
 This document tracks the temporal distribution of manga/manhwa/manhua series read, organized by origin, genre, and reading progress.
 
@@ -11,10 +11,10 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Metric** | **Value** |
 |:---|:---:|
 | **Total Series Read** | 8 |
-| **Total Chapters Read** | 1391 |
+| **Total Chapters Read** | 1505 |
 | **Series Completed** | 4 |
-| **Currently Reading** | 1 |
-| **On Hold** | 2 |
+| **Currently Reading** | 0 |
+| **On Hold** | 3 |
 | **On Hiatus** | 1 |
 | **Dropped** | 0 |
 | **Most Read Origin** | 🇰🇷 Manhwa (Korea) |
@@ -27,7 +27,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Origin** | **Series** | **Chapters Read** | **Completed** | **Reading** | **On Hold** | **Hiatus** | **Dropped** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 🇯🇵 Manga (Japan) | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 🇰🇷 Manhwa (Korea) | 5 | 459 | 2 | 1 | 2 | 0 | 0 |
+| 🇰🇷 Manhwa (Korea) | 5 | 573 | 2 | 0 | 3 | 0 | 0 |
 | 🇨🇳 Manhua (China) | 3 | 932 | 2 | 0 | 0 | 1 | 0 |
 
 ---
@@ -39,7 +39,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | Action & Adventure | 0 | 0 | N/A |
 | Drama & Slice of Life | 0 | 0 | N/A |
 | Comedy | 1 | 314 | 5.13 |
-| Fantasy & Isekai | 5 | 459 | 6.81 |
+| Fantasy & Isekai | 5 | 573 | 6.91 |
 | Romance | 0 | 0 | N/A |
 | Horror & Psychological | 0 | 0 | N/A |
 | Mystery & Thriller | 0 | 0 | N/A |
@@ -55,7 +55,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Month** | **Series Started** | **Series Completed** | **Chapters Read** |
 |:---|:---:|:---:|:---:|
-| February 2026 | 4 | 4 | 923 |
+| February 2026 | 4 | 4 | 1037 |
 | January 2026 | 2 | 0 | 211 |
 
 ### By Month (2024)
@@ -76,9 +76,10 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | 2 | [Heavenly Grand Archive's Young Master](../titles/heavenly_grand_archives_young_master.md) | 🇰🇷 Manhwa | 7.83 | Fantasy & Isekai | On Hold |
 | 3 | [8th Circle Mage Reborn](../titles/8th_circle_mage_reborn.md) | 🇰🇷 Manhwa | 7.68 | Fantasy & Isekai | Completed |
 | 4 | [Eternal Club](../titles/eternal_club.md) | 🇨🇳 Manhua | 7.10 | Sci-Fi & Supernatural | Completed |
-| 5 | [Am I Invincible](../titles/am_i_invincible.md) | 🇨🇳 Manhua | 6.15 | Murim & Martial Arts | Completed |
-| 6 | [Beyond Myriad Peoples](../titles/beyond_myriad_peoples.md) | 🇨🇳 Manhua | 5.13 | Comedy / Cultivation | Hiatus |
-| 7 | [Kim Ohjin's Adventures with Strange Animals](../titles/kim_ohjins_adventures_with_strange_animals.md) | 🇰🇷 Manhwa | 4.87 | Fantasy & Isekai | On Hold |
+| 5 | [The Top Dungeon Farmer](../titles/the_top_dungeon_farmer.md) | 🇰🇷 Manhwa | 6.30 | Fantasy & Isekai | Reading |
+| 6 | [Am I Invincible](../titles/am_i_invincible.md) | 🇨🇳 Manhua | 6.15 | Murim & Martial Arts | Completed |
+| 7 | [Beyond Myriad Peoples](../titles/beyond_myriad_peoples.md) | 🇨🇳 Manhua | 5.13 | Comedy / Cultivation | Hiatus |
+| 8 | [Kim Ohjin's Adventures with Strange Animals](../titles/kim_ohjins_adventures_with_strange_animals.md) | 🇰🇷 Manhwa | 4.87 | Fantasy & Isekai | On Hold |
 
 ---
 
@@ -86,7 +87,8 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Series** | **Origin** | **Genre** | **Progress** | **Started** |
 |:---|:---:|:---:|:---:|:---:|
-| [The Top Dungeon Farmer](../titles/the_top_dungeon_farmer.md) | 🇰🇷 Manhwa | Fantasy / Isekai / Slice of Life | Ch. 0 / Ongoing | 16th Feb 2026 |
+
+*No series currently being read.*
 
 ---
 
@@ -111,6 +113,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 |:---|:---:|:---:|:---:|:---:|:---:|
 | [Heavenly Grand Archive's Young Master](../titles/heavenly_grand_archives_young_master.md) | 🇰🇷 Manhwa | Fantasy / Martial Arts | 7.83/10 | Ch. 165 / Ongoing | Weekly |
 | [Kim Ohjin's Adventures with Strange Animals](../titles/kim_ohjins_adventures_with_strange_animals.md) | 🇰🇷 Manhwa | Fantasy / Adventure | 4.87/10 | Ch. 46 / Ongoing | Weekly |
+| [The Top Dungeon Farmer](../titles/the_top_dungeon_farmer.md) | 🇰🇷 Manhwa | Fantasy / Isekai / Slice of Life | 6.30/10 | Ch. 114 / Ongoing | Weekly |
 
 ---
 
