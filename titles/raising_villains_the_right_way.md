@@ -16,7 +16,7 @@
 | Start Date | 27th February 2026 |
 | Last Read | 27th February 2026 |
 | End Date | - |
-| Rating | TBD |
+| Rating | 8.2/10 |
 | Platform | Mihon |
 
 ## Overview
@@ -37,7 +37,7 @@ The world of Psychedelia is a turn-based RPG setting brought to life, and the st
 
 ## Art & Presentation
 
-*Rating: TBD*
+*Rating: 8.5/10*
 
 LICO's art is clean and polished — the character designs are expressive and varied. The aesthetic has that premium manhwa sheen with detailed backgrounds and dynamic paneling.
 
@@ -58,13 +58,13 @@ Just cracked this open and it already has my full attention. The premise alone i
 
 | Category | Score | Notes |
 |---|---|---|
-| **Artwork** | **TBD** | - |
-| **Plot** | **TBD** | - |
-| **Story** | **TBD** | - |
-| **Character Development** | **TBD** | - |
-| **Enjoyment** | **TBD** | - |
-| **Pace** | **TBD** | - |
-| **Overall** | **TBD** | - |
+| **Artwork** | **8.5/10** | Clean, polished manhwa art with expressive character designs and strong paneling |
+| **Plot** | **8.5/10** | Genuinely clever premise — fixing the villains before they snap, with real cause-and-effect consequences |
+| **Story** | **8.0/10** | Tight and focused early on; the irony of Alan becoming the final boss is a great hook |
+| **Character Development** | **8.0/10** | Alan is witty and grounded; the Five Great Sins already feel distinct and earned |
+| **Enjoyment** | **8.5/10** | Absolutely hooked — hasn't had a single dull moment through 24 chapters |
+| **Pace** | **7.5/10** | Moves well, though too early to judge long-term pacing |
+| **Overall** | **8.2/10** | **Exceptional start — one of the more original isekai premises in a while** |
 
 ## Verdict
 
