@@ -11,8 +11,8 @@
 | Artist | LICO |
 | Origin | 🇰🇷 Manhwa |
 | Genre | Action / Fantasy / Isekai / Reincarnation |
-| Status | Reading |
-| Chapters Read | Ch. ? / Ongoing |
+| Status | On Hold |
+| Chapters Read | 24 / Ongoing |
 | Start Date | 27th February 2026 |
 | Last Read | 27th February 2026 |
 | End Date | - |

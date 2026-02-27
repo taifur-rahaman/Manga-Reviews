@@ -13,8 +13,8 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Total Series Read** | 9 |
 | **Total Chapters Read** | 1505 |
 | **Series Completed** | 4 |
-| **Currently Reading** | 1 |
-| **On Hold** | 3 |
+| **Currently Reading** | 0 |
+| **On Hold** | 4 |
 | **On Hiatus** | 1 |
 | **Dropped** | 0 |
 | **Most Read Origin** | 🇰🇷 Manhwa (Korea) |
@@ -27,7 +27,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Origin** | **Series** | **Chapters Read** | **Completed** | **Reading** | **On Hold** | **Hiatus** | **Dropped** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 🇯🇵 Manga (Japan) | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 🇰🇷 Manhwa (Korea) | 6 | 573 | 2 | 1 | 3 | 0 | 0 |
+| 🇰🇷 Manhwa (Korea) | 6 | 573 | 2 | 0 | 4 | 0 | 0 |
 | 🇨🇳 Manhua (China) | 3 | 932 | 2 | 0 | 0 | 1 | 0 |
 
 ---
@@ -87,7 +87,8 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Series** | **Origin** | **Genre** | **Progress** | **Started** |
 |:---|:---:|:---:|:---:|:---:|
-| [Raising Villains the Right Way](../titles/raising_villains_the_right_way.md) | 🇰🇷 Manhwa | Action / Fantasy / Isekai | Ch. ? / Ongoing | 27th Feb 2026 |
+
+*No series currently being read.*
 
 ---
 
@@ -112,6 +113,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 |:---|:---:|:---:|:---:|:---:|:---:|
 | [Heavenly Grand Archive's Young Master](../titles/heavenly_grand_archives_young_master.md) | 🇰🇷 Manhwa | Fantasy / Martial Arts | 7.83/10 | Ch. 165 / Ongoing | Weekly |
 | [Kim Ohjin's Adventures with Strange Animals](../titles/kim_ohjins_adventures_with_strange_animals.md) | 🇰🇷 Manhwa | Fantasy / Adventure | 4.87/10 | Ch. 46 / Ongoing | Weekly |
+| [Raising Villains the Right Way](../titles/raising_villains_the_right_way.md) | 🇰🇷 Manhwa | Action / Fantasy / Isekai | TBD | Ch. 24 / Ongoing | Weekly |
 | [The Top Dungeon Farmer](../titles/the_top_dungeon_farmer.md) | 🇰🇷 Manhwa | Fantasy / Isekai / Slice of Life | 6.30/10 | Ch. 114 / Ongoing | Weekly |
 
 ---
