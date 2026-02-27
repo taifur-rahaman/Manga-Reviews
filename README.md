@@ -21,10 +21,10 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 | **Metric** | **Value** |
 | :--- | :---: |
-| **📚 Series Documented** | 8 |
+| **📚 Series Documented** | 9 |
 | **📖 Chapters Read** | 1505 |
 | **✅ Series Completed** | 4 |
-| **📗 Currently Reading** | 0 |
+| **📗 Currently Reading** | 1 |
 | **⏸️ On Hold** | 3 |
 | **🚫 On Hiatus** | 1 |
 | **❌ Dropped** | 0 |
@@ -39,8 +39,7 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 | 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🎭 **Genre** | 📖 **Progress** | 📅 **Started** |
 |:---|:---|:---:|:---:|:---:|:---:|
-
-*No series currently being read.*
+| [Raising Villains the Right Way](titles/raising_villains_the_right_way.md) | Became the Patron of Villains | 🇰🇷 Manhwa | Action / Fantasy / Isekai | Ch. ? / Ongoing | 27th Feb 2026 |
 
 ---
 
@@ -88,6 +87,7 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 | [Heavenly Grand Archive's Young Master](titles/heavenly_grand_archives_young_master.md) | - | 🇰🇷 Manhwa | 7.83/10 | Ch. 165 / Ongoing | ⏸️ On Hold |
 | [I Shall Live as a Prince](titles/i_shall_live_as_a_prince.md) | My Royal Awakening | 🇰🇷 Manhwa | 7.72/10 | 88 / 88 | ✅ Completed |
 | [Kim Ohjin's Adventures with Strange Animals](titles/kim_ohjins_adventures_with_strange_animals.md) | - | 🇰🇷 Manhwa | 4.87/10 | Ch. 46 / Ongoing | ⏸️ On Hold |
+| [Raising Villains the Right Way](titles/raising_villains_the_right_way.md) | Became the Patron of Villains | 🇰🇷 Manhwa | TBD | Ch. ? / Ongoing | 📗 Reading |
 | [The Top Dungeon Farmer](titles/the_top_dungeon_farmer.md) | Solo Farming in the Tower | 🇰🇷 Manhwa | 6.30/10 | Ch. 114 / Ongoing | ⏸️ On Hold |
 
 ---
@@ -140,6 +140,6 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 ---
 
-*Last Updated: 21st February 2026*
+*Last Updated: 27th February 2026*
 
 </div>

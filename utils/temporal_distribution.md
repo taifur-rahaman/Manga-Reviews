@@ -1,6 +1,6 @@
 # Temporal Distribution - Manga/Manhwa/Manhua
 
-> **Last Updated:** 21st February 2026
+> **Last Updated:** 27th February 2026
 
 This document tracks the temporal distribution of manga/manhwa/manhua series read, organized by origin, genre, and reading progress.
 
@@ -10,10 +10,10 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Metric** | **Value** |
 |:---|:---:|
-| **Total Series Read** | 8 |
+| **Total Series Read** | 9 |
 | **Total Chapters Read** | 1505 |
 | **Series Completed** | 4 |
-| **Currently Reading** | 0 |
+| **Currently Reading** | 1 |
 | **On Hold** | 3 |
 | **On Hiatus** | 1 |
 | **Dropped** | 0 |
@@ -27,7 +27,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Origin** | **Series** | **Chapters Read** | **Completed** | **Reading** | **On Hold** | **Hiatus** | **Dropped** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 🇯🇵 Manga (Japan) | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 🇰🇷 Manhwa (Korea) | 5 | 573 | 2 | 0 | 3 | 0 | 0 |
+| 🇰🇷 Manhwa (Korea) | 6 | 573 | 2 | 1 | 3 | 0 | 0 |
 | 🇨🇳 Manhua (China) | 3 | 932 | 2 | 0 | 0 | 1 | 0 |
 
 ---
@@ -39,7 +39,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | Action & Adventure | 0 | 0 | N/A |
 | Drama & Slice of Life | 0 | 0 | N/A |
 | Comedy | 1 | 314 | 5.13 |
-| Fantasy & Isekai | 5 | 573 | 6.91 |
+| Fantasy & Isekai | 6 | 573 | 6.91 |
 | Romance | 0 | 0 | N/A |
 | Horror & Psychological | 0 | 0 | N/A |
 | Mystery & Thriller | 0 | 0 | N/A |
@@ -55,7 +55,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Month** | **Series Started** | **Series Completed** | **Chapters Read** |
 |:---|:---:|:---:|:---:|
-| February 2026 | 4 | 4 | 1037 |
+| February 2026 | 5 | 4 | 1037 |
 | January 2026 | 2 | 0 | 211 |
 
 ### By Month (2024)
@@ -87,8 +87,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Series** | **Origin** | **Genre** | **Progress** | **Started** |
 |:---|:---:|:---:|:---:|:---:|
-
-*No series currently being read.*
+| [Raising Villains the Right Way](../titles/raising_villains_the_right_way.md) | 🇰🇷 Manhwa | Action / Fantasy / Isekai | Ch. ? / Ongoing | 27th Feb 2026 |
 
 ---
 
