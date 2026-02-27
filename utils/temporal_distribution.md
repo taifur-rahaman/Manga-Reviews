@@ -11,7 +11,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Metric** | **Value** |
 |:---|:---:|
 | **Total Series Read** | 9 |
-| **Total Chapters Read** | 1505 |
+| **Total Chapters Read** | 1529 |
 | **Series Completed** | 4 |
 | **Currently Reading** | 0 |
 | **On Hold** | 4 |
@@ -27,7 +27,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Origin** | **Series** | **Chapters Read** | **Completed** | **Reading** | **On Hold** | **Hiatus** | **Dropped** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 🇯🇵 Manga (Japan) | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 🇰🇷 Manhwa (Korea) | 6 | 573 | 2 | 0 | 4 | 0 | 0 |
+| 🇰🇷 Manhwa (Korea) | 6 | 597 | 2 | 0 | 4 | 0 | 0 |
 | 🇨🇳 Manhua (China) | 3 | 932 | 2 | 0 | 0 | 1 | 0 |
 
 ---
@@ -39,7 +39,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | Action & Adventure | 0 | 0 | N/A |
 | Drama & Slice of Life | 0 | 0 | N/A |
 | Comedy | 1 | 314 | 5.13 |
-| Fantasy & Isekai | 6 | 573 | 6.91 |
+| Fantasy & Isekai | 6 | 597 | 6.91 |
 | Romance | 0 | 0 | N/A |
 | Horror & Psychological | 0 | 0 | N/A |
 | Mystery & Thriller | 0 | 0 | N/A |
@@ -55,7 +55,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Month** | **Series Started** | **Series Completed** | **Chapters Read** |
 |:---|:---:|:---:|:---:|
-| February 2026 | 5 | 4 | 1037 |
+| February 2026 | 5 | 4 | 1061 |
 | January 2026 | 2 | 0 | 211 |
 
 ### By Month (2024)
@@ -76,7 +76,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | 2 | [Heavenly Grand Archive's Young Master](../titles/heavenly_grand_archives_young_master.md) | 🇰🇷 Manhwa | 7.83 | Fantasy & Isekai | On Hold |
 | 3 | [8th Circle Mage Reborn](../titles/8th_circle_mage_reborn.md) | 🇰🇷 Manhwa | 7.68 | Fantasy & Isekai | Completed |
 | 4 | [Eternal Club](../titles/eternal_club.md) | 🇨🇳 Manhua | 7.10 | Sci-Fi & Supernatural | Completed |
-| 5 | [The Top Dungeon Farmer](../titles/the_top_dungeon_farmer.md) | 🇰🇷 Manhwa | 6.30 | Fantasy & Isekai | Reading |
+| 5 | [The Top Dungeon Farmer](../titles/the_top_dungeon_farmer.md) | 🇰🇷 Manhwa | 6.30 | Fantasy & Isekai | On Hold |
 | 6 | [Am I Invincible](../titles/am_i_invincible.md) | 🇨🇳 Manhua | 6.15 | Murim & Martial Arts | Completed |
 | 7 | [Beyond Myriad Peoples](../titles/beyond_myriad_peoples.md) | 🇨🇳 Manhua | 5.13 | Comedy / Cultivation | Hiatus |
 | 8 | [Kim Ohjin's Adventures with Strange Animals](../titles/kim_ohjins_adventures_with_strange_animals.md) | 🇰🇷 Manhwa | 4.87 | Fantasy & Isekai | On Hold |

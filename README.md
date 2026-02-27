@@ -22,7 +22,7 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 | **Metric** | **Value** |
 | :--- | :---: |
 | **📚 Series Documented** | 9 |
-| **📖 Chapters Read** | 1505 |
+| **📖 Chapters Read** | 1529 |
 | **✅ Series Completed** | 4 |
 | **📗 Currently Reading** | 0 |
 | **⏸️ On Hold** | 4 |
@@ -86,7 +86,7 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 |:---|:---|:---:|:---|:---:|:---:|
 | [8th Circle Mage Reborn](titles/8th_circle_mage_reborn.md) | Return of the 8th Circle Mage | 🇰🇷 Manhwa | 7.68/10 | 160 / 160 | ✅ Completed |
 | [Heavenly Grand Archive's Young Master](titles/heavenly_grand_archives_young_master.md) | - | 🇰🇷 Manhwa | 7.83/10 | Ch. 165 / Ongoing | ⏸️ On Hold |
-| [I Shall Live as a Prince](titles/i_shall_live_as_a_prince.md) | My Royal Awakening | 🇰🇷 Manhwa | 7.72/10 | 88 / 88 | ✅ Completed |
+| [I Shall Live as a Prince](titles/i_shall_live_as_a_prince.md) | My Royal Awakening | 🇰🇷 Manhwa | 7.85/10 | 88 / 88 | ✅ Completed |
 | [Kim Ohjin's Adventures with Strange Animals](titles/kim_ohjins_adventures_with_strange_animals.md) | - | 🇰🇷 Manhwa | 4.87/10 | Ch. 46 / Ongoing | ⏸️ On Hold |
 | [Raising Villains the Right Way](titles/raising_villains_the_right_way.md) | Became the Patron of Villains | 🇰🇷 Manhwa | TBD | Ch. 24 / Ongoing | ⏸️ On Hold |
 | [The Top Dungeon Farmer](titles/the_top_dungeon_farmer.md) | Solo Farming in the Tower | 🇰🇷 Manhwa | 6.30/10 | Ch. 114 / Ongoing | ⏸️ On Hold |
