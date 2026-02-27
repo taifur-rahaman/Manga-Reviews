@@ -87,6 +87,6 @@ Just cracked this open and it already has my full attention. The premise alone i
 
 *Worth checking out:*
 - **He Reincarnated as a Trash Noble… and Adopts the Five Villains Who Will Doom the Kingdom!** (Manhwa) — Nearly the same premise: noble with game knowledge raising future villains as kids to prevent the kingdom's fall; basically the closest spiritual twin
-- **My Next Life as a Villainess: All Routes Lead to Doom!** (Manga) — Reincarnated as the game's villainess trying to dodge her doom flags by befriending everyone; lighter tone but shares the "change the narrative from inside" core idea
+- **Lout of Count's Family** (Manhwa) — Reincarnated as the novel's minor villain noble; uses foreknowledge and zero interest in fighting to navigate a world on the brink of destruction; same "brains and foresight over brawn" DNA
 - **The Villainess Lives Again** (Manhwa) — Villainess gets a second chance and uses her cunning to steer events toward a better outcome; very sharp protagonist with a similarly ironic self-awareness
 - **Death Is the Only Ending for the Villainess** (Manhwa) — Reincarnated into a reverse-harem otome game as the villainess in hard mode; high-stakes navigation of pre-written villain fate with a compelling lead
