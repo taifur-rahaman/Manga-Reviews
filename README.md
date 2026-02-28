@@ -21,11 +21,11 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 | **Metric** | **Value** |
 | :--- | :---: |
-| **📚 Series Documented** | 9 |
-| **📖 Chapters Read** | 1529 |
+| **📚 Series Documented** | 10 |
+| **📖 Chapters Read** | 1638 |
 | **✅ Series Completed** | 4 |
 | **📗 Currently Reading** | 0 |
-| **⏸️ On Hold** | 4 |
+| **⏸️ On Hold** | 5 |
 | **🚫 On Hiatus** | 1 |
 | **❌ Dropped** | 0 |
 
@@ -77,6 +77,7 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 | 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
 |:---|:---|:---:|:---:|:---:|:---:|
 | [Beyond Myriad Peoples](titles/beyond_myriad_peoples.md) | Above Ten Thousand People / Above Myriads | 🇨🇳 Manhua | 5.13/10 | 314 / 314 | 🚫 Hiatus |
+| [My Superstar Uncle](titles/my_superstar_uncle.md) | Superstar Uncle | 🇰🇷 Manhwa | TBD | Ch. 109 / Ongoing | ⏸️ On Hold |
 
 ---
 
@@ -97,8 +98,7 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 | 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
 |:---|:---|:---:|:---:|:---:|:---:|
-
-*No series logged yet. Add your first romance!*
+| [My Superstar Uncle](titles/my_superstar_uncle.md) | Superstar Uncle | 🇰🇷 Manhwa | TBD | Ch. 109 / Ongoing | ⏸️ On Hold |
 
 ---
 
@@ -141,6 +141,6 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 ---
 
-*Last Updated: 27th February 2026*
+*Last Updated: 28th February 2026*
 
 </div>
