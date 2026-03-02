@@ -18,7 +18,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **On Hiatus** | 1 |
 | **Dropped** | 0 |
 | **Most Read Origin** | 🇰🇷 Manhwa (Korea) |
-| **Most Read Genre** | Fantasy (most titles) |
+| **Most Read Genre** | Fantasy (6 series) |
 
 ---
 
@@ -36,11 +36,9 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Genre** | **Series** | **Chapters Read** | **Average Rating** |
 |:---|:---:|:---:|:---:|
-| Comedy | 3 | 815 | 6.56 |
-| Fantasy | 4 | 344 | 6.76 |
-| Sci-Fi | 1 | 303 | 7.10 |
-| Martial Arts | 1 | 165 | 7.83 |
-| Historical | 1 | 88 | 7.85 |
+| Drama | 3 | 577 | 7.78 |
+| Fantasy | 6 | 973 | 6.39 |
+| Murim | 1 | 165 | 7.83 |
 
 ---
 
@@ -68,15 +66,15 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Rank** | **Series** | **Origin** | **Rating** | **Genre** | **Status** |
 |:---:|:---|:---:|:---:|:---:|:---:|
-| 1 | [My Superstar Uncle](../titles/my_superstar_uncle.md) | 🇰🇷 Manhwa | 8.40 | Comedy | Completed |
+| 1 | [My Superstar Uncle](../titles/my_superstar_uncle.md) | 🇰🇷 Manhwa | 8.40 | Drama | Completed |
 | 2 | [Raising Villains the Right Way](../titles/raising_villains_the_right_way.md) | 🇰🇷 Manhwa | 8.20 | Fantasy | On Hold |
-| 3 | [I Shall Live as a Prince](../titles/i_shall_live_as_a_prince.md) | 🇰🇷 Manhwa | 7.85 | Historical | Completed |
-| 4 | [Heavenly Grand Archive's Young Master](../titles/heavenly_grand_archives_young_master.md) | 🇰🇷 Manhwa | 7.83 | Martial Arts | On Hold |
+| 3 | [I Shall Live as a Prince](../titles/i_shall_live_as_a_prince.md) | 🇰🇷 Manhwa | 7.85 | Drama | Completed |
+| 4 | [Heavenly Grand Archive's Young Master](../titles/heavenly_grand_archives_young_master.md) | 🇰🇷 Manhwa | 7.83 | Murim | On Hold |
 | 5 | [8th Circle Mage Reborn](../titles/8th_circle_mage_reborn.md) | 🇰🇷 Manhwa | 7.68 | Fantasy | Completed |
-| 6 | [Eternal Club](../titles/eternal_club.md) | 🇨🇳 Manhua | 7.10 | Sci-Fi | Completed |
+| 6 | [Eternal Club](../titles/eternal_club.md) | 🇨🇳 Manhua | 7.10 | Drama | Completed |
 | 7 | [The Top Dungeon Farmer](../titles/the_top_dungeon_farmer.md) | 🇰🇷 Manhwa | 6.30 | Fantasy | On Hold |
-| 8 | [Am I Invincible](../titles/am_i_invincible.md) | 🇨🇳 Manhua | 6.15 | Comedy | Completed |
-| 9 | [Beyond Myriad Peoples](../titles/beyond_myriad_peoples.md) | 🇨🇳 Manhua | 5.13 | Comedy | Hiatus |
+| 8 | [Am I Invincible](../titles/am_i_invincible.md) | 🇨🇳 Manhua | 6.15 | Fantasy | Completed |
+| 9 | [Beyond Myriad Peoples](../titles/beyond_myriad_peoples.md) | 🇨🇳 Manhua | 5.13 | Fantasy | Hiatus |
 | 10 | [Kim Ohjin's Adventures with Strange Animals](../titles/kim_ohjins_adventures_with_strange_animals.md) | 🇰🇷 Manhwa | 4.87 | Fantasy | On Hold |
 
 ---
@@ -96,11 +94,11 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Series** | **Origin** | **Genre** | **Rating** | **Progress** | **Completed Date** |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| [My Superstar Uncle](../titles/my_superstar_uncle.md) | 🇰🇷 Manhwa | Comedy | 8.4/10 | 186 / 186 | 2nd Mar 2026 |
-| [Eternal Club](../titles/eternal_club.md) | 🇨🇳 Manhua | Sci-Fi | 7.10/10 | 303 / 303 | 16th Feb 2026 |
+| [My Superstar Uncle](../titles/my_superstar_uncle.md) | 🇰🇷 Manhwa | Drama | 8.4/10 | 186 / 186 | 2nd Mar 2026 |
+| [Eternal Club](../titles/eternal_club.md) | 🇨🇳 Manhua | Drama | 7.10/10 | 303 / 303 | 16th Feb 2026 |
 | [8th Circle Mage Reborn](../titles/8th_circle_mage_reborn.md) | 🇰🇷 Manhwa | Fantasy | 7.68/10 | 160 / 160 | 7th Feb 2026 |
-| [Am I Invincible](../titles/am_i_invincible.md) | 🇨🇳 Manhua | Comedy | 6.15/10 | 315 / 315 | 3rd Feb 2026 |
-| [I Shall Live as a Prince](../titles/i_shall_live_as_a_prince.md) | 🇰🇷 Manhwa | Historical | 7.85/10 | 88 / 88 | 2nd Jul 2024 |
+| [Am I Invincible](../titles/am_i_invincible.md) | 🇨🇳 Manhua | Fantasy | 6.15/10 | 315 / 315 | 3rd Feb 2026 |
+| [I Shall Live as a Prince](../titles/i_shall_live_as_a_prince.md) | 🇰🇷 Manhwa | Drama | 7.85/10 | 88 / 88 | 2nd Jul 2024 |
 
 ---
 
@@ -110,7 +108,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Series** | **Origin** | **Genre** | **Rating** | **Progress** | **Release Schedule** |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| [Heavenly Grand Archive's Young Master](../titles/heavenly_grand_archives_young_master.md) | 🇰🇷 Manhwa | Martial Arts | 7.83/10 | Ch. 165 / Ongoing | Weekly |
+| [Heavenly Grand Archive's Young Master](../titles/heavenly_grand_archives_young_master.md) | 🇰🇷 Manhwa | Murim | 7.83/10 | Ch. 165 / Ongoing | Weekly |
 | [Kim Ohjin's Adventures with Strange Animals](../titles/kim_ohjins_adventures_with_strange_animals.md) | 🇰🇷 Manhwa | Fantasy | 4.87/10 | Ch. 46 / Ongoing | Weekly |
 | [Raising Villains the Right Way](../titles/raising_villains_the_right_way.md) | 🇰🇷 Manhwa | Fantasy | 8.2/10 | Ch. 24 / Ongoing | Weekly |
 | [The Top Dungeon Farmer](../titles/the_top_dungeon_farmer.md) | 🇰🇷 Manhwa | Fantasy | 6.30/10 | Ch. 114 / Ongoing | Weekly |
@@ -131,7 +129,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Series** | **Origin** | **Genre** | **Rating** | **Progress** | **Hiatus Date** |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| [Beyond Myriad Peoples](../titles/beyond_myriad_peoples.md) | 🇨🇳 Manhua | Comedy | 5.13/10 | 314 / 314 | 26th Mar 2024 |
+| [Beyond Myriad Peoples](../titles/beyond_myriad_peoples.md) | 🇨🇳 Manhua | Fantasy | 5.13/10 | 314 / 314 | 26th Mar 2024 |
 
 ---
 
@@ -149,7 +147,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Series** | **Origin** | **Genre** | **Rating** | **Progress** | **Completed Date** |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| [Eternal Club](../titles/eternal_club.md) | 🇨🇳 Manhua | Sci-Fi | 7.10/10 | 303 / 303 (Cancelled 5th Nov 2024) | 16th Feb 2026 |
+| [Eternal Club](../titles/eternal_club.md) | 🇨🇳 Manhua | Drama | 7.10/10 | 303 / 303 (Cancelled 5th Nov 2024) | 16th Feb 2026 |
 
 ---
 

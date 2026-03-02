@@ -10,7 +10,7 @@
 | Author | Boyi Animation (博易动漫) |
 | Artist | Boyi Animation (博易动漫) |
 | Origin | 🇨🇳 Manhua |
-| Genre | Action / Comedy / Fantasy / Martial Arts / Shounen |
+| Genre | Action / Comedy / Fantasy / Murim / Shounen |
 | Status | Hiatus |
 | Chapters Read | 314 / 314 (Hiatus since 26th March 2024) |
 | Start Date | 7th February 2026 |

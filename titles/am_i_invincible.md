@@ -10,7 +10,7 @@
 | Author | 戏柳先生 |
 | Artist | 创易文化, 番茄小说网 |
 | Origin | 🇨🇳 Manhua |
-| Genre | Action / Comedy / Fantasy / Historical / Martial Arts / Romance / Shounen |
+| Genre | Action / Comedy / Fantasy / Historical / Murim / Romance / Shounen |
 | Status | Completed |
 | Chapters Read | 315 / 315 |
 | Start Date | 9th November 2024 |
