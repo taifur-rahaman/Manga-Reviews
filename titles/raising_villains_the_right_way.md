@@ -4,13 +4,13 @@
 
 | | |
 |---|---|
-| Original Title | 악당들의 후원자가 되었다 (Akdangdeul-ui Huweonjaga Doeeotda) |
-| Alternative Title | Became the Patron of Villains / The Patron of Villains |
-| Release Year | 2023 |
-| Author | Bomhanbangul |
-| Artist | LICO |
+| Original Title | 악당들의 후원자가 되었다 |
+| Alternative Title | Became the Patron of Villains / I Became the Patron of Villains / Became a Supporter of Villains |
+| Release Year | 2025 |
+| Author | Bomhan Bangul, LICO |
+| Artist | Jogen |
 | Origin | 🇰🇷 Manhwa |
-| Genre | Action / Fantasy / Isekai / Reincarnation |
+| Genre | Action / Comedy / Drama / Fantasy / Shounen |
 | Status | On Hold |
 | Chapters Read | 24 / Ongoing |
 | Start Date | 27th February 2026 |

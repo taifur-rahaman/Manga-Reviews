@@ -5,12 +5,12 @@
 | | |
 |---|---|
 | Original Title | 万人之上 (Wàn Rén Zhī Shàng) |
-| Alternative Title | Above Ten Thousand People / Above Myriads |
+| Alternative Title | Above Ten Thousand People / Beyond Myriad Peoples |
 | Release Year | 2021 |
-| Author | Boyi Animation |
-| Artist | Boyi Animation |
+| Author | Boyi Animation (博易动漫) |
+| Artist | Boyi Animation (博易动漫) |
 | Origin | 🇨🇳 Manhua |
-| Genre | Action / Comedy / Cultivation / Fantasy / Slice of Life |
+| Genre | Action / Comedy / Fantasy / Martial Arts / Shounen |
 | Status | Hiatus |
 | Chapters Read | 314 / 314 (Hiatus since 26th March 2024) |
 | Start Date | 7th February 2026 |
@@ -23,7 +23,7 @@
 
 *(To be updated as I continue reading)*
 
-"Beyond Myriad Peoples" (often known as "Above Ten Thousand People") is a comedy cultivation manhua about a protagonist who is an unmatched powerhouse but believes he is a mere mortal without any cultivation base. He lives a "simple" life, unaware that his every action shakes the world and that the "items" he creates are supreme artifacts.
+*Beyond Myriad Peoples* is a comedy cultivation manhua. Tens of thousands of big shots grovel at Lin Fan’s feet, yet he just says, “I’m really just an ordinary mortal, though…” An unmatched powerhouse who believes he has no cultivation base, Lin Fan lives a “simple” life, unaware that his every action shakes the world and that the ordinary items he creates are supreme artefacts.
 
 ## Story & World
 

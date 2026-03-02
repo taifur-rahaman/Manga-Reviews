@@ -4,13 +4,13 @@
 
 | | |
 |---|---|
-| Original Title | 나 혼자 탑에서 농사 (Na Honja Tap-eseo Nongsa) |
-| Alternative Title | Solo Farming in the Tower / Farming in the Tower Alone |
+| Original Title | 나 혼자 탑에서 농사 |
+| Alternative Title | Solo Farming in the Tower / Farming in the Tower Alone / Solo Dungeon Farming |
 | Release Year | 2023 |
-| Author | sdcknight |
-| Artist | Lee Ha-kyung |
+| Author | Lim Hyeong, sdcknight |
+| Artist | Lee Ha Kyung |
 | Origin | 🇰🇷 Manhwa |
-| Genre | Fantasy / Isekai / Slice of Life / Adventure |
+| Genre | Adventure / Drama / Fantasy / Shounen |
 | Status | On Hold |
 | Chapters Read | 114 / Ongoing (Season 2) |
 | Start Date | 16th February 2026 |

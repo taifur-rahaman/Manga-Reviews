@@ -4,13 +4,13 @@
 
 | | |
 |---|---|
-| Original Title | 我什么时候无敌了 (Wǒ Shénme Shíhòu Wúdíle) |
-| Alternative Title | When Did I Become Invincible? / When Did I Become Unbeatable? / Since When Am I Invincible |
-| Release Year | 2023 |
-| Author | Xì Liǔ Xiānshēng / Bilibili |
-| Artist | Xì Liǔ Xiānshēng / Bilibili |
+| Original Title | 我什么时候无敌了 |
+| Alternative Title | When Did I Become Unbeatable? / When Did I Become Invincible? / Since When Am I Invincible |
+| Release Year | 2021 |
+| Author | 戏柳先生 |
+| Artist | 创易文化, 番茄小说网 |
 | Origin | 🇨🇳 Manhua |
-| Genre | Action / Comedy / Fantasy / Murim |
+| Genre | Action / Comedy / Fantasy / Historical / Martial Arts / Romance / Shounen |
 | Status | Completed |
 | Chapters Read | 315 / 315 |
 | Start Date | 9th November 2024 |
@@ -21,9 +21,9 @@
 
 ## Overview
 
-"Am I Invincible" follows a protagonist who is unknowingly overpowered. He believes he is a mortal surrounded by cultivating experts, while in reality, he is the most powerful being around. The story revolves around the comedic misunderstandings that ensue as he interacts with the cultivation world, often resolving major crises by accident or through simple actions he deems mundane.
+*Am I Invincible* follows a protagonist who had always thought he was just a commoner. He never knew that he had a collection of heavenly items stored at home — even the chicken he rears is a phoenix. After five years living as a commoner, the system finally allows him to interact with cultivators. That's when he realizes the truth: the most powerful cultivators collapse in fear when they see him and start kneeling before him, despite him doing absolutely nothing extraordinary.
 
-I can relate this Manhua to the anime *Overlord*. Actually, the Protagonist is more clueless than Ainz. He didn't even know what he did and why everyone keeps calling him a senior. Also the Protagonist has so many alternative names that I forgot what he was called to begin with.
+A hilarious cultivation comedy built entirely on the gap between what the MC perceives and what is actually happening around him.
 
 ## Story & World
 

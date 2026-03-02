@@ -4,13 +4,13 @@
 
 | | |
 |---|---|
-| Original Title | 천상대전각 도련님 (Cheonsang Daejeon-gak Doryeonnim) |
-| Alternative Title | - |
-| Release Year | 2024 |
-| Author | Midnight Studio |
+| Original Title | 천화서고 대공자 (Cheonhwa Seogo Daegongja) |
+| Alternative Title | Cheonhwa Archive's Young Master |
+| Release Year | 2023 |
+| Author | 128, Kim Hyun-Young |
 | Artist | Midnight Studio |
 | Origin | 🇰🇷 Manhwa |
-| Genre | Fantasy / Action / Martial Arts |
+| Genre | Action / Comedy / Historical / Martial Arts / Seinen |
 | Status | On Hold (Ongoing - Weekly Updates) |
 | Chapters Read | 165 / Ongoing |
 | Start Date | 17th January 2026 |
@@ -23,7 +23,7 @@
 
 *(To be updated as I continue reading)*
 
-"Heavenly Grand Archive's Young Master" follows the story of a young master connected to the legendary Heavenly Grand Archive, a repository of celestial knowledge and martial arts techniques. The series combines elements of traditional martial arts with fantasy elements, creating an engaging narrative about power, knowledge, and destiny.
+*Heavenly Grand Archive's Young Master* follows Hoo Gong, once hailed as the Murim Alliance leader, who suddenly awakens in the body of Beom Hang — the disgraced young master of the Cheonhwa Family. Broken in mind and body, Beom Hang had no future left. But things are different now: with the power carried over from his past life discarded, Hoo Gong will teach the martial world that true strength never dies.
 
 ## Story & World
 
@@ -100,8 +100,6 @@ Currently enjoying the series at chapter 165. The weekly release schedule makes 
 
 ## Additional Context
 
-"Heavenly Grand Archive's Young Master" is serialized with weekly chapter releases (sometimes with longer intervals), making it ideal for readers who prefer to catch up periodically rather than follow ongoing series chapter-by-chapter.
-
-The series is ongoing, with new chapters released regularly through Mihon platform.
+Serialized with regular chapter releases on Kakao. The series has 171 chapters in the country of origin as of early 2026. Published under the official title *Heavenly Grand Archive's Young Master* (also known as *Cheonhwa Archive's Young Master*) on MangaUpdates.
 
 ---

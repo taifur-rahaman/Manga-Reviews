@@ -4,13 +4,13 @@
 
 | |                             |
 |--------------------|-----------------------------| 
-| Original Title     | 김오진의 이상한 동물 모험기   |
-| Alternative Title  | -                           |
-| Release Year       | 2023                        |
-| Author             | Giseon                      |
-| Artist             | Philsallin                  |
+| Original Title     | 김오진과 이상한 동물들   |
+| Alternative Title  | Kim O-jin and the Strange Animals / Vet in Another World: Kim Oh-jin and His Fantastic Beasts / Dr. Kim's Odd Creatures                           |
+| Release Year       | 2025                        |
+| Author             | Kisun                       |
+| Artist             | Pilsallin                   |
 | Origin             | 🇰🇷 Manhwa                  |
-| Genre              | Fantasy / Adventure / Comedy |
+| Genre              | Adventure / Comedy / Fantasy / Slice of Life |
 | Status             | On Hold                     |
 | Chapters Read      | 46 / Ongoing                |
 | Start Date         | 30th January 2026           |
@@ -23,7 +23,7 @@
 
 ## Overview
 
-Kim Ohjin's Adventures with Strange Animals follows a 32-year-old veterinarian facing bankruptcy who gets unexpectedly summoned by a dragon to treat its beloved pet. After successfully healing the creature, he's transported to a fantasy world where he establishes himself as a renowned doctor treating magical and strange creatures. It's a unique blend of veterinary medicine meets fantasy adventure with comedic elements.
+*Kim Ohjin's Adventures with Strange Animals* follows veterinarian Kim Ohjin, who was unexpectedly summoned by a dragon. After successfully treating the dragon’s pet, he returns home — only to find himself in another world. His old clinic was on the verge of closing, but here, in this strange new world, he’s a renowned doctor. Now he’s setting his sights on a second clinic and, hopefully, a big success.
 
 ## Story & World
 

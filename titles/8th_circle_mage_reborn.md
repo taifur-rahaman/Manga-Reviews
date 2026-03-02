@@ -4,13 +4,13 @@
 
 | | |
 |---|---|
-| Original Title | 8서클 마법사의 환생 (8 Circle Mabeopsa-ui Hwansaeng) |
-| Alternative Title | The Rebirth of an 8th-Circled Wizard / Return of the 8th Circle Mage |
+| Original Title | 8서클 마법사의 환생 |
+| Alternative Title | The Rebirth of an 8th-Circled Mage / The Rebirth of an 8th Circled Wizard / Rebirth of the 8-Circled Mage |
 | Release Year | 2020 |
-| Author | Zary |
-| Artist | Studio Inus / chleo |
+| Author | Inus Studio, Jari |
+| Artist | chleo |
 | Origin | 🇰🇷 Manhwa |
-| Genre | Action / Fantasy / Magic / Regression |
+| Genre | Action / Drama / Fantasy / Historical / Shounen |
 | Status | Completed |
 | Chapters Read | 160 / 160 (Completed) |
 | Start Date | 3rd February 2026 |
@@ -21,9 +21,9 @@
 
 ## Overview
 
-"8th Circle Mage Reborn" follows Henry Morris, an 8th-circle wizard who is executed under false accusations of treason. After his death, he is reborn into a new body with all his magical knowledge and memories intact. Now, armed with the power of an 8th-circle mage in a younger body, Henry seeks revenge against those who betrayed him and aims to change his tragic fate.
+*8th Circle Mage Reborn* follows Henry Morris, a powerful 8th-circle mage who devoted his magic to the good of the empire — until the corrupt king Silver Jackson Edward took the throne and had him beheaded on fabricated treason charges. Moments after death, Henry awakens in a new body: the lowly, talentless son of a baronet who shares his name. Armed with all his magical knowledge and memories, he sets out into the Demon Forest to reclaim his 8th-circle power and take revenge against the king who destroyed him.
 
-*This is a classic regression/reincarnation revenge story with a magic-focused power system. The series completed its run on December 6, 2023, with a total of 160 chapters.*
+*The series completed its run at 160 chapters.*
 
 ## Story & World
 
@@ -91,3 +91,12 @@ The real kicker is the enjoyment factor—solid 8.0. Despite being somewhat form
 - Archmage Streamer (Manhwa - Regression with magic)
 - Return of the Disaster-Class Hero (Manhwa - Regression, revenge)
 - SSS-Class Suicide Hunter (Manhwa - Regression with unique power system)
+
+---
+
+## Additional Context
+
+Serialized on Kakao. The series completed at 160 chapters. Published under the official title *The Rebirth of an 8th-Circled Mage* on MangaUpdates.
+
+---
+

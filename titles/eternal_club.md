@@ -4,13 +4,13 @@
 
 | | |
 |---|---|
-| Original Title | 永生俱乐部 (Yǒngshēng Jùlèbù) |
-| Alternative Title | Immortality Club / Lifespan Club |
-| Release Year | 2020 |
+| Original Title | 我打造了长生俱乐部 (Wǒ Dǎzàole Chángshēng Jùlèbù) |
+| Alternative Title | I Built a Lifespan Club / I Created the Club of Immortality / I Built the Club of Longevity |
+| Release Year | 2021 |
 | Author | Wo Xing Yu, Xiao Dong Zai, Three Kilowatts |
 | Artist | Wo Xing Yu, Xiao Dong Zai, Three Kilowatts |
 | Origin | 🇨🇳 Manhua |
-| Genre | Action / Drama / Sci-Fi / Supernatural |
+| Genre | Action / Drama / Fantasy / Psychological / Sci-Fi / Shounen / Supernatural |
 | Status | Completed |
 | Chapters Read | 303 / 303 (Cancelled 5th Nov 2024) |
 | Start Date | 13th February 2026 |
@@ -21,15 +21,15 @@
 
 ## Overview
 
-"Eternal Club" is a supernatural sci-fi manhua about Lu Li, an ordinary worker who gains the extraordinary ability to buy and sell "Life" and "Lifespan" from people, and to manipulate time. With this newfound power, he sets out to create a top-tier "Immortality Club." The series explores themes of mortality, power, and the price of eternal life through a modern urban fantasy lens with secret organization building at its core.
+*Eternal Club* follows Chen Li, an ordinary worker in Mo City stuck in a daily grind with no prospects — until one night he obtains a special ability: the power to buy and sell “Time” and “Lifespan” from people, accelerate time, and slow it down. With this extraordinary gift, he begins building a top-class “Lifespan Club,” constructing a secret organisation that operates on the very currency of human life.
 
 ## Story & World
 
-The story unfolds in a modern urban setting where Lu Li discovers the ability to manipulate lifespans and time itself. What starts as a personal power fantasy quickly evolves into complex empire-building as he establishes the "Eternal Club," recruiting members and building an organization that operates in the shadows of society. The world-building blends contemporary reality with supernatural elements, where life and death become commodities that can be traded and manipulated.
+The story unfolds in a modern urban setting where Chen Li discovers the ability to manipulate lifespans and time itself. What starts as a personal power fantasy quickly evolves into complex empire-building as he establishes the “Lifespan Club” (also called the Eternal Club), recruiting members and building an organisation that operates in the shadows of society. The world-building blends contemporary reality with supernatural elements, where life and death become commodities that can be traded and manipulated.
 
 ## Characters
 
-**Lu Li (Protagonist)** - An ordinary worker turned mastermind after gaining the ability to manipulate life and lifespan. His transformation from pushover to strategic leader happens quickly—perhaps too quickly—but his cautious, long-term approach to building the Immortality Club makes him an engaging protagonist despite the rushed character development.
+**Chen Li (Protagonist)** — An ordinary worker turned mastermind after gaining the ability to manipulate life and lifespan. His transformation from pushover to strategic leader happens quickly—perhaps too quickly—but his cautious, long-term approach to building the Lifespan Club makes him an engaging protagonist despite the rushed character development.
 
 ## Art & Presentation
 
