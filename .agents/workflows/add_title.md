@@ -38,5 +38,5 @@ Review files live in `titles/<snake_case_title>.md`. Follow the structure of exi
 - If a title is not found on MangaUpdates, note this in the Additional Context section and use the best available alternative source
 - Genre tags should match MangaUpdates exactly — do not invent or add genres not listed there
 - Release year must come from MangaUpdates, not from aggregator platforms which may reflect scanlation dates instead
-- **Chapter counts must always reflect English releases only** — check the MangaUpdates Releases tab for the latest English chapter number
-- Never reference "country of origin" chapter counts in the title file, README, or temporal_distribution
+- **Status field** — show the country-of-origin chapter count for context (e.g. `Ongoing — 324 Chapters in Country of Origin`)
+- **Chapters Read field** — always show what the reader has personally read / `Ongoing` (never cap to CoO total; English access may be limited)

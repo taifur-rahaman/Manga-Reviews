@@ -100,6 +100,6 @@ Currently enjoying the series at chapter 165. The weekly release schedule makes 
 
 ## Additional Context
 
-Serialized with regular chapter releases on Kakao. **171 chapters are available in English** as of early 2026. Published under the official title *Heavenly Grand Archive's Young Master* (also known as *Cheonhwa Archive's Young Master*) on MangaUpdates.
+Serialized with regular chapter releases on Kakao. The series has 171 chapters in country of origin as of early 2026. Published under the official title *Heavenly Grand Archive's Young Master* (also known as *Cheonhwa Archive's Young Master*) on MangaUpdates.
 
 ---
