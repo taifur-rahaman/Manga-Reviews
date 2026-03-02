@@ -59,7 +59,8 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 | 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
 |:---|:---|:---:|:---|:---:|:---:|
-| [Am I Invincible](titles/am_i_invincible.md) | When Did I Become Invincible? / When Did I Become Unbeatable? | 🇨🇳 Manhua | 6.15/10 | 315 / 315 | ✅ Completed |
+| [Am I Invincible](titles/am_i_invincible.md) | When Did I Become Unbeatable? | 🇨🇳 Manhua | 6.15/10 | 315 / 315 | ✅ Completed |
+| [Heavenly Grand Archive's Young Master](titles/heavenly_grand_archives_young_master.md) | Cheonhwa Archive's Young Master | 🇰🇷 Manhwa | 7.83/10 | Ch. 165 / Ongoing | ⏸️ On Hold |
 
 ---
 
@@ -67,8 +68,7 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 | 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
 |:---|:---|:---:|:---:|:---:|:---:|
-
-*No series logged yet. Add your first drama!*
+| [I Shall Live as a Prince](titles/i_shall_live_as_a_prince.md) | My Royal Awakening | 🇰🇷 Manhwa | 7.85/10 | 88 / 88 | ✅ Completed |
 
 ---
 
@@ -76,7 +76,8 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 | 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
 |:---|:---|:---:|:---:|:---:|:---:|
-| [Beyond Myriad Peoples](titles/beyond_myriad_peoples.md) | Above Ten Thousand People / Above Myriads | 🇨🇳 Manhua | 5.13/10 | 314 / 314 | 🚫 Hiatus |
+| [Beyond Myriad Peoples](titles/beyond_myriad_peoples.md) | Above Ten Thousand People | 🇨🇳 Manhua | 5.13/10 | 314 / 314 | 🚫 Hiatus |
+| [Kim Ohjin's Adventures with Strange Animals](titles/kim_ohjins_adventures_with_strange_animals.md) | Kim O-jin and the Strange Animals | 🇰🇷 Manhwa | 4.87/10 | Ch. 46 / Ongoing | ⏸️ On Hold |
 | [My Superstar Uncle](titles/my_superstar_uncle.md) | My Uncle Is a Superstar | 🇰🇷 Manhwa | 8.4/10 | 186 / 186 | ✅ Completed |
 
 ---
@@ -85,10 +86,8 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 | 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
 |:---|:---|:---:|:---|:---:|:---:|
-| [8th Circle Mage Reborn](titles/8th_circle_mage_reborn.md) | Return of the 8th Circle Mage | 🇰🇷 Manhwa | 7.68/10 | 160 / 160 | ✅ Completed |
-| [Heavenly Grand Archive's Young Master](titles/heavenly_grand_archives_young_master.md) | - | 🇰🇷 Manhwa | 7.83/10 | Ch. 165 / Ongoing | ⏸️ On Hold |
+| [8th Circle Mage Reborn](titles/8th_circle_mage_reborn.md) | The Rebirth of an 8th-Circled Mage | 🇰🇷 Manhwa | 7.68/10 | 160 / 160 | ✅ Completed |
 | [I Shall Live as a Prince](titles/i_shall_live_as_a_prince.md) | My Royal Awakening | 🇰🇷 Manhwa | 7.85/10 | 88 / 88 | ✅ Completed |
-| [Kim Ohjin's Adventures with Strange Animals](titles/kim_ohjins_adventures_with_strange_animals.md) | - | 🇰🇷 Manhwa | 4.87/10 | Ch. 46 / Ongoing | ⏸️ On Hold |
 | [Raising Villains the Right Way](titles/raising_villains_the_right_way.md) | Became the Patron of Villains | 🇰🇷 Manhwa | 8.2/10 | Ch. 24 / Ongoing | ⏸️ On Hold |
 | [The Top Dungeon Farmer](titles/the_top_dungeon_farmer.md) | Solo Farming in the Tower | 🇰🇷 Manhwa | 6.30/10 | Ch. 114 / Ongoing | ⏸️ On Hold |
 
@@ -124,7 +123,7 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 | 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
 |:---|:---|:---:|:---:|:---:|:---:|
-| [Eternal Club](titles/eternal_club.md) | Immortality Club / Lifespan Club | 🇨🇳 Manhua | 7.10/10 | 303 / 303 | ✅ Completed |
+| [Eternal Club](titles/eternal_club.md) | I Built a Lifespan Club / I Created the Club of Immortality | 🇨🇳 Manhua | 7.10/10 | 303 / 303 | ✅ Completed |
 
 ---
 
