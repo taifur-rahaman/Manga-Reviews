@@ -15,7 +15,7 @@ Before filling in or updating a title's metadata, look up the series on MangaUpd
 5. **Artist** — As listed under "Artist(s)"
 6. **Type** — Manga / Manhwa / Manhua etc.
 7. **Genres** — All genre tags listed on MangaUpdates
-8. **Status** — Ongoing / Completed / Cancelled, including total chapter count if completed
+8. **Status & Chapter Count** — Ongoing / Completed / Cancelled. **Always use the English-language chapter count** (check the Releases section on MangaUpdates for the latest English release). Never use the country-of-origin chapter count, as the reader only reads in English.
 9. **Season breakdown** — If the series has multiple seasons, note the chapter ranges (e.g. S1: ch.1–82)
 10. **Synopsis** — Use the description from MangaUpdates as the factual basis for the Overview section
 
@@ -38,3 +38,5 @@ Review files live in `titles/<snake_case_title>.md`. Follow the structure of exi
 - If a title is not found on MangaUpdates, note this in the Additional Context section and use the best available alternative source
 - Genre tags should match MangaUpdates exactly — do not invent or add genres not listed there
 - Release year must come from MangaUpdates, not from aggregator platforms which may reflect scanlation dates instead
+- **Chapter counts must always reflect English releases only** — check the MangaUpdates Releases tab for the latest English chapter number
+- Never reference "country of origin" chapter counts in the title file, README, or temporal_distribution

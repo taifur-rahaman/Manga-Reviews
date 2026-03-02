@@ -11,8 +11,8 @@
 | Artist | Fantasy Comics |
 | Origin | 🇨🇳 Manhua |
 | Genre | Action / Adventure / Drama / Fantasy / Murim / Shounen |
-| Status | On Hold (Ongoing - 324 Chapters in Country of Origin) |
-| Chapters Read | - / Ongoing |
+| Status | On Hold (Ongoing — 324 Chapters in English, Translation Stalled) |
+| Chapters Read | - / 324 |
 | Start Date | 2nd March 2026 |
 | Last Read | 2nd March 2026 |
 | End Date | - |
@@ -89,6 +89,6 @@ Early themes emerging:
 
 ## Additional Context
 
-Serialized as an ongoing manhua with 324 chapters in country of origin as of early 2026. Published under the official title *It Turns out That I Have Been Invincible for a Long Time* on MangaUpdates.
+Serialized as an ongoing manhua. As of early 2026, **324 chapters are available in English** (translated by SnowMTL), though the translation has been stalled since July 2025. Published under the official title *It Turns out That I Have Been Invincible for a Long Time* on MangaUpdates.
 
 ---
