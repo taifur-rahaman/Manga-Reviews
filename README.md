@@ -46,14 +46,6 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 ## 📚 Series by Genre
 
-### ⚔️ Action & Adventure
-
-| 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** |  **Rating** | 📖 **Progress** | 🛡️ **Status** |
-|:---|:---|:---:|:---:|:---:|:---:|
-
-*No series logged yet. Add your first action manga/manhwa/manhua!*
-
----
 
 ### 🥋 Murim & Martial Arts
 
@@ -73,14 +65,6 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 ---
 
-### 😂 Comedy
-
-| 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
-|:---|:---|:---:|:---:|:---:|:---:|
-
-*No series logged yet.*
-
----
 
 ### 🌌 Fantasy & Isekai
 
@@ -93,57 +77,10 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 | [Raising Villains the Right Way](titles/raising_villains_the_right_way.md) | Became the Patron of Villains | 🇰🇷 Manhwa | 8.2/10 | Ch. 24 / Ongoing | ⏸️ On Hold |
 | [The Top Dungeon Farmer](titles/the_top_dungeon_farmer.md) | Solo Farming in the Tower | 🇰🇷 Manhwa | 6.30/10 | Ch. 114 / Ongoing | ⏸️ On Hold |
 
----
-
-### ❤️ Romance
-
-| 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
-|:---|:---|:---:|:---:|:---:|:---:|
-
-*No series logged yet.*
-
----
-
-### 👻 Horror & Psychological
-
-| 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
-|:---|:---|:---:|:---:|:---:|:---:|
-
-*No series logged yet. Add your first horror or psychological thriller!*
-
----
-
-### �️ Mystery & Thriller
-
-| 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
-|:---|:---|:---:|:---:|:---:|:---:|
-
-*No series logged yet. Add your first mystery or thriller!*
-
----
-
-### 👽 Sci-Fi & Supernatural
-
-| 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
-|:---|:---|:---:|:---:|:---:|:---:|
-
-*No series logged yet.*
-
----
-
-### 🏃 Sports & Competition
-
-| 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
-|:---|:---|:---:|:---:|:---:|:---:|
-
-*No series logged yet. Add your first sports series!*
-
----
-
-
 
 ---
 
 *Last Updated: 2nd March 2026*
 
 </div>
+

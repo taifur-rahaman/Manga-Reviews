@@ -49,7 +49,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Month** | **Series Started** | **Series Completed** | **Chapters Read** |
 |:---|:---:|:---:|:---:|
 | February 2026 | 6 | 4 | 1247 |
-| March 2026 | 0 | 0 | 77 |
+| March 2026 | 0 | 1 | 77 |
 | January 2026 | 2 | 0 | 211 |
 
 ### By Month (2024)
