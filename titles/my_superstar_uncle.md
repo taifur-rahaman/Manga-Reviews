@@ -11,8 +11,8 @@
 | Artist | Nopni |
 | Origin | 🇰🇷 Manhwa |
 | Genre | Comedy / Fantasy / Romance / Music |
-| Status | Completed (On Hold — Ongoing Series) |
-| Chapters Read | 186 / Ongoing |
+| Status | ✅ Completed (Season 3) |
+| Chapters Read | 186 / 186 |
 | Start Date | 21st February 2026 |
 | Last Read | 2nd March 2026 |
 | End Date | 2nd March 2026 |
@@ -79,8 +79,8 @@ Picked this up around chapter 109 and tore through the remaining ~77 chapters wi
 | **Plot** | **8.0/10** | Simple but well-executed; each arc delivers satisfying payoffs |
 | **Story** | **8.5/10** | Warm, feel-good, and consistently fun across 186 chapters |
 | **Character Development** | **8.0/10** | The uncle is genuinely likable; supporting cast is solid |
-| **Enjoyment** | **9.0/10** | Genuinely one of the more addictive reads — very easy to binge |
-| **Pace** | **8.0/10** | Good momentum through most of the run; minor lulls in later arcs |
+| **Enjoyment** | **9.5/10** | One of the more addictive reads in the archive — shameless "one more chapter" energy |
+| **Pace** | **8.4/10** | Clean arc-to-arc momentum; minor drag in later chapters but never stalls |
 | **Overall** | **8.4/10** | A heartwarming, funny power-fantasy that earns its feel-good vibes |
 
 ## Verdict
@@ -126,6 +126,6 @@ If you ever wanted to see a regular dude casually become the best singer, actor,
 
 ## Additional Context
 
-Serialized on Naver Webtoon with ongoing weekly releases. The series crossed 186 chapters by early 2026. The title is also published under the name *Superstar Uncle* on some aggregator platforms.
+Serialized on Naver Webtoon. The series concluded at Season 3 with 186 chapters as of early 2026. The title is also published under the name *Superstar Uncle* on some aggregator platforms.
 
 ---
