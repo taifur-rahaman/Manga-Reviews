@@ -4,13 +4,13 @@
 
 | | |
 |---|---|
-| Original Title | 슈퍼스타 삼촌 (Syupeo-seuta Samchon) |
-| Alternative Title | Superstar Uncle |
-| Release Year | 2022 |
+| Original Title | 우리 삼촌은 월드스타 |
+| Alternative Title | My Uncle Is a Superstar / My Uncle Is a World Star / My Uncle Is a Super Star |
+| Release Year | 2019 |
 | Author | Huh Wonjin |
 | Artist | Nopni |
 | Origin | 🇰🇷 Manhwa |
-| Genre | Comedy / Fantasy / Romance / Music |
+| Genre | Comedy / Drama / Fantasy / Romance / Slice of Life |
 | Status | ✅ Completed (Season 3) |
 | Chapters Read | 186 / 186 |
 | Start Date | 21st February 2026 |
@@ -21,21 +21,19 @@
 
 ## Overview
 
-*My Superstar Uncle* is the story of an ordinary dude who discovers he can absorb the talents of any celebrity he touches. One accidental brush with a top idol and suddenly he's got the vocal range of a god. A handshake with an acting legend and boom — he's got Oscars-level emotional range. He then waltz into the cutthroat Korean entertainment industry, accumulating borrowed star power like a human Pokémon trainer, all while being incredibly dense about the romantic subplot happening right in front of his face.
+*My Uncle Is a Superstar* follows Woojin — a man who gave up his dreams of singing to look after his mum and niece, ending up as a struggling carpenter. Then an AI robot lands in his life, promising to make his dreams come true. What follows is Woojin's journey from quiet domestic life to becoming a worldwide superstar — accumulating celebrity talents along the way and taking the entertainment industry completely by surprise.
 
-It sounds ridiculous. It absolutely is. And it's a blast.
+It sounds unhinged on paper. It very much is. And it absolutely works.
 
 ## Story & World
 
 The story is set in modern South Korea's entertainment industry — idol groups, acting agencies, music charts, variety shows, the whole circus. The world-building isn't deep fantasy lore stuff; it's grounded in the very real, competitive, and often brutal K-pop and K-drama ecosystem, which actually gives the wish-fulfillment fantasy a surprisingly relatable backdrop.
 
-The plot moves at a good clip. New celebrity encounter → absorb power → new challenge → conquer it → show everyone up. It's not complicated, and it doesn't pretend to be. The entertainment industry arcs (music performance, acting competitions, variety shows) are genuinely fun to read through, with each one showcasing a different absorbed talent.
-
-There's a light romance thread woven throughout, and while it's sweet and adds emotional warmth, don't go in expecting anything too dramatic. The romance is more "comfortable slow burn you root for" than "anguished will-they-won't-they."
+The story runs across three seasons: S1 (ch.1–82) lays the foundation of Woojin's rise; S2 (ch.83–160) expands his star power into new entertainment territories; S3 (ch.161–186) brings it all home. The pacing across seasons is generally clean, with each season having its own satisfying arc shape.
 
 ## Characters
 
-**Protagonist (The Uncle)** — An ordinary man who goes from complete nobody to the entertainment industry's most terrifying secret weapon. What makes him work is that he doesn't act like a typical OP power-fantasy MC. He's charming in a goofy, earnest way — someone who genuinely works hard *on top of* his absurd ability rather than coasting on it. The "uncle" energy is real; he's not a slick cool guy, he's the lovable, slightly dorky guy who somehow keeps winning.
+**Woojin (Protagonist / The Uncle)** — A carpenter turned entertainment powerhouse. Gave up singing to support his family, then gets handed an impossible second chance via an AI robot. What makes him work is that he's not an OP blank slate — he's warm, earnest, and genuinely hard-working *on top of* his absurd ability. The "uncle" energy is real; he's not a slick cool guy, he's the lovable, slightly dorky guy who somehow keeps winning, and you root for him every step of the way.
 
 **Supporting Cast** — There's a solid mix of industry figures, rivals, and people who cycle in and out of the protagonist's life. Some rivals are a bit thin, but the core recurring cast (his niece, his manager, the love interest) all have enough personality to keep things warm and grounded. Nobody feels completely pointless.
 
@@ -126,6 +124,6 @@ If you ever wanted to see a regular dude casually become the best singer, actor,
 
 ## Additional Context
 
-Serialized on Naver Webtoon. The series concluded at Season 3 with 186 chapters as of early 2026. The title is also published under the name *Superstar Uncle* on some aggregator platforms.
+Serialized on Naver Webtoon beginning in 2019. The series concluded with a total of 186 chapters across three seasons: Season 1 (ch.1–82), Season 2 (ch.83–160), Season 3 (ch.161–186). Published under the official English title *My Uncle Is a Superstar* on MangaUpdates. Alternative known titles include *My Uncle Is a World Star* and *My Uncle Is a Super Star*.
 
 ---
