@@ -36,16 +36,11 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Genre** | **Series** | **Chapters Read** | **Average Rating** |
 |:---|:---:|:---:|:---:|
-| Action & Adventure | 0 | 0 | N/A |
-| Drama & Slice of Life | 1 | 88 | 7.85 |
 | Comedy | 3 | 815 | 6.56 |
-| Fantasy & Isekai | 4 | 344 | 6.76 |
-| Romance | 0 | 0 | N/A |
-| Horror & Psychological | 0 | 0 | N/A |
-| Mystery & Thriller | 0 | 0 | N/A |
-| Sci-Fi & Supernatural | 1 | 303 | 7.10 |
-| Sports & Competition | 0 | 0 | N/A |
-| Murim & Martial Arts | 1 | 165 | 7.83 |
+| Fantasy | 4 | 344 | 6.76 |
+| Sci-Fi | 1 | 303 | 7.10 |
+| Martial Arts | 1 | 165 | 7.83 |
+| Historical | 1 | 88 | 7.85 |
 
 ---
 
