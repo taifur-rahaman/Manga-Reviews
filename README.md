@@ -21,10 +21,10 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 | **Metric** | **Value** |
 | :--- | :---: |
-| **📚 Series Documented** | 10 |
+| **📚 Series Documented** | 11 |
 | **📖 Chapters Read** | 1715 |
 | **✅ Series Completed** | 5 |
-| **📗 Currently Reading** | 0 |
+| **📗 Currently Reading** | 1 |
 | **⏸️ On Hold** | 4 |
 | **🚫 On Hiatus** | 1 |
 | **❌ Dropped** | 0 |
@@ -39,8 +39,7 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 | 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🎭 **Genre** | 📖 **Progress** | 📅 **Started** |
 |:---|:---|:---:|:---:|:---:|:---:|
-
-*No series currently being read.*
+| [It Turns Out I've Been Invincible for a Long Time](titles/it_turns_out_ive_been_invincible.md) | I've Been Invincible for a Long Time | 🇨🇳 Manhua | Fantasy | - / Ongoing | 2nd Mar 2026 |
 
 ---
 
@@ -73,6 +72,7 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 | [8th Circle Mage Reborn](titles/8th_circle_mage_reborn.md) | The Rebirth of an 8th-Circled Mage | 🇰🇷 Manhwa | 7.68/10 | 160 / 160 | ✅ Completed |
 | [Am I Invincible](titles/am_i_invincible.md) | When Did I Become Unbeatable? | 🇨🇳 Manhua | 6.15/10 | 315 / 315 | ✅ Completed |
 | [Beyond Myriad Peoples](titles/beyond_myriad_peoples.md) | Above Ten Thousand People | 🇨🇳 Manhua | 5.13/10 | 314 / 314 | 🚫 Hiatus |
+| [It Turns Out I've Been Invincible for a Long Time](titles/it_turns_out_ive_been_invincible.md) | I've Been Invincible for a Long Time | 🇨🇳 Manhua | -/10 | - / Ongoing | 📖 Reading |
 | [Kim Ohjin's Adventures with Strange Animals](titles/kim_ohjins_adventures_with_strange_animals.md) | Kim O-jin and the Strange Animals | 🇰🇷 Manhwa | 4.87/10 | Ch. 46 / Ongoing | ⏸️ On Hold |
 | [Raising Villains the Right Way](titles/raising_villains_the_right_way.md) | Became the Patron of Villains | 🇰🇷 Manhwa | 8.2/10 | Ch. 24 / Ongoing | ⏸️ On Hold |
 | [The Top Dungeon Farmer](titles/the_top_dungeon_farmer.md) | Solo Farming in the Tower | 🇰🇷 Manhwa | 6.30/10 | Ch. 114 / Ongoing | ⏸️ On Hold |

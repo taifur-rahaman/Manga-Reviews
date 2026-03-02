@@ -10,15 +10,15 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Metric** | **Value** |
 |:---|:---:|
-| **Total Series Read** | 10 |
+| **Total Series Read** | 11 |
 | **Total Chapters Read** | 1715 |
 | **Series Completed** | 5 |
-| **Currently Reading** | 0 |
+| **Currently Reading** | 1 |
 | **On Hold** | 4 |
 | **On Hiatus** | 1 |
 | **Dropped** | 0 |
 | **Most Read Origin** | 🇰🇷 Manhwa (Korea) |
-| **Most Read Genre** | Fantasy (6 series) |
+| **Most Read Genre** | Fantasy (7 series) |
 
 ---
 
@@ -28,7 +28,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 🇯🇵 Manga (Japan) | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 🇰🇷 Manhwa (Korea) | 7 | 783 | 3 | 0 | 4 | 0 | 0 |
-| 🇨🇳 Manhua (China) | 3 | 932 | 2 | 0 | 0 | 1 | 0 |
+| 🇨🇳 Manhua (China) | 4 | 932 | 2 | 1 | 0 | 1 | 0 |
 
 ---
 
@@ -37,7 +37,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Genre** | **Series** | **Chapters Read** | **Average Rating** |
 |:---|:---:|:---:|:---:|
 | Drama | 3 | 577 | 7.78 |
-| Fantasy | 6 | 973 | 6.39 |
+| Fantasy | 7 | 973 | 6.39 |
 | Murim | 1 | 165 | 7.83 |
 
 ---
@@ -83,8 +83,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Series** | **Origin** | **Genre** | **Progress** | **Started** |
 |:---|:---:|:---:|:---:|:---:|
-
-*No series currently being read.*
+| [It Turns Out I've Been Invincible for a Long Time](../titles/it_turns_out_ive_been_invincible.md) | 🇨🇳 Manhua | Fantasy | - / Ongoing | 2nd Mar 2026 |
 
 ---
 
@@ -167,6 +166,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | 8 | [The Top Dungeon Farmer](../titles/the_top_dungeon_farmer.md) | 🇰🇷 Manhwa | ⏸️ On Hold | 16th Feb 2026 | 21st Feb 2026 | 21st Feb 2026 | 5 days |
 | 9 | [My Superstar Uncle](../titles/my_superstar_uncle.md) | 🇰🇷 Manhwa | ✅ Completed | 21st Feb 2026 | 2nd Mar 2026 | 2nd Mar 2026 | 9 days |
 | 10 | [Raising Villains the Right Way](../titles/raising_villains_the_right_way.md) | 🇰🇷 Manhwa | ⏸️ On Hold | 27th Feb 2026 | 27th Feb 2026 | 27th Feb 2026 | 1 day |
+| 11 | [It Turns Out I've Been Invincible for a Long Time](../titles/it_turns_out_ive_been_invincible.md) | 🇨🇳 Manhua | 📖 Reading | 2nd Mar 2026 | 2nd Mar 2026 | - | - |
 
 > ¹ **Am I Invincible** — Originally started 9th Nov 2024, put down after Ch. 154. Re-picked up 31st Jan 2026 at Ch. 169 and completed 3rd Feb 2026.
 >
