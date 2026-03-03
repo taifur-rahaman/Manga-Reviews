@@ -1,6 +1,6 @@
 # Temporal Distribution - Manga/Manhwa/Manhua
 
-> **Last Updated:** 2nd March 2026
+> **Last Updated:** 3rd March 2026
 
 This document tracks the temporal distribution of manga/manhwa/manhua series read, organized by origin, genre, and reading progress.
 
@@ -11,10 +11,10 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Metric** | **Value** |
 |:---|:---:|
 | **Total Series Read** | 11 |
-| **Total Chapters Read** | 1715 |
+| **Total Chapters Read** | 1791 |
 | **Series Completed** | 5 |
-| **Currently Reading** | 1 |
-| **On Hold** | 4 |
+| **Currently Reading** | 0 |
+| **On Hold** | 5 |
 | **On Hiatus** | 1 |
 | **Dropped** | 0 |
 | **Most Read Origin** | 🇰🇷 Manhwa (Korea) |
@@ -28,7 +28,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 🇯🇵 Manga (Japan) | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 🇰🇷 Manhwa (Korea) | 7 | 783 | 3 | 0 | 4 | 0 | 0 |
-| 🇨🇳 Manhua (China) | 4 | 932 | 2 | 1 | 0 | 1 | 0 |
+| 🇨🇳 Manhua (China) | 4 | 1008 | 2 | 0 | 1 | 1 | 0 |
 
 ---
 
@@ -37,7 +37,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Genre** | **Series** | **Chapters Read** | **Average Rating** |
 |:---|:---:|:---:|:---:|
 | Drama | 3 | 577 | 7.78 |
-| Fantasy | 7 | 973 | 6.39 |
+| Fantasy | 7 | 1049 | 6.45 |
 | Murim | 1 | 165 | 7.83 |
 
 ---
@@ -72,18 +72,17 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | 4 | [Heavenly Grand Archive's Young Master](../titles/heavenly_grand_archives_young_master.md) | 🇰🇷 Manhwa | 7.83 | Murim | On Hold |
 | 5 | [8th Circle Mage Reborn](../titles/8th_circle_mage_reborn.md) | 🇰🇷 Manhwa | 7.68 | Fantasy | Completed |
 | 6 | [Eternal Club](../titles/eternal_club.md) | 🇨🇳 Manhua | 7.10 | Drama | Completed |
-| 7 | [The Top Dungeon Farmer](../titles/the_top_dungeon_farmer.md) | 🇰🇷 Manhwa | 6.30 | Fantasy | On Hold |
-| 8 | [Am I Invincible](../titles/am_i_invincible.md) | 🇨🇳 Manhua | 6.15 | Fantasy | Completed |
-| 9 | [Beyond Myriad Peoples](../titles/beyond_myriad_peoples.md) | 🇨🇳 Manhua | 5.13 | Fantasy | Hiatus |
-| 10 | [Kim Ohjin's Adventures with Strange Animals](../titles/kim_ohjins_adventures_with_strange_animals.md) | 🇰🇷 Manhwa | 4.87 | Fantasy | On Hold |
+| 7 | [It Turns Out I've Been Invincible for a Long Time](../titles/it_turns_out_ive_been_invincible.md) | 🇨🇳 Manhua | 6.80 | Fantasy | On Hold |
+| 8 | [The Top Dungeon Farmer](../titles/the_top_dungeon_farmer.md) | 🇰🇷 Manhwa | 6.30 | Fantasy | On Hold |
+| 9 | [Am I Invincible](../titles/am_i_invincible.md) | 🇨🇳 Manhua | 6.15 | Fantasy | Completed |
+| 10 | [Beyond Myriad Peoples](../titles/beyond_myriad_peoples.md) | 🇨🇳 Manhua | 5.13 | Fantasy | Hiatus |
+| 11 | [Kim Ohjin's Adventures with Strange Animals](../titles/kim_ohjins_adventures_with_strange_animals.md) | 🇰🇷 Manhwa | 4.87 | Fantasy | On Hold |
 
 ---
 
 ## 📖 Currently Reading
 
-| **Series** | **Origin** | **Genre** | **Progress** | **Started** |
-|:---|:---:|:---:|:---:|:---:|
-| [It Turns Out I've Been Invincible for a Long Time](../titles/it_turns_out_ive_been_invincible.md) | 🇨🇳 Manhua | Fantasy | - / Ongoing | 2nd Mar 2026 |
+*No series currently being actively read.*
 
 ---
 
@@ -108,6 +107,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Series** | **Origin** | **Genre** | **Rating** | **Progress** | **Release Schedule** |
 |:---|:---:|:---:|:---:|:---:|:---:|
 | [Heavenly Grand Archive's Young Master](../titles/heavenly_grand_archives_young_master.md) | 🇰🇷 Manhwa | Murim | 7.83/10 | Ch. 165 / Ongoing | Weekly |
+| [It Turns Out I've Been Invincible for a Long Time](../titles/it_turns_out_ive_been_invincible.md) | 🇨🇳 Manhua | Fantasy | 6.8/10 | Ch. 76 / Ongoing | Weekly |
 | [Kim Ohjin's Adventures with Strange Animals](../titles/kim_ohjins_adventures_with_strange_animals.md) | 🇰🇷 Manhwa | Fantasy | 4.87/10 | Ch. 46 / Ongoing | Weekly |
 | [Raising Villains the Right Way](../titles/raising_villains_the_right_way.md) | 🇰🇷 Manhwa | Fantasy | 8.2/10 | Ch. 24 / Ongoing | Weekly |
 | [The Top Dungeon Farmer](../titles/the_top_dungeon_farmer.md) | 🇰🇷 Manhwa | Fantasy | 6.30/10 | Ch. 114 / Ongoing | Weekly |
@@ -166,7 +166,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | 8 | [The Top Dungeon Farmer](../titles/the_top_dungeon_farmer.md) | 🇰🇷 Manhwa | ⏸️ On Hold | 16th Feb 2026 | 21st Feb 2026 | 21st Feb 2026 | 5 days |
 | 9 | [My Superstar Uncle](../titles/my_superstar_uncle.md) | 🇰🇷 Manhwa | ✅ Completed | 21st Feb 2026 | 2nd Mar 2026 | 2nd Mar 2026 | 9 days |
 | 10 | [Raising Villains the Right Way](../titles/raising_villains_the_right_way.md) | 🇰🇷 Manhwa | ⏸️ On Hold | 27th Feb 2026 | 27th Feb 2026 | 27th Feb 2026 | 1 day |
-| 11 | [It Turns Out I've Been Invincible for a Long Time](../titles/it_turns_out_ive_been_invincible.md) | 🇨🇳 Manhua | 📖 Reading | 2nd Mar 2026 | 2nd Mar 2026 | - | - |
+| 11 | [It Turns Out I've Been Invincible for a Long Time](../titles/it_turns_out_ive_been_invincible.md) | 🇨🇳 Manhua | ⏸️ On Hold | 2nd Mar 2026 | 3rd Mar 2026 | 3rd Mar 2026 | 2 days |
 
 > ¹ **Am I Invincible** — Originally started 9th Nov 2024, put down after Ch. 154. Re-picked up 31st Jan 2026 at Ch. 169 and completed 3rd Feb 2026.
 >
