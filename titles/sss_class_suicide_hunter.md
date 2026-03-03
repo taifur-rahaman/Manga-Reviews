@@ -12,7 +12,7 @@
 | Origin | 🇰🇷 Manhwa |
 | Genre | Action / Adventure / Drama / Fantasy / Shounen |
 | Status | On Hiatus (Manhwa on Hiatus) |
-| Chapters Read | 151 / Ongoing |
+| Chapters Read | 115 / Ongoing |
 | Start Date | 7th November 2024 |
 | Last Read | 13th November 2024 |
 | End Date | - |
@@ -50,9 +50,9 @@ Bill K's art is serviceable — clean enough for action sequences and expressive
 
 ## Personal Notes & Observations
 
-### Progress Update — On Hiatus (Ch. 151)
+### Progress Update — On Hiatus (13th November 2024, Ch. 115)
 
-Read through 151 chapters. The series has genuinely great moments — the civilization arcs where Kim Gong-ja lives through historical tragedies can be surprisingly moving. But the lows drag hard. The philosophical monologuing gets excessive, the MC's growth often feels hand-waved rather than earned, and the tonal inconsistency is a genuine problem. Currently stalled because the manhwa has gone on hiatus — the inconsistency meant the enthusiasm to wait for it wasn't there.
+Read through 115 chapters in about a week. The series has genuinely great moments — the civilization arcs where Kim Gong-ja lives through historical tragedies can be surprisingly moving. But the lows drag hard. The philosophical monologuing gets excessive, the MC's growth often feels hand-waved rather than earned, and the tonal inconsistency is a genuine problem. Currently stalled because the manhwa has gone on hiatus at Ch. 151 — the inconsistency meant the enthusiasm to wait for it wasn't there.
 
 ### Rating Breakdown
 
@@ -98,6 +98,6 @@ But the series can't maintain that quality consistently. The weaker arcs drag, t
 
 ## Additional Context
 
-Based on the completed web novel by Shin Noah (400 chapters, 16 volumes). The manhwa adaptation by Bill K is ongoing with over 150 chapters as of early 2026.
+Based on the completed web novel by Shin Noah (400 chapters, 16 volumes). The manhwa adaptation by Bill K went on hiatus at Chapter 151, with over 151 chapters published as of early 2026.
 
 ---

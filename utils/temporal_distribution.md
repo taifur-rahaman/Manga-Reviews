@@ -11,7 +11,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Metric** | **Value** |
 |:---|:---:|
 | **Total Series Read** | 18 |
-| **Total Chapters Read** | 3746 |
+| **Total Chapters Read** | 3672 |
 | **Series Completed** | 7 |
 | **Currently Reading** | 0 |
 | **On Hold** | 7 |
@@ -27,7 +27,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Origin** | **Series** | **Chapters Read** | **Completed** | **Reading** | **On Hold** | **Hiatus** | **Dropped** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 🇯🇵 Manga (Japan) | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 🇰🇷 Manhwa (Korea) | 12 | 1681 | 5 | 0 | 4 | 3 | 0 |
+| 🇰🇷 Manhwa (Korea) | 12 | 1607 | 5 | 0 | 4 | 3 | 0 |
 | 🇨🇳 Manhua (China) | 6 | 2065 | 2 | 0 | 3 | 1 | 0 |
 
 ---
@@ -37,7 +37,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Genre** | **Series** | **Chapters Read** | **Average Rating** |
 |:---|:---:|:---:|:---:|
 | Drama | 3 | 577 | 7.78 |
-| Fantasy | 13 | 2852 | 7.04 |
+| Fantasy | 13 | 2778 | 7.04 |
 | Murim | 2 | 317 | 8.52 |
 
 ---
@@ -151,8 +151,8 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Series** | **Origin** | **Genre** | **Rating** | **Progress** | **Last Read** |
 |:---|:---:|:---:|:---:|:---:|:---:|
 | [Return of the Mount Hua Sect](../titles/return_of_the_mount_hua_sect.md) | 🇰🇷 Manhwa | Murim | 9.2/10 | Ch. 152 / Ongoing | 13th Oct 2024 |
-| [Lout of Count's Family](../titles/lout_of_counts_family.md) | 🇰🇷 Manhwa | Fantasy | 8.1/10 | Ch. 172 / Ongoing | 27th Sep 2024 |
-| [SSS-Class Suicide Hunter](../titles/sss_class_suicide_hunter.md) | 🇰🇷 Manhwa | Fantasy | 6.5/10 | Ch. 151 / Ongoing | 13th Nov 2024 |
+| [Lout of Count's Family](../titles/lout_of_counts_family.md) | 🇰🇷 Manhwa | Fantasy | 8.1/10 | Ch. 134 / Ongoing | 27th Sep 2024 |
+| [SSS-Class Suicide Hunter](../titles/sss_class_suicide_hunter.md) | 🇰🇷 Manhwa | Fantasy | 6.5/10 | Ch. 115 / Ongoing | 13th Nov 2024 |
 | [Beyond Myriad Peoples](../titles/beyond_myriad_peoples.md) | 🇨🇳 Manhua | Fantasy | 5.13/10 | 314 / 314 | 13th Feb 2026 |
 
 ---

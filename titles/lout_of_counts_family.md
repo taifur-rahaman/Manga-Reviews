@@ -12,7 +12,7 @@
 | Origin | 🇰🇷 Manhwa |
 | Genre | Action / Adventure / Comedy / Fantasy / Shounen |
 | Status | On Hiatus (Manhwa on Hiatus — Season 4) |
-| Chapters Read | 172 / Ongoing |
+| Chapters Read | 134 / Ongoing |
 | Start Date | 16th August 2024 |
 | Last Read | 27th September 2024 |
 | End Date | - |
@@ -50,9 +50,9 @@ PAN4's art is clean, polished, and handles both the comedic and dramatic moments
 
 ## Personal Notes & Observations
 
-### Progress Update — On Hiatus (Ch. 172)
+### Progress Update — On Hiatus (27th September 2024, Ch. 134)
 
-Read through 172 chapters and loved every bit of it. The found-family dynamics are genuinely heartwarming, and Cale's deadpan personality makes even the most dramatic moments land with comedic timing. The story rewards patience — early chapters build a foundation that pays off beautifully later. Currently stalled because the manhwa has gone on hiatus — will resume once it picks back up.
+Binged through 134 chapters over about six weeks and loved every bit of it. The found-family dynamics are genuinely heartwarming, and Cale's deadpan personality makes even the most dramatic moments land with comedic timing. The story rewards patience — early chapters build a foundation that pays off beautifully later. Currently stalled because the manhwa has gone on hiatus at Ch. 172 — will resume once it picks back up.
 
 ### Rating Breakdown
 
@@ -99,6 +99,6 @@ The worldbuilding can be dense and sometimes requires active attention to keep t
 
 ## Additional Context
 
-Based on the popular web novel by Yoo Ryeo Han. The manhwa adaptation is currently in Season 4 as of early 2026. The web novel has over 1,000 chapters with Part 1 completed and Part 2 ongoing.
+Based on the popular web novel by Yoo Ryeo Han. The manhwa adaptation is currently in Season 4 and went on hiatus at Chapter 172. The web novel has over 1,000 chapters with Part 1 completed and Part 2 ongoing.
 
 ---
