@@ -10,10 +10,10 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Metric** | **Value** |
 |:---|:---:|
-| **Total Series Read** | 18 |
-| **Total Chapters Read** | 3672 |
+| **Total Series Read** | 19 |
+| **Total Chapters Read** | 3682 |
 | **Series Completed** | 7 |
-| **Currently Reading** | 0 |
+| **Currently Reading** | 1 |
 | **On Hold** | 7 |
 | **On Hiatus** | 4 |
 | **Dropped** | 0 |
@@ -27,7 +27,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Origin** | **Series** | **Chapters Read** | **Completed** | **Reading** | **On Hold** | **Hiatus** | **Dropped** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 🇯🇵 Manga (Japan) | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 🇰🇷 Manhwa (Korea) | 12 | 1607 | 5 | 0 | 4 | 3 | 0 |
+| 🇰🇷 Manhwa (Korea) | 13 | 1617 | 5 | 1 | 4 | 3 | 0 |
 | 🇨🇳 Manhua (China) | 6 | 2065 | 2 | 0 | 3 | 1 | 0 |
 
 ---
@@ -36,7 +36,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Genre** | **Series** | **Chapters Read** | **Average Rating** |
 |:---|:---:|:---:|:---:|
-| Drama | 3 | 577 | 7.78 |
+| Drama | 4 | 587 | 7.78 |
 | Fantasy | 13 | 2778 | 7.04 |
 | Murim | 2 | 317 | 8.52 |
 
@@ -49,7 +49,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Month** | **Series Started** | **Series Completed** | **Chapters Read** |
 |:---|:---:|:---:|:---:|
 | February 2026 | 6 | 4 | 1247 |
-| March 2026 | 1 | 1 | 77 |
+| March 2026 | 2 | 1 | 87 |
 | January 2026 | 2 | 0 | 211 |
 
 ### By Month (2025)
@@ -100,7 +100,9 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 ## 📖 Currently Reading
 
-*No series currently being actively read.*
+| **Series** | **Origin** | **Genre** | **Rating** | **Progress** |
+|:---|:---:|:---:|:---:|:---:|
+| [Underworld Restaurant](../titles/underworld_restaurant.md) | 🇰🇷 Manhwa | Drama | —/10 | Ch. 10 / Ongoing |
 
 ---
 
@@ -199,6 +201,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | 16 | [My Superstar Uncle](../titles/my_superstar_uncle.md) | 🇰🇷 Manhwa | ✅ Completed | 21st Feb 2026 | 2nd Mar 2026 | 2nd Mar 2026 | 9 days |
 | 17 | [Raising Villains the Right Way](../titles/raising_villains_the_right_way.md) | 🇰🇷 Manhwa | ⏸️ On Hold | 27th Feb 2026 | 27th Feb 2026 | 27th Feb 2026 | 1 day |
 | 18 | [It Turns Out I've Been Invincible for a Long Time](../titles/it_turns_out_ive_been_invincible.md) | 🇨🇳 Manhua | ⏸️ On Hold | 2nd Mar 2026 | 3rd Mar 2026 | 3rd Mar 2026 | 2 days |
+| 19 | [Underworld Restaurant](../titles/underworld_restaurant.md) | 🇰🇷 Manhwa | 📗 Reading | 3rd Mar 2026 | 3rd Mar 2026 | - | - |
 
 > ¹ **Am I Invincible** — Originally started 9th Nov 2024, put down after Ch. 154. Re-picked up 31st Jan 2026 at Ch. 169 and completed 3rd Feb 2026.
 >
