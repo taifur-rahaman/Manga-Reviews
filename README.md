@@ -21,11 +21,11 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 | **Metric** | **Value** |
 | :--- | :---: |
-| **📚 Series Documented** | 11 |
-| **📖 Chapters Read** | 1791 |
-| **✅ Series Completed** | 5 |
+| **📚 Series Documented** | 18 |
+| **📖 Chapters Read** | 3662 |
+| **✅ Series Completed** | 6 |
 | **📗 Currently Reading** | 0 |
-| **⏸️ On Hold** | 5 |
+| **⏸️ On Hold** | 11 |
 | **🚫 On Hiatus** | 1 |
 | **❌ Dropped** | 0 |
 
@@ -47,6 +47,7 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 | 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
 |:---|:---|:---:|:---|:---:|:---:|
+| [Return of the Mount Hua Sect](titles/return_of_the_mount_hua_sect.md) | Return of the Blossoming Blade | 🇰🇷 Manhwa | 9.2/10 | Ch. 152 / Ongoing | ⏸️ On Hold |
 | [Heavenly Grand Archive's Young Master](titles/heavenly_grand_archives_young_master.md) | Cheonhwa Archive's Young Master | 🇰🇷 Manhwa | 7.83/10 | Ch. 165 / Ongoing | ⏸️ On Hold |
 
 ---
@@ -66,13 +67,19 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 | 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
 |:---|:---|:---:|:---|:---:|:---:|
+| [Solo Leveling](titles/solo_leveling.md) | Only I Level Up | 🇰🇷 Manhwa | 9.4/10 | 201 / 201 | ✅ Completed |
+| [The Greatest Estate Developer](titles/the_greatest_estate_developer.md) | The Greatest Estate Designer | 🇰🇷 Manhwa | 8.4/10 | Ch. 212 / Ongoing | ⏸️ On Hold |
+| [Raising Villains the Right Way](titles/raising_villains_the_right_way.md) | Became the Patron of Villains | 🇰🇷 Manhwa | 8.2/10 | Ch. 24 / Ongoing | ⏸️ On Hold |
+| [Lout of Count's Family](titles/lout_of_counts_family.md) | Trash of the Count's Family | 🇰🇷 Manhwa | 8.1/10 | Ch. 134 / Ongoing | ⏸️ On Hold |
 | [8th Circle Mage Reborn](titles/8th_circle_mage_reborn.md) | The Rebirth of an 8th-Circled Mage | 🇰🇷 Manhwa | 7.68/10 | 160 / 160 | ✅ Completed |
+| [I'm Actually a Cultivation Bigshot](titles/im_actually_a_cultivation_bigshot.md) | It Turns Out I'm a Great Immortal | 🇨🇳 Manhua | 7.1/10 | Ch. 584 / Ongoing | ⏸️ On Hold |
+| [Tales of Demons and Gods](titles/tales_of_demons_and_gods.md) | Yao Shen Ji | 🇨🇳 Manhua | 6.9/10 | Ch. 473 / Ongoing | ⏸️ On Hold |
+| [It Turns Out I've Been Invincible for a Long Time](titles/it_turns_out_ive_been_invincible.md) | I've Been Invincible for a Long Time | 🇨🇳 Manhua | 6.8/10 | Ch. 76 / Ongoing | ⏸️ On Hold |
+| [SSS-Class Suicide Hunter](titles/sss_class_suicide_hunter.md) | SSS-Class Revival Hunter | 🇰🇷 Manhwa | 6.5/10 | Ch. 115 / Ongoing | ⏸️ On Hold |
+| [The Top Dungeon Farmer](titles/the_top_dungeon_farmer.md) | Solo Farming in the Tower | 🇰🇷 Manhwa | 6.30/10 | Ch. 114 / Ongoing | ⏸️ On Hold |
 | [Am I Invincible](titles/am_i_invincible.md) | When Did I Become Unbeatable? | 🇨🇳 Manhua | 6.15/10 | 315 / 315 | ✅ Completed |
 | [Beyond Myriad Peoples](titles/beyond_myriad_peoples.md) | Above Ten Thousand People | 🇨🇳 Manhua | 5.13/10 | 314 / 314 | 🚫 Hiatus |
-| [It Turns Out I've Been Invincible for a Long Time](titles/it_turns_out_ive_been_invincible.md) | I've Been Invincible for a Long Time | 🇨🇳 Manhua | 6.8/10 | Ch. 76 / Ongoing | ⏸️ On Hold |
 | [Kim Ohjin's Adventures with Strange Animals](titles/kim_ohjins_adventures_with_strange_animals.md) | Kim O-jin and the Strange Animals | 🇰🇷 Manhwa | 4.87/10 | Ch. 46 / Ongoing | ⏸️ On Hold |
-| [Raising Villains the Right Way](titles/raising_villains_the_right_way.md) | Became the Patron of Villains | 🇰🇷 Manhwa | 8.2/10 | Ch. 24 / Ongoing | ⏸️ On Hold |
-| [The Top Dungeon Farmer](titles/the_top_dungeon_farmer.md) | Solo Farming in the Tower | 🇰🇷 Manhwa | 6.30/10 | Ch. 114 / Ongoing | ⏸️ On Hold |
 
 
 ---
