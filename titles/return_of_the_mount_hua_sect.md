@@ -11,7 +11,7 @@
 | Artist | LICO |
 | Origin | 🇰🇷 Manhwa |
 | Genre | Action / Comedy / Murim / Seinen |
-| Status | On Hold (Ongoing — Season 2) |
+| Status | On Hiatus (Manhwa on Hiatus — Season 2) |
 | Chapters Read | 152 / Ongoing |
 | Start Date | 28th September 2024 |
 | Last Read | 13th October 2024 |
@@ -52,9 +52,9 @@ LICO's artwork is stunning. The martial arts action sequences are some of the be
 
 ## Personal Notes & Observations
 
-### Progress Update — On Hold (13th October 2024, Ch. 152)
+### Progress Update — On Hiatus (13th October 2024, Ch. 152)
 
-Tore through 152 chapters in about two weeks and it immediately shot to the top of my reading list. Chung Myung is one of the most entertaining protagonists I've ever encountered in manhwa — his personality alone carries entire arcs. But it's not just comedy; the moments where his grief for the old Mount Hua breaks through the bluster are genuinely heart-wrenching. The combat art is elite. Going on hold to let chapters accumulate.
+Tore through 152 chapters in about two weeks and it immediately shot to the top of my reading list. Chung Myung is one of the most entertaining protagonists I've ever encountered in manhwa — his personality alone carries entire arcs. But it's not just comedy; the moments where his grief for the old Mount Hua breaks through the bluster are genuinely heart-wrenching. The combat art is elite. Currently on hold because the manhwa itself has gone on hiatus — waiting for it to resume.
 
 ### Rating Breakdown
 

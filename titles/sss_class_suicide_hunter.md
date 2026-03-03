@@ -11,8 +11,8 @@
 | Artist | Bill K |
 | Origin | 🇰🇷 Manhwa |
 | Genre | Action / Adventure / Drama / Fantasy / Shounen |
-| Status | On Hold (Ongoing) |
-| Chapters Read | 115 / Ongoing |
+| Status | On Hiatus (Manhwa on Hiatus) |
+| Chapters Read | 151 / Ongoing |
 | Start Date | 7th November 2024 |
 | Last Read | 13th November 2024 |
 | End Date | - |
@@ -50,9 +50,9 @@ Bill K's art is serviceable — clean enough for action sequences and expressive
 
 ## Personal Notes & Observations
 
-### Progress Update — On Hold (13th November 2024, Ch. 115)
+### Progress Update — On Hiatus (Ch. 151)
 
-Read through 115 chapters in about a week. The series has genuinely great moments — the civilization arcs where Kim Gong-ja lives through historical tragedies can be surprisingly moving. But the lows drag hard. The philosophical monologuing gets excessive, the MC's growth often feels hand-waved rather than earned, and the tonal inconsistency is genuine problem. It's the kind of series where you'd tell someone "it gets really good in certain arcs" — but the inconsistency keeps it from being consistently great.
+Read through 151 chapters. The series has genuinely great moments — the civilization arcs where Kim Gong-ja lives through historical tragedies can be surprisingly moving. But the lows drag hard. The philosophical monologuing gets excessive, the MC's growth often feels hand-waved rather than earned, and the tonal inconsistency is a genuine problem. Currently stalled because the manhwa has gone on hiatus — the inconsistency meant the enthusiasm to wait for it wasn't there.
 
 ### Rating Breakdown
 

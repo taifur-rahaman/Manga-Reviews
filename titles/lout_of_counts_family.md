@@ -11,8 +11,8 @@
 | Artist | PAN4 |
 | Origin | 🇰🇷 Manhwa |
 | Genre | Action / Adventure / Comedy / Fantasy / Shounen |
-| Status | On Hold (Ongoing — Season 4) |
-| Chapters Read | 134 / Ongoing |
+| Status | On Hiatus (Manhwa on Hiatus — Season 4) |
+| Chapters Read | 172 / Ongoing |
 | Start Date | 16th August 2024 |
 | Last Read | 27th September 2024 |
 | End Date | - |
@@ -50,9 +50,9 @@ PAN4's art is clean, polished, and handles both the comedic and dramatic moments
 
 ## Personal Notes & Observations
 
-### Progress Update — On Hold (27th September 2024, Ch. 134)
+### Progress Update — On Hiatus (Ch. 172)
 
-Binged through 134 chapters over about six weeks and loved it. The found-family dynamics are genuinely heartwarming, and Cale's deadpan personality makes even the most dramatic moments land with comedic timing. The story rewards patience — early chapters build a foundation that pays off beautifully later. Put on hold to accumulate chapters and binge again later.
+Read through 172 chapters and loved every bit of it. The found-family dynamics are genuinely heartwarming, and Cale's deadpan personality makes even the most dramatic moments land with comedic timing. The story rewards patience — early chapters build a foundation that pays off beautifully later. Currently stalled because the manhwa has gone on hiatus — will resume once it picks back up.
 
 ### Rating Breakdown
 
@@ -64,7 +64,7 @@ Binged through 134 chapters over about six weeks and loved it. The found-family 
 | **Character Development** | **8.5** | Exceptional found-family dynamics; one of the best ensemble casts in manhwa |
 | **Enjoyment** | **8.0** | Consistently entertaining with great comedic timing |
 | **Pace** | **7.5** | Solid, though the worldbuilding can be dense at times |
-| **Overall** | **8.1/10** | **Excellent series — smart MC, great cast, compelling world** |
+| **Overall** | **8.1/10** | **Excellent series — smart MC, great cast, compelling world — on hiatus** |
 
 ## Verdict
 

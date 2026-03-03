@@ -11,11 +11,11 @@
 | Artist | Kim Hyun-soo |
 | Origin | 🇰🇷 Manhwa |
 | Genre | Action / Adventure / Comedy / Fantasy / Shounen |
-| Status | On Hold (Ongoing — Weekly Updates) |
-| Chapters Read | 212 / Ongoing |
+| Status | Completed |
+| Chapters Read | 222 / 222 |
 | Start Date | 24th August 2024 |
 | Last Read | 8th October 2025 |
-| End Date | - |
+| End Date | 8th October 2025 |
 | Rating | 8.4/10 |
 | Platform | Mihon |
 
@@ -50,9 +50,9 @@ Kim Hyun-soo's art is vibrant and expressive, with a slightly cartoony edge that
 
 ## Personal Notes & Observations
 
-### Progress Update — On Hold (8th October 2025, Ch. 212)
+### Completion Note (8th October 2025, Ch. 222)
 
-Read over the course of about 13 months as a periodic catch-up series. It's the kind of manhwa that's perfect for picking up every few weeks, binging through the accumulated chapters, then putting it back down. The engineering-focused problem-solving stays fresh because each project presents a genuinely different challenge. Lloyd is a consistently entertaining protagonist who never wears out his welcome. One of the best isekai concepts I've encountered.
+Read over the course of about 13 months as a periodic catch-up series and saw it through to completion. The engineering-focused problem-solving stayed fresh right to the end because each project presented a genuinely different challenge. Lloyd is a consistently entertaining protagonist who never wore out his welcome. The final arc wraps the estate's major storylines satisfyingly. One of the best isekai concepts in recent years — and it stuck the landing.
 
 ### Rating Breakdown
 
@@ -64,11 +64,11 @@ Read over the course of about 13 months as a periodic catch-up series. It's the 
 | **Character Development** | **8.0** | Lloyd is consistently entertaining; solid supporting cast |
 | **Enjoyment** | **8.8** | One of the most creatively fun isekai out there |
 | **Pace** | **8.0** | Solid pacing even across 212 chapters; each project feels distinct |
-| **Overall** | **8.4/10** | **Excellent isekai — civil engineering has never been this entertaining** |
+| **Overall** | **8.4/10** | **Excellent isekai with a satisfying conclusion — civil engineering has never been this entertaining** |
 
 ## Verdict
 
-*(Interim verdict at Ch. 212 — to be revised upon completion)*
+*(Final verdict — completed at Ch. 222, 8th October 2025)*
 
 *The Greatest Estate Developer* is proof that the isekai genre can still surprise you. The premise — "what if the isekai cheat power was just a civil engineering degree?" — sounds like a gag, but the execution is anything but. Lloyd doesn't solve problems with magic or martial arts; he draws blueprints, calculates load-bearing capacities, and builds dams. And somehow, it's one of the most entertaining manhwa I've read.
 
