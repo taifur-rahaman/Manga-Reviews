@@ -22,10 +22,10 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 | **Metric** | **Value** |
 | :--- | :---: |
 | **📚 Series Documented** | 19 |
-| **📖 Chapters Read** | 3682 |
+| **📖 Chapters Read** | 3779 |
 | **✅ Series Completed** | 7 |
-| **📗 Currently Reading** | 1 |
-| **⏸️ On Hold** | 7 |
+| **📗 Currently Reading** | 0 |
+| **⏸️ On Hold** | 8 |
 | **🚫 On Hiatus** | 4 |
 | **❌ Dropped** | 0 |
 
@@ -37,9 +37,7 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 ## 📖 Currently Reading
 
-| 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
-|:---|:---|:---:|:---:|:---:|:---:|
-| [Underworld Restaurant](titles/underworld_restaurant.md) | Jeoseung Sikdang | 🇰🇷 Manhwa | —/10 | Ch. 10 / Ongoing | 📗 Reading |
+*No series currently being read.*
 
 ---
 
@@ -61,7 +59,7 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 | [My Superstar Uncle](titles/my_superstar_uncle.md) | My Uncle Is a Superstar | 🇰🇷 Manhwa | 8.4/10 | 186 / 186 | ✅ Completed |
 | [I Shall Live as a Prince](titles/i_shall_live_as_a_prince.md) | My Royal Awakening | 🇰🇷 Manhwa | 7.85/10 | 88 / 88 | ✅ Completed |
 | [Eternal Club](titles/eternal_club.md) | I Built a Lifespan Club | 🇨🇳 Manhua | 7.10/10 | 303 / 303 | ✅ Completed |
-| [Underworld Restaurant](titles/underworld_restaurant.md) | Jeoseung Sikdang | 🇰🇷 Manhwa | —/10 | Ch. 10 / Ongoing | 📗 Reading |
+| [Underworld Restaurant](titles/underworld_restaurant.md) | Jeoseung Sikdang | 🇰🇷 Manhwa | 9.6/10 | Ch. 107 / Ongoing | ⏸️ On Hold |
 
 ---
 
@@ -87,7 +85,7 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 ---
 
-*Last Updated: 3rd March 2026*
+*Last Updated: 4th March 2026*
 
 </div>
 

@@ -12,12 +12,12 @@
 | **Artist** | Hwajeong (S1) / Yoo-jeong (S2) |
 | **Origin** | 🇰🇷 Manhwa |
 | **Genre** | Fantasy / Drama / Slice of Life |
-| **Status** | Currently Reading (Ongoing) |
-| **Chapters Read** | 10 / Ongoing |
+| **Status** | On Hold — Weekly Release (Ongoing) |
+| **Chapters Read** | 107 / Ongoing |
 | **Start Date** | 3rd March 2026 |
-| **Last Read** | 3rd March 2026 |
+| **Last Read** | 4th March 2026 |
 | **End Date** | - |
-| **Rating** | —/10 |
+| **Rating** | 9.6/10 |
 | **Platform** | Mihon |
 
 ---
@@ -54,6 +54,10 @@
 
 Just started reading. 
 
+### Progress Update — On Hold / Weekly Release (4th March 2026, Ch. 107)
+
+Caught up to the latest release. Putting on the weekly release hold list.
+
 ### Rating Breakdown
 
 | **Category** | **Score** | **Notes** |
@@ -63,7 +67,7 @@ Just started reading.
 | **Character Development** | **—** | |
 | **Enjoyment** | **—** | |
 | **Pace** | **—** | |
-| **Overall** | **—/10** | **Too early to rate** |
+| **Overall** | **9.6/10** | |
 
 ## Verdict
 

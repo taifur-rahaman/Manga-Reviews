@@ -1,6 +1,6 @@
 # Temporal Distribution - Manga/Manhwa/Manhua
 
-> **Last Updated:** 3rd March 2026
+> **Last Updated:** 4th March 2026
 
 This document tracks the temporal distribution of manga/manhwa/manhua series read, organized by origin, genre, and reading progress.
 
@@ -11,10 +11,10 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Metric** | **Value** |
 |:---|:---:|
 | **Total Series Read** | 19 |
-| **Total Chapters Read** | 3682 |
+| **Total Chapters Read** | 3779 |
 | **Series Completed** | 7 |
-| **Currently Reading** | 1 |
-| **On Hold** | 7 |
+| **Currently Reading** | 0 |
+| **On Hold** | 8 |
 | **On Hiatus** | 4 |
 | **Dropped** | 0 |
 | **Most Read Origin** | 🇰🇷 Manhwa (Korea) |
@@ -27,7 +27,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Origin** | **Series** | **Chapters Read** | **Completed** | **Reading** | **On Hold** | **Hiatus** | **Dropped** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 🇯🇵 Manga (Japan) | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 🇰🇷 Manhwa (Korea) | 13 | 1617 | 5 | 1 | 4 | 3 | 0 |
+| 🇰🇷 Manhwa (Korea) | 13 | 1714 | 5 | 0 | 5 | 3 | 0 |
 | 🇨🇳 Manhua (China) | 6 | 2065 | 2 | 0 | 3 | 1 | 0 |
 
 ---
@@ -36,7 +36,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Genre** | **Series** | **Chapters Read** | **Average Rating** |
 |:---|:---:|:---:|:---:|
-| Drama | 4 | 587 | 7.78 |
+| Drama | 4 | 684 | 8.24 |
 | Fantasy | 13 | 2778 | 7.04 |
 | Murim | 2 | 317 | 8.52 |
 
@@ -77,32 +77,31 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Rank** | **Series** | **Origin** | **Rating** | **Genre** | **Status** |
 |:---:|:---|:---:|:---:|:---:|:---:|
-| 1 | [Solo Leveling](../titles/solo_leveling.md) | 🇰🇷 Manhwa | 9.40 | Fantasy | Completed |
-| 2 | [Return of the Mount Hua Sect](../titles/return_of_the_mount_hua_sect.md) | 🇰🇷 Manhwa | 9.20 | Murim | Hiatus |
-| 3 | [My Superstar Uncle](../titles/my_superstar_uncle.md) | 🇰🇷 Manhwa | 8.40 | Drama | Completed |
-| 4 | [The Greatest Estate Developer](../titles/the_greatest_estate_developer.md) | 🇰🇷 Manhwa | 8.40 | Fantasy | Completed |
-| 5 | [Raising Villains the Right Way](../titles/raising_villains_the_right_way.md) | 🇰🇷 Manhwa | 8.20 | Fantasy | On Hold |
-| 6 | [Lout of Count's Family](../titles/lout_of_counts_family.md) | 🇰🇷 Manhwa | 8.10 | Fantasy | Hiatus |
-| 7 | [I Shall Live as a Prince](../titles/i_shall_live_as_a_prince.md) | 🇰🇷 Manhwa | 7.85 | Drama | Completed |
-| 8 | [Heavenly Grand Archive's Young Master](../titles/heavenly_grand_archives_young_master.md) | 🇰🇷 Manhwa | 7.83 | Murim | On Hold |
-| 9 | [8th Circle Mage Reborn](../titles/8th_circle_mage_reborn.md) | 🇰🇷 Manhwa | 7.68 | Fantasy | Completed |
-| 10 | [Eternal Club](../titles/eternal_club.md) | 🇨🇳 Manhua | 7.10 | Drama | Completed |
-| 11 | [I'm Actually a Cultivation Bigshot](../titles/im_actually_a_cultivation_bigshot.md) | 🇨🇳 Manhua | 7.10 | Fantasy | On Hold |
-| 12 | [Tales of Demons and Gods](../titles/tales_of_demons_and_gods.md) | 🇨🇳 Manhua | 6.90 | Fantasy | On Hold |
-| 13 | [It Turns Out I've Been Invincible for a Long Time](../titles/it_turns_out_ive_been_invincible.md) | 🇨🇳 Manhua | 6.80 | Fantasy | On Hold |
-| 14 | [SSS-Class Suicide Hunter](../titles/sss_class_suicide_hunter.md) | 🇰🇷 Manhwa | 6.50 | Fantasy | Hiatus |
-| 15 | [The Top Dungeon Farmer](../titles/the_top_dungeon_farmer.md) | 🇰🇷 Manhwa | 6.30 | Fantasy | On Hold |
-| 16 | [Am I Invincible](../titles/am_i_invincible.md) | 🇨🇳 Manhua | 6.15 | Fantasy | Completed |
-| 17 | [Beyond Myriad Peoples](../titles/beyond_myriad_peoples.md) | 🇨🇳 Manhua | 5.13 | Fantasy | Hiatus |
-| 18 | [Kim Ohjin's Adventures with Strange Animals](../titles/kim_ohjins_adventures_with_strange_animals.md) | 🇰🇷 Manhwa | 4.87 | Fantasy | On Hold |
+| 1 | [Underworld Restaurant](../titles/underworld_restaurant.md) | 🇰🇷 Manhwa | 9.60 | Drama | On Hold |
+| 2 | [Solo Leveling](../titles/solo_leveling.md) | 🇰🇷 Manhwa | 9.40 | Fantasy | Completed |
+| 3 | [Return of the Mount Hua Sect](../titles/return_of_the_mount_hua_sect.md) | 🇰🇷 Manhwa | 9.20 | Murim | Hiatus |
+| 4 | [My Superstar Uncle](../titles/my_superstar_uncle.md) | 🇰🇷 Manhwa | 8.40 | Drama | Completed |
+| 5 | [The Greatest Estate Developer](../titles/the_greatest_estate_developer.md) | 🇰🇷 Manhwa | 8.40 | Fantasy | Completed |
+| 6 | [Raising Villains the Right Way](../titles/raising_villains_the_right_way.md) | 🇰🇷 Manhwa | 8.20 | Fantasy | On Hold |
+| 7 | [Lout of Count's Family](../titles/lout_of_counts_family.md) | 🇰🇷 Manhwa | 8.10 | Fantasy | Hiatus |
+| 8 | [I Shall Live as a Prince](../titles/i_shall_live_as_a_prince.md) | 🇰🇷 Manhwa | 7.85 | Drama | Completed |
+| 9 | [Heavenly Grand Archive's Young Master](../titles/heavenly_grand_archives_young_master.md) | 🇰🇷 Manhwa | 7.83 | Murim | On Hold |
+| 10 | [8th Circle Mage Reborn](../titles/8th_circle_mage_reborn.md) | 🇰🇷 Manhwa | 7.68 | Fantasy | Completed |
+| 11 | [Eternal Club](../titles/eternal_club.md) | 🇨🇳 Manhua | 7.10 | Drama | Completed |
+| 12 | [I'm Actually a Cultivation Bigshot](../titles/im_actually_a_cultivation_bigshot.md) | 🇨🇳 Manhua | 7.10 | Fantasy | On Hold |
+| 13 | [Tales of Demons and Gods](../titles/tales_of_demons_and_gods.md) | 🇨🇳 Manhua | 6.90 | Fantasy | On Hold |
+| 14 | [It Turns Out I've Been Invincible for a Long Time](../titles/it_turns_out_ive_been_invincible.md) | 🇨🇳 Manhua | 6.80 | Fantasy | On Hold |
+| 15 | [SSS-Class Suicide Hunter](../titles/sss_class_suicide_hunter.md) | 🇰🇷 Manhwa | 6.50 | Fantasy | Hiatus |
+| 16 | [The Top Dungeon Farmer](../titles/the_top_dungeon_farmer.md) | 🇰🇷 Manhwa | 6.30 | Fantasy | On Hold |
+| 17 | [Am I Invincible](../titles/am_i_invincible.md) | 🇨🇳 Manhua | 6.15 | Fantasy | Completed |
+| 18 | [Beyond Myriad Peoples](../titles/beyond_myriad_peoples.md) | 🇨🇳 Manhua | 5.13 | Fantasy | Hiatus |
+| 19 | [Kim Ohjin's Adventures with Strange Animals](../titles/kim_ohjins_adventures_with_strange_animals.md) | 🇰🇷 Manhwa | 4.87 | Fantasy | On Hold |
 
 ---
 
 ## 📖 Currently Reading
 
-| **Series** | **Origin** | **Genre** | **Rating** | **Progress** |
-|:---|:---:|:---:|:---:|:---:|
-| [Underworld Restaurant](../titles/underworld_restaurant.md) | 🇰🇷 Manhwa | Drama | —/10 | Ch. 10 / Ongoing |
+*No series currently being read.*
 
 ---
 
@@ -128,6 +127,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Series** | **Origin** | **Genre** | **Rating** | **Progress** | **Release Schedule** |
 |:---|:---:|:---:|:---:|:---:|:---:|
+| [Underworld Restaurant](../titles/underworld_restaurant.md) | 🇰🇷 Manhwa | Drama | 9.6/10 | Ch. 107 / Ongoing | Weekly |
 | [Raising Villains the Right Way](../titles/raising_villains_the_right_way.md) | 🇰🇷 Manhwa | Fantasy | 8.2/10 | Ch. 24 / Ongoing | Weekly |
 | [Heavenly Grand Archive's Young Master](../titles/heavenly_grand_archives_young_master.md) | 🇰🇷 Manhwa | Murim | 7.83/10 | Ch. 165 / Ongoing | Weekly |
 | [I'm Actually a Cultivation Bigshot](../titles/im_actually_a_cultivation_bigshot.md) | 🇨🇳 Manhua | Fantasy | 7.1/10 | Ch. 584 / Ongoing | Weekly |
@@ -201,7 +201,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | 16 | [My Superstar Uncle](../titles/my_superstar_uncle.md) | 🇰🇷 Manhwa | ✅ Completed | 21st Feb 2026 | 2nd Mar 2026 | 2nd Mar 2026 | 9 days |
 | 17 | [Raising Villains the Right Way](../titles/raising_villains_the_right_way.md) | 🇰🇷 Manhwa | ⏸️ On Hold | 27th Feb 2026 | 27th Feb 2026 | 27th Feb 2026 | 1 day |
 | 18 | [It Turns Out I've Been Invincible for a Long Time](../titles/it_turns_out_ive_been_invincible.md) | 🇨🇳 Manhua | ⏸️ On Hold | 2nd Mar 2026 | 3rd Mar 2026 | 3rd Mar 2026 | 2 days |
-| 19 | [Underworld Restaurant](../titles/underworld_restaurant.md) | 🇰🇷 Manhwa | 📗 Reading | 3rd Mar 2026 | 3rd Mar 2026 | - | - |
+| 19 | [Underworld Restaurant](../titles/underworld_restaurant.md) | 🇰🇷 Manhwa | ⏸️ On Hold | 3rd Mar 2026 | 4th Mar 2026 | 4th Mar 2026 | 2 days |
 
 > ¹ **Am I Invincible** — Originally started 9th Nov 2024, put down after Ch. 154. Re-picked up 31st Jan 2026 at Ch. 169 and completed 3rd Feb 2026.
 >
