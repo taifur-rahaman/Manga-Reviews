@@ -1,5 +1,7 @@
 # Underworld Restaurant
 
+![Underworld Restaurant Cover](../utils/covers/underworld_restaurant.jpg)
+
 | | |
 |---|---|
 | Original Title | 저승식당 (Jeoseung Sikdang) |
