@@ -1,6 +1,6 @@
 # Underworld Restaurant
 
-![Underworld Restaurant Cover](../utils/covers/underworld_restaurant.jpg)
+![Underworld Restaurant Cover](../utils/covers/underworld_restaurant.png)
 
 | | |
 |---|---|
@@ -8,16 +8,16 @@
 | Alternative Title | Afterlife Diner / Afterlife's Dining / Restaurant in the After Life |
 | Release Year | 2023 |
 | Author | ASSAM (Story) / HYUNG Sangjun (Adapter) |
-| Artist | Hwajeong (S1) / Yoo-jeong (S2+) |
+| Artist | Hwajeong |
 | Origin | 🇰🇷 Manhwa |
-| Genre | Drama / Slice of Life / Supernatural |
+| Genre | Drama / Shounen / Slice of Life / Supernatural |
 | Status | On Hold (Ongoing — Weekly Updates) |
 | Chapters Read | 107 / Ongoing |
 | Start Date | 3rd March 2026 |
 | Last Read | 4th March 2026 |
 | End Date | - |
 | Rating | 9.6/10 |
-| Platform | Mihon |
+| Platform | KakaoPage / Mihon |
 
 ## Overview
 
@@ -48,9 +48,9 @@ The three-season structure gives the series shape without forcing artificial esc
 
 *Rating: 9.5/10*
 
-Hwajeong's work in Season 1 is the benchmark: soft lines, warm palette, and excellent use of food close-ups that genuinely look appetising. The emotional beats land visually — the way a ghost's expression shifts as they eat is a recurring quiet masterclass in subtle character acting.
+Hwajeong's art is the consistent visual backbone throughout all three seasons: soft lines, warm palette, and excellent use of food close-ups that genuinely look appetising. The emotional beats land visually — the way a ghost's expression shifts as they eat is a recurring quiet masterclass in subtle character acting.
 
-The artist change to Yoo-jeong in Season 2 is noticeable but not jarring. The style is slightly cleaner and a touch more polished, but the core warmth of the visual language is preserved. Panel pacing is excellent — scenes are given room to breathe, which matters enormously for a series where silence and stillness carry as much weight as dialogue.
+Panel pacing is excellent throughout — scenes are given room to breathe, which matters enormously for a series where silence and stillness carry as much weight as dialogue. The art style is warm and restrained, never overplaying the supernatural elements and letting the food and faces do the emotional heavy lifting.
 
 ## Themes & Impact
 
@@ -127,7 +127,7 @@ Kangjin is not a protagonist you come for. He's a protagonist you leave with. Qu
 
 ## Additional Context
 
-Based on the completed web novel by HYUNG Sangjun, adapted into webtoon format by ASSAM beginning in 2023. Serialized on Naver Webtoon. The webtoon adaptation experienced an artist change between Season 1 and Season 2 due to health reasons — Hwajeong (S1) was succeeded by Yoo-jeong from Season 2 onward.
+Based on the completed web novel by HYUNG Sangjun, adapted into webtoon format by ASSAM beginning in 2023. Serialized on KakaoPage (Kakao Webtoon). Published in English on Tapas. Art by Hwajeong across all three seasons.
 
 ---
 [⬅️ Back to README](../README.md) | [📊 View Temporal Distribution](../utils/temporal_distribution.md)
