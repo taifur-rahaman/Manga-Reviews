@@ -6,11 +6,11 @@
 |---|---|
 | Original Title | 原来我是修仙大佬 (Yuánlái Wǒ Shì Xiūxiān Dà Lǎo) |
 | Alternative Title | It Turns Out I'm a Great Immortal / I'm Actually a Cultivation Big Shot |
-| Release Year | 2020 |
-| Author | Kinoshita Nakui, Rugao Under The Bridge |
-| Artist | 乱室佳人绘世TONY |
+| Release Year | 2021 |
+| Author | Duoduoluo (木下雉水), Rugao Under The Bridge |
+| Artist | Huishi TONY (乱室佳人) |
 | Origin | 🇨🇳 Manhua |
-| Genre | Action / Comedy / Fantasy / Shounen |
+| Genre | Action / Comedy / Fantasy / Shounen / Slice of Life |
 | Status | On Hold (Ongoing — 600+ Chapters in Country of Origin) |
 | Chapters Read | 584 / Ongoing |
 | Start Date | 6th September 2025 |

@@ -7,10 +7,10 @@
 | Original Title | 백작가의 망나니가 되었다 (Baekjakgaui Mangnaniga Doeeotda) |
 | Alternative Title | Trash of the Count's Family / The Lout of Count's Family |
 | Release Year | 2020 |
-| Author | Yoo Ryeo Han |
+| Author | Yu Ryeo Han |
 | Artist | PAN4 |
 | Origin | 🇰🇷 Manhwa |
-| Genre | Action / Adventure / Comedy / Fantasy / Shounen |
+| Genre | Action / Adventure / Comedy / Drama / Fantasy / Seinen |
 | Status | On Hiatus (Manhwa on Hiatus — Season 4) |
 | Chapters Read | 134 / Ongoing |
 | Start Date | 16th August 2024 |

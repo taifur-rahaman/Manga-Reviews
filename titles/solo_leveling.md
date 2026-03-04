@@ -10,7 +10,7 @@
 | Author | Chugong |
 | Artist | Jang Sung-Rak (Dubu), REDICE Studio |
 | Origin | 🇰🇷 Manhwa |
-| Genre | Action / Adventure / Fantasy / Shounen |
+| Genre | Action / Adventure / Drama / Fantasy / Shounen |
 | Status | Completed |
 | Chapters Read | 201 / 201 |
 | Start Date | 11th September 2024 |

@@ -2,22 +2,22 @@
 
 ![Kim Ohjin's Adventures with Strange Animals Cover](../utils/covers/kim_ohjins_adventures_with_strange_animals.png)
 
-| |                             |
-|--------------------|-----------------------------| 
-| Original Title     | 김오진과 이상한 동물들   |
-| Alternative Title  | Kim O-jin and the Strange Animals / Vet in Another World: Kim Oh-jin and His Fantastic Beasts / Dr. Kim's Odd Creatures                           |
-| Release Year       | 2025                        |
-| Author             | Kisun                       |
-| Artist             | Pilsallin                   |
-| Origin             | 🇰🇷 Manhwa                  |
-| Genre              | Adventure / Comedy / Fantasy / Slice of Life |
-| Status             | On Hold                     |
-| Chapters Read      | 46 / Ongoing                |
-| Start Date         | 30th January 2026           |
-| Last Read          | 2nd February 2026           |
-| End Date           | -                           |
-| Rating             | 4.87/10                   |
-| Platform           | Mihon                       |
+| | |
+|---|---|
+| Original Title | 김오진과 이상한 동물들 |
+| Alternative Title | Kim O-jin and the Strange Animals / Vet in Another World: Kim Oh-jin and His Fantastic Beasts / Dr. Kim's Odd Creatures |
+| Release Year | 2025 |
+| Author | Kisun |
+| Artist | Pilsallin |
+| Origin | 🇰🇷 Manhwa |
+| Genre | Adventure / Comedy / Fantasy / Slice of Life |
+| Status | On Hold |
+| Chapters Read | 46 / Ongoing |
+| Start Date | 30th January 2026 |
+| Last Read | 2nd February 2026 |
+| End Date | - |
+| Rating | 4.87/10 |
+| Platform | Mihon |
 
 
 

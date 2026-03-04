@@ -10,7 +10,7 @@
 | Author | Biga |
 | Artist | LICO |
 | Origin | 🇰🇷 Manhwa |
-| Genre | Action / Comedy / Murim / Seinen |
+| Genre | Action / Adventure / Comedy / Drama / Murim / Shounen |
 | Status | On Hiatus (Manhwa on Hiatus — Season 2) |
 | Chapters Read | 152 / Ongoing |
 | Start Date | 28th September 2024 |

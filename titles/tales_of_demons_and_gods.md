@@ -8,9 +8,9 @@
 | Alternative Title | Yao Shen Ji / TDG |
 | Release Year | 2015 |
 | Author | Mad Snail (发飙的蜗牛) |
-| Artist | Jiang Ruotai |
+| Artist | Jiang Ruotai, Taixue Comics |
 | Origin | 🇨🇳 Manhua |
-| Genre | Action / Adventure / Fantasy / Shounen |
+| Genre | Action / Adventure / Comedy / Fantasy / Shounen |
 | Status | On Hold (Ongoing — Novel on indefinite hiatus) |
 | Chapters Read | 473 / Ongoing |
 | Start Date | 13th May 2024 |

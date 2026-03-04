@@ -8,9 +8,9 @@
 | Alternative Title | When Did I Become Unbeatable? / When Did I Become Invincible? / Since When Am I Invincible |
 | Release Year | 2021 |
 | Author | 戏柳先生 |
-| Artist | 创易文化, 番茄小说网 |
+| Artist | 创易文化 |
 | Origin | 🇨🇳 Manhua |
-| Genre | Action / Comedy / Fantasy / Historical / Murim / Romance / Shounen |
+| Genre | Action / Comedy / Fantasy / Historical / Martial Arts / Romance / Shounen |
 | Status | Completed |
 | Chapters Read | 315 / 315 |
 | Start Date | 9th November 2024 |

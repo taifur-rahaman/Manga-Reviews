@@ -4,13 +4,13 @@
 
 | | |
 |---|---|
-| Original Title | 대군으로 살어리럳다 |
+| Original Title | 대군으로 살어리랏다 |
 | Alternative Title | My Royal Awakening / I Shall Live as a Prince |
 | Release Year | 2020 |
 | Author | Dopamine, Kusa |
 | Artist | Kim Tae-Hyung |
 | Origin | 🇰🇷 Manhwa |
-| Genre | Drama / Fantasy / Historical / Shounen / Supernatural |
+| Genre | Comedy / Drama / Fantasy / Historical / Shounen |
 | Status | Completed |
 | Chapters Read | 88 / 88 (Completed) |
 | Start Date | 29th June 2024 |

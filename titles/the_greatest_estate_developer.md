@@ -6,11 +6,11 @@
 |---|---|
 | Original Title | 역대급 영지 설계사 (Yeokdaegeup Yeongji Seolgyesa) |
 | Alternative Title | The Greatest Estate Designer |
-| Release Year | 2022 |
+| Release Year | 2021 |
 | Author | BK_Moon (novel), Lee Hyun-min (manhwa) |
 | Artist | Kim Hyun-soo |
 | Origin | 🇰🇷 Manhwa |
-| Genre | Action / Adventure / Comedy / Fantasy / Shounen |
+| Genre | Action / Adventure / Comedy / Drama / Fantasy / Shounen |
 | Status | Completed |
 | Chapters Read | 222 / 222 |
 | Start Date | 24th August 2024 |

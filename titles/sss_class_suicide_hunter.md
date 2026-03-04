@@ -4,13 +4,13 @@
 
 | | |
 |---|---|
-| Original Title | SSS급 자살헌터 (SSS-geup Jasal Heonteo) |
+| Original Title | SSS급 죽어야 사는 헌터 |
 | Alternative Title | SSS-Class Revival Hunter |
-| Release Year | 2021 |
-| Author | Shin Noah (novel) |
+| Release Year | 2020 |
+| Author | Neida, Sinnoa |
 | Artist | Bill K |
 | Origin | 🇰🇷 Manhwa |
-| Genre | Action / Adventure / Drama / Fantasy / Shounen |
+| Genre | Action / Adventure / Comedy / Drama / Fantasy / Psychological / Shounen / Supernatural |
 | Status | On Hiatus (Manhwa on Hiatus) |
 | Chapters Read | 115 / Ongoing |
 | Start Date | 7th November 2024 |
