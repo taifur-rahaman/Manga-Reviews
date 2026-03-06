@@ -24,8 +24,8 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 | **📚 Series Documented** | 20 |
 | **📖 Chapters Read** | 3851 |
 | **✅ Series Completed** | 7 |
-| **📗 Currently Reading** | 1 |
-| **⏸️ On Hold** | 8 |
+| **📗 Currently Reading** | 0 |
+| **⏸️ On Hold** | 9 |
 | **🚫 On Hiatus** | 4 |
 | **❌ Dropped** | 0 |
 
@@ -37,9 +37,7 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 ## 📖 Currently Reading
 
-| 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** |
-|:---|:---|:---:|:---:|:---:|
-| [Prices Depreciated, and I Became the World’s Richest Person](titles/prices_depreciated.md) | Prices Depreciate, I Become the Richest Man in the World | 🇨🇳 Manhua | TBD/10 | Ch. 31 / Ongoing |
+*No series currently being read.*
 
 ---
 
@@ -62,7 +60,7 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 | [I Shall Live as a Prince](titles/i_shall_live_as_a_prince.md) | My Royal Awakening | 🇰🇷 Manhwa | 7.85/10 | 88 / 88 | ✅ Completed |
 | [Eternal Club](titles/eternal_club.md) | I Built a Lifespan Club | 🇨🇳 Manhua | 7.10/10 | 303 / 303 | ✅ Completed |
 | [Underworld Restaurant](titles/underworld_restaurant.md) | Jeoseung Sikdang | 🇰🇷 Manhwa | 9.6/10 | Ch. 107 / Ongoing | ⏸️ On Hold |
-| [Prices Depreciated, and I Became the World’s Richest Person](titles/prices_depreciated.md) | Prices Depreciate, I Become the Richest Man in the World | 🇨🇳 Manhua | TBD/10 | Ch. 31 / Ongoing | 📖 Reading |
+| [Prices Depreciated, and I Became the World’s Richest Person](titles/prices_depreciated.md) | Prices Depreciate, I Become the Richest Man in the World | 🇨🇳 Manhua | TBD/10 | Ch. 31 / Ongoing | ⏸️ On Hold |
 
 ---
 
