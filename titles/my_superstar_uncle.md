@@ -2,6 +2,8 @@
 
 ![My Superstar Uncle Cover](../utils/covers/my_superstar_uncle.png)
 
+[MangaUpdates](https://www.mangaupdates.com/series/f3s4f94/my-uncle-is-a-superstar)
+
 | | |
 |---|---|
 | Original Title | 우리 삼촌은 월드스타 |

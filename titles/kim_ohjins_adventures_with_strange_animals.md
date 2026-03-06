@@ -2,6 +2,8 @@
 
 ![Kim Ohjin's Adventures with Strange Animals Cover](../utils/covers/kim_ohjins_adventures_with_strange_animals.png)
 
+[MangaUpdates](https://www.mangaupdates.com/series/k0p99xp/kim-ohjin-s-adventures-with-strange-animals)
+
 | | |
 |---|---|
 | Original Title | 김오진과 이상한 동물들 |

@@ -2,6 +2,8 @@
 
 ![Prices Depreciated, and I Became the World’s Richest Person Cover](../utils/covers/prices_depreciated.png)
 
+[MangaUpdates](https://www.mangaupdates.com/series/bvonnu8/prices-depreciated-and-i-became-the-world-s-richest-person)
+
 | | |
 |---|---|
 | Original Title | 物价贬值，我成了世界首富 |

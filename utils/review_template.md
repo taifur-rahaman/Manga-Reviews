@@ -9,6 +9,8 @@ When creating a new manga/manhwa/manhua review, use the following structure:
 
 ![Cover Image](../utils/covers/[series_name].png)
 
+[MangaUpdates]([mangaupdates_link])
+
 | | |
 |---|---|
 | Original Title | [Original language title] |

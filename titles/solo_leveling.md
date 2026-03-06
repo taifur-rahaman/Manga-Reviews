@@ -2,6 +2,8 @@
 
 ![Solo Leveling Cover](../utils/covers/solo_leveling.png)
 
+[MangaUpdates](https://www.mangaupdates.com/series/6z1uqw7/solo-leveling)
+
 | | |
 |---|---|
 | Original Title | 나 혼자만 레벨업 (Na Honjaman Lebel-eop) |

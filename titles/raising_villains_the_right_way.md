@@ -2,6 +2,8 @@
 
 ![Raising Villains the Right Way Cover](../utils/covers/raising_villains_the_right_way.png)
 
+[MangaUpdates](https://www.mangaupdates.com/series/s1mg88x/the-patron-of-villains)
+
 | | |
 |---|---|
 | Original Title | 악당들의 후원자가 되었다 |

@@ -2,6 +2,8 @@
 
 ![It Turns Out I've Been Invincible for a Long Time Cover](../utils/covers/it_turns_out_ive_been_invincible.png)
 
+[MangaUpdates](https://www.mangaupdates.com/series/obn9k82/yuanlai-wo-zao-jiu-wudile)
+
 | | |
 |---|---|
 | Original Title | 原来我早就无敌了 (Yuánlái Wǒ Zǎo Jiù Wúdíle) |

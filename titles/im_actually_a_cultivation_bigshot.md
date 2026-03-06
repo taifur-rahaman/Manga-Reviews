@@ -2,6 +2,8 @@
 
 ![I'm Actually a Cultivation Bigshot Cover](../utils/covers/im_actually_a_cultivation_bigshot.png)
 
+[MangaUpdates](https://www.mangaupdates.com/series/mpsv6u6/a-big-shot-actually)
+
 | | |
 |---|---|
 | Original Title | 原来我是修仙大佬 (Yuánlái Wǒ Shì Xiūxiān Dà Lǎo) |

@@ -2,6 +2,8 @@
 
 ![8th Circle Mage Reborn Cover](../utils/covers/8th_circle_mage_reborn.png)
 
+[MangaUpdates](https://www.mangaupdates.com/series/kljw00c/8th-circle-mage-reborn)
+
 | | |
 |---|---|
 | Original Title | 8서클 마법사의 환생 |

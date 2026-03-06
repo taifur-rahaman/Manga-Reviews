@@ -2,6 +2,8 @@
 
 ![Am I Invincible Cover](../utils/covers/am_i_invincible.png)
 
+[MangaUpdates](https://www.mangaupdates.com/series/ix6rpma/when-did-i-become-unbeatable)
+
 | | |
 |---|---|
 | Original Title | 我什么时候无敌了 |

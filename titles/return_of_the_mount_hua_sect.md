@@ -2,6 +2,8 @@
 
 ![Return of the Mount Hua Sect Cover](../utils/covers/return_of_the_mount_hua_sect.png)
 
+[MangaUpdates](https://www.mangaupdates.com/series/cmx86o6/return-of-the-blossoming-blade)
+
 | | |
 |---|---|
 | Original Title | 화산귀환 (Hwasan Gwihwan) |

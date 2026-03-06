@@ -2,6 +2,8 @@
 
 ![The Top Dungeon Farmer Cover](../utils/covers/the_top_dungeon_farmer.jpeg)
 
+[MangaUpdates](https://www.mangaupdates.com/series/fdbhhx7/the-top-dungeon-farmer)
+
 | | |
 |---|---|
 | Original Title | 나 혼자 탑에서 농사 |

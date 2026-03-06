@@ -2,6 +2,8 @@
 
 ![Underworld Restaurant Cover](../utils/covers/underworld_restaurant.png)
 
+[MangaUpdates](https://www.mangaupdates.com/series/rw7n9qg/afterlife-diner)
+
 | | |
 |---|---|
 | Original Title | 저승식당 (Jeoseung Sikdang) |

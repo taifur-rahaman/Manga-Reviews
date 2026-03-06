@@ -2,6 +2,8 @@
 
 ![Beyond Myriad Peoples Cover](../utils/covers/beyond_myriad_peoples.png)
 
+[MangaUpdates](https://www.mangaupdates.com/series/wu4pcna/above-myriads)
+
 | | |
 |---|---|
 | Original Title | 万人之上 (Wàn Rén Zhī Shàng) |

@@ -2,6 +2,8 @@
 
 ![I Shall Live as a Prince Cover](../utils/covers/i_shall_live_as_a_prince.png)
 
+[MangaUpdates](https://www.mangaupdates.com/series/hpdji9d/my-royal-awakening)
+
 | | |
 |---|---|
 | Original Title | 대군으로 살어리랏다 |

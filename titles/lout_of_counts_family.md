@@ -2,6 +2,8 @@
 
 ![Lout of Count's Family Cover](../utils/covers/lout_of_counts_family.png)
 
+[MangaUpdates](https://www.mangaupdates.com/series/d28ax3q/lout-of-count-s-family)
+
 | | |
 |---|---|
 | Original Title | 백작가의 망나니가 되었다 (Baekjakgaui Mangnaniga Doeeotda) |

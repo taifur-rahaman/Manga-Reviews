@@ -2,6 +2,8 @@
 
 ![Heavenly Grand Archive's Young Master Cover](../utils/covers/heavenly_grand_archives_young_master.png)
 
+[MangaUpdates](https://www.mangaupdates.com/series/d93dniy/cheonhwa-archive-s-young-master)
+
 | | |
 |---|---|
 | Original Title | 천화서고 대공자 (Cheonhwa Seogo Daegongja) |

@@ -2,6 +2,8 @@
 
 ![Eternal Club Cover](../utils/covers/eternal_club.png)
 
+[MangaUpdates](https://www.mangaupdates.com/series/s5fn8yq/eternal-club)
+
 | | |
 |---|---|
 | Original Title | 我打造了长生俱乐部 (Wǒ Dǎzàole Chángshēng Jùlèbù) |

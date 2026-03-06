@@ -2,6 +2,8 @@
 
 ![The Greatest Estate Developer Cover](../utils/covers/the_greatest_estate_developer.png)
 
+[MangaUpdates](https://www.mangaupdates.com/series/chin5uq/the-greatest-estate-developer)
+
 | | |
 |---|---|
 | Original Title | 역대급 영지 설계사 (Yeokdaegeup Yeongji Seolgyesa) |
