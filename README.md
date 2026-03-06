@@ -86,13 +86,6 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 ---
 
 
-### 🍵 Slice of Life
-
-| 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
-|:---|:---|:---:|:---|:---:|:---:|
-| [I'm Actually a Cultivation Bigshot](titles/im_actually_a_cultivation_bigshot.md) | A Big Shot Actually / It Turns Out I'm a Great Immortal | 🇨🇳 Manhua | 7.1/10 | Ch. 1 / Ongoing | 📗 Currently Reading |
-
----
 
 *Last Updated: 6th March 2026*
 

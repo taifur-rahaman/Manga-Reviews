@@ -12,7 +12,7 @@
 | Author | Duoduoluo, Kinoshita Nakui (木下雉水) |
 | Artist | Huishi TONY, Luanshijiaren (乱室佳人) |
 | Origin | 🇨🇳 Manhua |
-| Genre | Action / Comedy / Fantasy / Shounen / Slice of Life |
+| Genre | Action / Comedy / Fantasy / Shounen |
 | Status | Currently Reading |
 | Chapters Read | 1 / Ongoing |
 | Chapters (Raw) | 609 |
