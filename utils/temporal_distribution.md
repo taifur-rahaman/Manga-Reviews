@@ -13,8 +13,8 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Total Series Read** | 20 |
 | **Total Chapters Read** | 3851 |
 | **Series Completed** | 7 |
-| **Currently Reading** | 0 |
-| **On Hold** | 9 |
+| **Currently Reading** | 1 |
+| **On Hold** | 8 |
 | **On Hiatus** | 4 |
 | **Dropped** | 0 |
 | **Most Read Origin** | 🇰🇷 Manhwa (Korea) |
@@ -28,7 +28,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 🇯🇵 Manga (Japan) | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 🇰🇷 Manhwa (Korea) | 13 | 1755 | 5 | 0 | 5 | 3 | 0 |
-| 🇨🇳 Manhua (China) | 7 | 2096 | 2 | 0 | 4 | 1 | 0 |
+| 🇨🇳 Manhua (China) | 7 | 2096 | 2 | 1 | 3 | 1 | 0 |
 
 ---
 
@@ -101,7 +101,9 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 ## 📖 Currently Reading
 
-*No series currently being read.*
+| **Series** | **Origin** | **Genre** | **Rating** | **Progress** |
+|:---|:---:|:---:|:---:|:---:|
+| [Prices Depreciated, and I Became the World’s Richest Person](../titles/prices_depreciated.md) | 🇨🇳 Manhua | Drama | TBD/10 | Ch. 31 / Ongoing |
 
 ---
 
@@ -135,7 +137,6 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | [It Turns Out I've Been Invincible for a Long Time](../titles/it_turns_out_ive_been_invincible.md) | 🇨🇳 Manhua | Fantasy | 6.8/10 | Ch. 76 / Ongoing | Weekly |
 | [The Top Dungeon Farmer](../titles/the_top_dungeon_farmer.md) | 🇰🇷 Manhwa | Fantasy | 6.30/10 | Ch. 114 / Ongoing | Weekly |
 | [Kim Ohjin's Adventures with Strange Animals](../titles/kim_ohjins_adventures_with_strange_animals.md) | 🇰🇷 Manhwa | Fantasy | 4.87/10 | Ch. 46 / Ongoing | Weekly |
-| [Prices Depreciated, and I Became the World’s Richest Person](../titles/prices_depreciated.md) | 🇨🇳 Manhua | Drama | TBD/10 | Ch. 31 / Ongoing | Weekly |
 
 ---
 
@@ -203,7 +204,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | 17 | [Raising Villains the Right Way](../titles/raising_villains_the_right_way.md) | 🇰🇷 Manhwa | ⏸️ On Hold | 27th Feb 2026 | 27th Feb 2026 | 27th Feb 2026 | 1 day |
 | 18 | [It Turns Out I've Been Invincible for a Long Time](../titles/it_turns_out_ive_been_invincible.md) | 🇨🇳 Manhua | ⏸️ On Hold | 2nd Mar 2026 | 3rd Mar 2026 | 3rd Mar 2026 | 2 days |
 | 19 | [Underworld Restaurant](../titles/underworld_restaurant.md) | 🇰🇷 Manhwa | ⏸️ On Hold | 3rd Mar 2026 | 4th Mar 2026 | 4th Mar 2026 | 2 days |
-| 20 | [Prices Depreciated, and I Became the World’s Richest Person](../titles/prices_depreciated.md) | 🇨🇳 Manhua | ⏸️ On Hold | 6th Mar 2026 | 6th Mar 2026 | 6th Mar 2026 | 1 day |
+| 20 | [Prices Depreciated, and I Became the World’s Richest Person](../titles/prices_depreciated.md) | 🇨🇳 Manhua | 📖 Reading | 6th Mar 2026 | 6th Mar 2026 | - | - |
 
 > ¹ **Am I Invincible** — Originally started 9th Nov 2024, put down after Ch. 154. Re-picked up 31st Jan 2026 at Ch. 169 and completed 3rd Feb 2026.
 >
