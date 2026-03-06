@@ -92,7 +92,6 @@ The real kicker is the enjoyment factor—solid 8.0. Despite being somewhat form
 - The Great Mage Returns After 4000 Years (Manhwa - Powerful mage returns)
 - Archmage Streamer (Manhwa - Regression with magic)
 - Return of the Disaster-Class Hero (Manhwa - Regression, revenge)
-- SSS-Class Suicide Hunter (Manhwa - Regression with unique power system)
 
 ---
 

@@ -117,7 +117,6 @@ Don't come here expecting deep character studies or ironclad logic. This is ente
 - **The Gamer** (Manhwa) - Game-like powers in modern world, empire building elements
 - **Solo Leveling** (Manhwa) - Power progression and organization building in urban fantasy
 - **Second Life Ranker** (Manhwa) - Time manipulation themes and climbing power hierarchies
-- **SSS-Class Suicide Hunter** (Manhwa) - Time regression/manipulation with strategic gameplay
 - **Nano Machine** (Manhwa) - Modern tech meets power fantasy with organization building
 - **FFF-Class Trashero** (Manhwa) - Time loop mechanics with morally grey MC
 - **Regressor Instruction Manual** (Manhwa) - Strategic manipulation and building influence from scratch

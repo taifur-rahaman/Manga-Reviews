@@ -21,12 +21,12 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 | **Metric** | **Value** |
 | :--- | :---: |
-| **📚 Series Documented** | 20 |
-| **📖 Chapters Read** | 3851 |
+| **📚 Series Documented** | 18 |
+| **📖 Chapters Read** | 3260 |
 | **✅ Series Completed** | 7 |
 | **📗 Currently Reading** | 1 |
-| **⏸️ On Hold** | 8 |
-| **🚫 On Hiatus** | 4 |
+| **⏸️ On Hold** | 7 |
+| **🚫 On Hiatus** | 3 |
 | **❌ Dropped** | 0 |
 
 ---
@@ -77,9 +77,7 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 | [Lout of Count's Family](titles/lout_of_counts_family.md) | Trash of the Count's Family | 🇰🇷 Manhwa | 8.1/10 | Ch. 172 / Ongoing | 🚫 Hiatus |
 | [8th Circle Mage Reborn](titles/8th_circle_mage_reborn.md) | The Rebirth of an 8th-Circled Mage | 🇰🇷 Manhwa | 7.68/10 | 160 / 160 | ✅ Completed |
 | [I'm Actually a Cultivation Bigshot](titles/im_actually_a_cultivation_bigshot.md) | It Turns Out I'm a Great Immortal | 🇨🇳 Manhua | 7.1/10 | Ch. 584 / Ongoing | ⏸️ On Hold (Waiting) |
-| [Tales of Demons and Gods](titles/tales_of_demons_and_gods.md) | Yao Shen Ji | 🇨🇳 Manhua | 6.9/10 | Ch. 473 / Ongoing | ⏸️ On Hold (Waiting) |
 | [It Turns Out I've Been Invincible for a Long Time](titles/it_turns_out_ive_been_invincible.md) | I've Been Invincible for a Long Time | 🇨🇳 Manhua | 6.8/10 | Ch. 76 / Ongoing | ⏸️ On Hold (Waiting) |
-| [SSS-Class Suicide Hunter](titles/sss_class_suicide_hunter.md) | SSS-Class Revival Hunter | 🇰🇷 Manhwa | 6.5/10 | Ch. 118 / Ongoing | 🚫 Hiatus |
 | [The Top Dungeon Farmer](titles/the_top_dungeon_farmer.md) | Solo Farming in the Tower | 🇰🇷 Manhwa | 6.30/10 | Ch. 114 / Ongoing | ⏸️ On Hold (Waiting) |
 | [Am I Invincible](titles/am_i_invincible.md) | When Did I Become Unbeatable? | 🇨🇳 Manhua | 6.15/10 | 315 / 315 | ✅ Completed |
 | [Beyond Myriad Peoples](titles/beyond_myriad_peoples.md) | Above Ten Thousand People | 🇨🇳 Manhua | 5.13/10 | 314 / 314 | 🚫 Hiatus |
