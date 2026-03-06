@@ -113,13 +113,17 @@ Don't come here expecting deep character studies or ironclad logic. This is ente
 **Best for:** Fans of supernatural powers, time manipulation stories, empire-building narratives, power fantasies, and modern fantasy settings with unique twists on immortality.
 
 **Similar series:**
-- **Omniscient Reader's Viewpoint** (Manhwa) - Modern setting with supernatural powers and strategic planning
-- **The Gamer** (Manhwa) - Game-like powers in modern world, empire building elements
-- **Solo Leveling** (Manhwa) - Power progression and organization building in urban fantasy
-- **Second Life Ranker** (Manhwa) - Time manipulation themes and climbing power hierarchies
-- **Nano Machine** (Manhwa) - Modern tech meets power fantasy with organization building
-- **FFF-Class Trashero** (Manhwa) - Time loop mechanics with morally grey MC
-- **Regressor Instruction Manual** (Manhwa) - Strategic manipulation and building influence from scratch
+
+*In this archive:*
+- [Solo Leveling](solo_leveling.md) (Manhwa) - Power progression and organization building in urban fantasy
+
+*Worth checking out:*
+- Omniscient Reader's Viewpoint (Manhwa) - Modern setting with supernatural powers and strategic planning
+- The Gamer (Manhwa) - Game-like powers in modern world, empire building elements
+- Second Life Ranker (Manhwa) - Time manipulation themes and climbing power hierarchies
+- Nano Machine (Manhwa) - Modern tech meets power fantasy with organization building
+- FFF-Class Trashero (Manhwa) - Time loop mechanics with morally grey MC
+- Regressor Instruction Manual (Manhwa) - Strategic manipulation and building influence from scratch
 
 ---
 

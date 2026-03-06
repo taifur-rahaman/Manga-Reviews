@@ -121,8 +121,12 @@ It's a shame because this could have been something special. Instead, it's a ser
 **Best for:** Fans of misunderstanding-based comedies and OP protagonists who don't know they are OP.
 
 **Similar series:**
-- [Am I Invincible](am_i_invincible.md) (Manhua - Clueless OP MC) ✅ *Already Read*
-- I'm Actually a Cultivation Bigshot (Manhua - Similar premise)
+
+*In this archive:*
+- [Am I Invincible](am_i_invincible.md) (Manhua - Clueless OP MC)
+- [I'm Actually a Cultivation Bigshot](im_actually_a_cultivation_bigshot.md) (Manhua - Similar premise)
+
+*Worth checking out:*
 - I'm Really Not The Demon God's Lackey (Manhua - Normal guy misunderstood as Entity)
 - The Unmatched Powerhouse Just Wants To Farm (Manhua - Farmer MC)
 

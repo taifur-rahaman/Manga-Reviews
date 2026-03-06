@@ -87,7 +87,9 @@ It gets a 5.2/10 almost entirely on the strength of its initial concept, but the
 
 **Best for:** Readers looking for a lighthearted, comedy-focused wealth fantasy manhua where the protagonist deals with being absurdly rich.
 
-**Similar series:** 
+**Similar series:**
+
+*In this archive:*
 - [Eternal Club](eternal_club.md) (Manhua - Protagonist acquires immense power/value and navigates society with it)
 
 ---

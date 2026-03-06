@@ -86,8 +86,12 @@ I found this manhwa pretty amazing. It's not something I normally like as there'
 **Best for:** Readers who enjoy historical dramas with a smart protagonist and political intrigue rather than pure action or cultivation.
 
 **Similar series:**
+
+*In this archive:*
+- [The Greatest Estate Developer](the_greatest_estate_developer.md) (Manhwa - Civil engineering knowledge in medieval setting)
+
+*Worth checking out:*
 - Doctor's Rebirth (Manhwa - Modern medical knowledge in Murim world)
-- The Greatest Estate Developer (Manhwa - Civil engineering knowledge in medieval setting)
 - I Shall Master This Family (Manhwa - Future knowledge to change family's fate)
 
 ---

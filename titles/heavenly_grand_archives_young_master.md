@@ -94,7 +94,11 @@ Currently enjoying the series at chapter 165. The weekly release schedule makes 
 **Best for:** Readers who enjoy martial arts fantasy manhwa with weekly release schedules, stories about prestigious institutions and young masters navigating their destinies.
 
 **Similar series:**
-- Return of the Mount Hua Sect (Manhwa - Martial arts, sect-based story)
+
+*In this archive:*
+- [Return of the Mount Hua Sect](return_of_the_mount_hua_sect.md) (Manhwa - Martial arts, sect-based story)
+
+*Worth checking out:*
 - Nano Machine (Manhwa - Martial arts with special abilities)
 - The Scholar's Reincarnation (Manhwa - Martial arts with scholarly elements)
 
