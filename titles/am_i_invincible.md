@@ -89,8 +89,9 @@ This Manhua is Very Fun to read. It's easy going and relaxing.
 **Best for:** Fans of "OP MC who doesn't know he's OP" tropes and misunderstanding-based comedy. Similar to Overlord in concept. **WARNING:** Contains problematic content after chapter 278 (cross-dressing/gender mutilation themes).
 
 **Similar series:**
-- I'm Actually a Cultivation Bigshot (Manhua - OP MC who thinks he's mortal, comedy misunderstandings)
-- I'm Really Not The Demon God's Lackey (Manhua - Normal human misunderstood as god-like being)
+- Beyond Myriad Peoples (Manhua - Identical premise, heavier on comedy)
+- It Turns Out I've Been Invincible for a Long Time (Manhua - Extremely similar premise)
+- Cultivation Chat Group (Manhua - Modern setting but similar comedy tropes)
 - [Beyond Myriad Peoples](beyond_myriad_peoples.md) (Manhua - Clueless OP MC running martial arts gym) 📖 *Currently Reading*
 - The Unmatched Powerhouse Just Wants To Farm (Manhua - OP farmer unaware of his power)
 - The Eminence in Shadow (Manhwa adaptation - Clueless OP MC comedy)

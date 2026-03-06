@@ -87,14 +87,8 @@ If you want something to unwind with — no drama, no tragedy, no grinding power
 **Best for:** Fans of oblivious overpowered protagonists, slice-of-life meets Xianxia, and comedy cultivation manhuas. Great palate cleanser between heavier reads.
 
 **Similar series:**
-
-*In this archive:*
-- [Am I Invincible](am_i_invincible.md) (Manhua) — Nearly identical premise; this series does the shop angle better but *Am I Invincible* has stronger art overall
-
-*Worth checking out:*
-- Beyond Myriad Peoples (Manhua — Unaware strongest person in the world; same oblivious-OP DNA)
-- I'm Actually a Cultivation Bigshot (Manhua — OP MC unaware of his standing, similar comedy rhythm)
-- The Unmatched Powerhouse Just Wants To Farm (Manhua — Oblivious supreme expert living as a farmer)
+- [Above Ten Thousand People](beyond_myriad_peoples.md) (Manhua — identical premise but leans heavier into slapstick/meme comedy)
+- The Top Dungeon Farmer (Manhwa — similar focus on mundane activities becoming OP, though more system-oriented)
 
 ---
 

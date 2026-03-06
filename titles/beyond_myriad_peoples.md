@@ -122,7 +122,6 @@ It's a shame because this could have been something special. Instead, it's a ser
 
 **Similar series:**
 - [Am I Invincible](am_i_invincible.md) (Manhua - Clueless OP MC) ✅ *Already Read*
-- I'm Actually a Cultivation Bigshot (Manhua - Similar premise)
 - I'm Really Not The Demon God's Lackey (Manhua - Normal guy misunderstood as Entity)
 - The Unmatched Powerhouse Just Wants To Farm (Manhua - Farmer MC)
 
