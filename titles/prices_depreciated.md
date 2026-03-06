@@ -11,12 +11,12 @@
 | Artist | Updating |
 | Origin | 🇨🇳 Manhua |
 | Genre | Action / Adventure / Comedy / Martial Arts / Shounen / Slice of Life |
-| Status | Currently Reading |
-| Chapters Read | 31 / Ongoing |
+| Status | On Hold |
+| Chapters Read | 68 / Ongoing |
 | Chapters (Raw) | 68 |
 | Chapters (English) | 68 |
 | Start Date | 6th March 2026 |
-| Last Read | 6th March 2026 |
+| Last Read | 7th March 2026 |
 | End Date | - |
 | Rating | TBD/10 |
 | Platform | Mihon |
@@ -56,9 +56,9 @@ Early themes emerging:
 
 *(Raw thoughts as I read)*
 
-### Progress Update — Currently Reading (6th March 2026, Ch. 31)
+### Progress Update — On Hold (7th March 2026, Ch. 68)
 
-Started the series and read through the first 31 chapters.
+Started the series and read through the first 68 chapters. Putting it on hold while waiting for more releases.
 
 ### Rating Breakdown
 
