@@ -87,6 +87,7 @@ If you want something to unwind with — no drama, no tragedy, no grinding power
 **Best for:** Fans of oblivious overpowered protagonists, slice-of-life meets Xianxia, and comedy cultivation manhuas. Great palate cleanser between heavier reads.
 
 **Similar series:**
+- [I'm Actually a Cultivation Bigshot](im_actually_a_cultivation_bigshot.md) (Manhua — OP MC unaware of his standing, similar comedy rhythm)
 - [Above Ten Thousand People](beyond_myriad_peoples.md) (Manhua — identical premise but leans heavier into slapstick/meme comedy)
 - The Top Dungeon Farmer (Manhwa — similar focus on mundane activities becoming OP, though more system-oriented)
 

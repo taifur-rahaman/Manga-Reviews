@@ -10,15 +10,15 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Metric** | **Value** |
 |:---|:---:|
-| **Total Series Read** | 17 |
-| **Total Chapters Read** | 2720 |
+| **Total Series Read** | 18 |
+| **Total Chapters Read** | 2721 |
 | **Series Completed** | 7 |
-| **Currently Reading** | 0 |
+| **Currently Reading** | 1 |
 | **On Hold** | 7 |
 | **On Hiatus** | 3 |
 | **Dropped** | 0 |
 | **Most Read Origin** | 🇰🇷 Manhwa (Korea) |
-| **Most Read Genre** | Fantasy (10 series) |
+| **Most Read Genre** | Fantasy (11 series) |
 
 ---
 
@@ -28,7 +28,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 🇯🇵 Manga (Japan) | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 🇰🇷 Manhwa (Korea) | 12 | 1643 | 5 | 0 | 5 | 2 | 0 |
-| 🇨🇳 Manhua (China) | 5 | 1077 | 2 | 0 | 2 | 1 | 0 |
+| 🇨🇳 Manhua (China) | 6 | 1078 | 2 | 1 | 2 | 1 | 0 |
 
 ---
 
@@ -37,7 +37,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Genre** | **Series** | **Chapters Read** | **Average Rating** |
 |:---|:---:|:---:|:---:|
 | Drama | 5 | 752 | 7.63 |
-| Fantasy | 10 | 1645 | 7.10 |
+| Fantasy | 11 | 1646 | 7.10 |
 | Murim | 2 | 323 | 8.52 |
 
 ---
@@ -49,7 +49,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Month** | **Series Started** | **Series Completed** | **Chapters Read** |
 |:---|:---:|:---:|:---:|
 | February 2026 | 6 | 4 | 1247 |
-| March 2026 | 3 | 1 | 203 |
+| March 2026 | 4 | 1 | 204 |
 | January 2026 | 2 | 0 | 211 |
 
 ### By Month (2025)
@@ -89,18 +89,21 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | 9 | [Heavenly Grand Archive's Young Master](../titles/heavenly_grand_archives_young_master.md) | 🇰🇷 Manhwa | 7.83 | Murim | On Hold |
 | 10 | [8th Circle Mage Reborn](../titles/8th_circle_mage_reborn.md) | 🇰🇷 Manhwa | 7.68 | Fantasy | Completed |
 | 11 | [Eternal Club](../titles/eternal_club.md) | 🇨🇳 Manhua | 7.10 | Drama | Completed |
-| 12 | [It Turns Out I've Been Invincible for a Long Time](../titles/it_turns_out_ive_been_invincible.md) | 🇨🇳 Manhua | 6.80 | Fantasy | On Hold |
-| 13 | [The Top Dungeon Farmer](../titles/the_top_dungeon_farmer.md) | 🇰🇷 Manhwa | 6.30 | Fantasy | On Hold |
-| 14 | [Am I Invincible](../titles/am_i_invincible.md) | 🇨🇳 Manhua | 6.15 | Fantasy | Completed |
-| 15 | [Prices Depreciated, and I Became the World’s Richest Person](../titles/prices_depreciated.md) | 🇨🇳 Manhua | 5.20 | Drama | On Hold |
-| 16 | [Beyond Myriad Peoples](../titles/beyond_myriad_peoples.md) | 🇨🇳 Manhua | 5.13 | Fantasy | Hiatus |
-| 17 | [Kim Ohjin's Adventures with Strange Animals](../titles/kim_ohjins_adventures_with_strange_animals.md) | 🇰🇷 Manhwa | 4.87 | Fantasy | On Hold |
+| 12 | [I'm Actually a Cultivation Bigshot](../titles/im_actually_a_cultivation_bigshot.md) | 🇨🇳 Manhua | 7.10 | Fantasy | Reading |
+| 13 | [It Turns Out I've Been Invincible for a Long Time](../titles/it_turns_out_ive_been_invincible.md) | 🇨🇳 Manhua | 6.80 | Fantasy | On Hold |
+| 14 | [The Top Dungeon Farmer](../titles/the_top_dungeon_farmer.md) | 🇰🇷 Manhwa | 6.30 | Fantasy | On Hold |
+| 15 | [Am I Invincible](../titles/am_i_invincible.md) | 🇨🇳 Manhua | 6.15 | Fantasy | Completed |
+| 16 | [Prices Depreciated, and I Became the World’s Richest Person](../titles/prices_depreciated.md) | 🇨🇳 Manhua | 5.20 | Drama | On Hold |
+| 17 | [Beyond Myriad Peoples](../titles/beyond_myriad_peoples.md) | 🇨🇳 Manhua | 5.13 | Fantasy | Hiatus |
+| 18 | [Kim Ohjin's Adventures with Strange Animals](../titles/kim_ohjins_adventures_with_strange_animals.md) | 🇰🇷 Manhwa | 4.87 | Fantasy | On Hold |
 
 ---
 
 ## 📖 Currently Reading
 
-*No active series at the moment.*
+| **Series** | **Origin** | **Genre** | **Rating** | **Progress** | **Start Date** |
+|:---|:---:|:---:|:---:|:---:|:---:|
+| [I'm Actually a Cultivation Bigshot](../titles/im_actually_a_cultivation_bigshot.md) | 🇨🇳 Manhua | Fantasy | 7.1/10 | Ch. 1 / Ongoing | 7th Mar 2026 |
 
 ---
 
@@ -197,6 +200,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | 15 | [It Turns Out I've Been Invincible for a Long Time](../titles/it_turns_out_ive_been_invincible.md) | 🇨🇳 Manhua | ⏸️ On Hold | 2nd Mar 2026 | 7th Mar 2026 | 7th Mar 2026 | 5 days |
 | 16 | [Underworld Restaurant](../titles/underworld_restaurant.md) | 🇰🇷 Manhwa | ⏸️ On Hold | 3rd Mar 2026 | 4th Mar 2026 | 4th Mar 2026 | 2 days |
 | 17 | [Prices Depreciated, and I Became the World’s Richest Person](../titles/prices_depreciated.md) | 🇨🇳 Manhua | ⏸️ On Hold | 6th Mar 2026 | 7th Mar 2026 | 7th Mar 2026 | 1 day |
+| 18 | [I'm Actually a Cultivation Bigshot](../titles/im_actually_a_cultivation_bigshot.md) | 🇨🇳 Manhua | 📗 Reading | 7th Mar 2026 | 7th Mar 2026 | - | 1 day |
 
 > ¹ **Am I Invincible** — Originally started 9th Nov 2024, put down after Ch. 154. Re-picked up 31st Jan 2026 at Ch. 169 and completed 3rd Feb 2026.
 >
