@@ -11,7 +11,7 @@
 | Artist | Lee Ha Kyung |
 | Origin | 🇰🇷 Manhwa |
 | Genre | Adventure / Drama / Fantasy / Shounen |
-| Status | On Hold (Ongoing — Season 2, Weekly Updates) |
+| Status | On Hold (Waiting for Next Release — Weekly) |
 | Chapters Read | 114 / Ongoing |
 | Start Date | 16th February 2026 |
 | Last Read | 21st February 2026 |

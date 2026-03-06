@@ -11,7 +11,7 @@
 | Artist | Midnight Studio |
 | Origin | 🇰🇷 Manhwa |
 | Genre | Action / Comedy / Historical / Murim / Seinen |
-| Status | On Hold (Ongoing - Weekly Updates) |
+| Status | On Hold (Waiting for Next Release — Weekly) |
 | Chapters Read | 165 / Ongoing |
 | Start Date | 17th January 2026 |
 | Last Read | 29th January 2026 |

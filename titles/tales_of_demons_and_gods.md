@@ -11,7 +11,7 @@
 | Artist | Jiang Ruotai, Taixue Comics |
 | Origin | 🇨🇳 Manhua |
 | Genre | Action / Adventure / Comedy / Fantasy / Shounen |
-| Status | On Hold (Ongoing — Novel on indefinite hiatus) |
+| Status | On Hold (Waiting for Next Release — Bi-weekly) |
 | Chapters Read | 473 / Ongoing |
 | Start Date | 13th May 2024 |
 | Last Read | 11th July 2024 |

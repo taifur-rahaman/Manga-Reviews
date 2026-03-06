@@ -11,7 +11,7 @@
 | Artist | Pilsallin |
 | Origin | 🇰🇷 Manhwa |
 | Genre | Adventure / Comedy / Fantasy / Slice of Life |
-| Status | On Hold |
+| Status | On Hold (Waiting for Next Release — Monthly) |
 | Chapters Read | 46 / Ongoing |
 | Start Date | 30th January 2026 |
 | Last Read | 2nd February 2026 |

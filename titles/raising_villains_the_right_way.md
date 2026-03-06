@@ -11,7 +11,7 @@
 | Artist | Jogen |
 | Origin | 🇰🇷 Manhwa |
 | Genre | Action / Comedy / Drama / Fantasy / Shounen |
-| Status | On Hold |
+| Status | On Hold (Waiting for Next Release — Weekly) |
 | Chapters Read | 24 / Ongoing |
 | Start Date | 27th February 2026 |
 | Last Read | 27th February 2026 |

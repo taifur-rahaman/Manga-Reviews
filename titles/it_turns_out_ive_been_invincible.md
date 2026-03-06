@@ -11,7 +11,7 @@
 | Artist | Fantasy Comics |
 | Origin | 🇨🇳 Manhua |
 | Genre | Action / Adventure / Drama / Fantasy / Martial Arts / Shounen |
-| Status | On Hold (Ongoing — 324 Chapters in Country of Origin) |
+| Status | On Hold (Waiting for Next Release — Bi-weekly) |
 | Chapters Read | 76 / Ongoing |
 | Start Date | 2nd March 2026 |
 | Last Read | 3rd March 2026 |

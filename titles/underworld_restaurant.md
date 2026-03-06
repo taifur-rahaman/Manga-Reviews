@@ -11,7 +11,7 @@
 | Artist | Hwajeong |
 | Origin | 🇰🇷 Manhwa |
 | Genre | Drama / Shounen / Slice of Life / Supernatural |
-| Status | On Hold (Ongoing — Weekly Updates) |
+| Status | On Hold (Waiting for Next Release — Weekly) |
 | Chapters Read | 107 / Ongoing |
 | Start Date | 3rd March 2026 |
 | Last Read | 4th March 2026 |

@@ -11,7 +11,7 @@
 | Artist | Huishi TONY (乱室佳人) |
 | Origin | 🇨🇳 Manhua |
 | Genre | Action / Comedy / Fantasy / Shounen / Slice of Life |
-| Status | On Hold (Ongoing — 600+ Chapters in Country of Origin) |
+| Status | On Hold (Waiting for Next Release — Monthly) |
 | Chapters Read | 584 / Ongoing |
 | Start Date | 6th September 2025 |
 | Last Read | 1st November 2025 |
