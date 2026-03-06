@@ -12,11 +12,11 @@
 | Origin | 🇨🇳 Manhua |
 | Genre | Action / Adventure / Drama / Fantasy / Martial Arts / Shounen |
 | Status | On Hold (Waiting for Next Release — Bi-weekly) |
-| Chapters Read | 76 / Ongoing |
+| Chapters Read | 77 / Ongoing |
 | Chapters (Raw) | 324 |
-| Chapters (English) | 76 |
+| Chapters (English) | 77 |
 | Start Date | 2nd March 2026 |
-| Last Read | 3rd March 2026 |
+| Last Read | 7th March 2026 |
 | End Date | - |
 | Rating | 6.8/10 |
 | Platform | Mihon |
@@ -52,9 +52,9 @@ Full-color manhua in the standard vertical scrolling webtoon format. The art is 
 
 ## Personal Notes & Observations
 
-### Progress Update — On Hold (3rd March 2026, Ch. 76)
+### Progress Update — On Hold (7th March 2026, Ch. 77)
 
-Read through 76 chapters in two days and genuinely enjoyed it. It's exactly what it advertises: a breezy, easy-going comedy where you turn your brain off and let the misunderstandings wash over you. The business shop angle is a nice differentiator from *Am I Invincible*, which had a near-identical premise but less structural creativity. The joke doesn't overstay its welcome at this pace — weekly chapters should keep it from ever feeling repetitive. Going on hold to follow the weekly release schedule.
+Read through 77 chapters and genuinely enjoyed it. It's exactly what it advertises: a breezy, easy-going comedy where you turn your brain off and let the misunderstandings wash over you. The business shop angle is a nice differentiator from *Am I Invincible*, which had a near-identical premise but less structural creativity. The joke doesn't overstay its welcome at this pace — weekly chapters should keep it from ever feeling repetitive. Going on hold to follow the weekly release schedule.
 
 ### Rating Breakdown
 
@@ -74,7 +74,7 @@ Read through 76 chapters in two days and genuinely enjoyed it. It's exactly what
 
 Look, this isn't a complicated series. It doesn't want to be. The entire premise is "what if the most powerful man in the world thought he was just a shopkeeper" — and it squeezes every possible drop of comedy out of that concept. Ye Changqing's complete absence of self-awareness is charming precisely because he's not dim; he's just humble and content. The story has no interest in grand narratives or character arcs, and that's fine because it never pretended otherwise.
 
-At 76 chapters in, the formula is holding up well. The shop setting stops it from feeling like a pure rehash of *Am I Invincible* — there's more slice-of-life texture here to anchor the jokes and give the world a sense of routine. That said, 76 chapters is still early days. Whether the series can sustain this over hundreds of chapters without the joke going stale is the real question. For now though? It's good fun. Easy, reliable weekly reading material.
+At 77 chapters in, the formula is holding up well. The shop setting stops it from feeling like a pure rehash of *Am I Invincible* — there's more slice-of-life texture here to anchor the jokes and give the world a sense of routine. That said, 77 chapters is still early days. Whether the series can sustain this over hundreds of chapters without the joke going stale is the real question. For now though? It's good fun. Easy, reliable weekly reading material.
 
 If you want something to unwind with — no drama, no tragedy, no grinding power-up arcs — this fits the bill perfectly.
 
@@ -94,6 +94,6 @@ If you want something to unwind with — no drama, no tragedy, no grinding power
 
 ## Additional Context
 
-Serialized as an ongoing manhua with 324 chapters in country of origin as of early 2026. Only 76 chapters are accessible in English. Published under the official title *It Turns out That I Have Been Invincible for a Long Time* on MangaUpdates.
+Serialized as an ongoing manhua with 324 chapters in country of origin as of early 2026. Only 77 chapters are accessible in English. Published under the official title *It Turns out That I Have Been Invincible for a Long Time* on MangaUpdates.
 
 ---

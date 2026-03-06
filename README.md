@@ -22,7 +22,7 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 | **Metric** | **Value** |
 | :--- | :---: |
 | **📚 Series Documented** | 17 |
-| **📖 Chapters Read** | 2719 |
+| **📖 Chapters Read** | 2720 |
 | **✅ Series Completed** | 7 |
 | **📗 Currently Reading** | 0 |
 | **⏸️ On Hold** | 7 |
@@ -74,7 +74,7 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 | [Raising Villains the Right Way](titles/raising_villains_the_right_way.md) | Became the Patron of Villains | 🇰🇷 Manhwa | 8.2/10 | Ch. 24 / Ongoing | ⏸️ On Hold (Waiting) |
 | [Lout of Count's Family](titles/lout_of_counts_family.md) | Trash of the Count's Family | 🇰🇷 Manhwa | 8.1/10 | Ch. 172 / Ongoing | 🚫 Hiatus |
 | [8th Circle Mage Reborn](titles/8th_circle_mage_reborn.md) | The Rebirth of an 8th-Circled Mage | 🇰🇷 Manhwa | 7.68/10 | 160 / 160 | ✅ Completed |
-| [It Turns Out I've Been Invincible for a Long Time](titles/it_turns_out_ive_been_invincible.md) | I've Been Invincible for a Long Time | 🇨🇳 Manhua | 6.8/10 | Ch. 76 / Ongoing | ⏸️ On Hold (Waiting) |
+| [It Turns Out I've Been Invincible for a Long Time](titles/it_turns_out_ive_been_invincible.md) | I've Been Invincible for a Long Time | 🇨🇳 Manhua | 6.8/10 | Ch. 77 / Ongoing | ⏸️ On Hold (Waiting) |
 | [The Top Dungeon Farmer](titles/the_top_dungeon_farmer.md) | Solo Farming in the Tower | 🇰🇷 Manhwa | 6.30/10 | Ch. 114 / Ongoing | ⏸️ On Hold (Waiting) |
 | [Am I Invincible](titles/am_i_invincible.md) | When Did I Become Unbeatable? | 🇨🇳 Manhua | 6.15/10 | 315 / 315 | ✅ Completed |
 | [Beyond Myriad Peoples](titles/beyond_myriad_peoples.md) | Above Ten Thousand People | 🇨🇳 Manhua | 5.13/10 | 314 / 314 | 🚫 Hiatus |

@@ -11,7 +11,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Metric** | **Value** |
 |:---|:---:|
 | **Total Series Read** | 17 |
-| **Total Chapters Read** | 2719 |
+| **Total Chapters Read** | 2720 |
 | **Series Completed** | 7 |
 | **Currently Reading** | 0 |
 | **On Hold** | 7 |
@@ -28,7 +28,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 🇯🇵 Manga (Japan) | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 🇰🇷 Manhwa (Korea) | 12 | 1643 | 5 | 0 | 5 | 2 | 0 |
-| 🇨🇳 Manhua (China) | 5 | 1076 | 2 | 0 | 2 | 1 | 0 |
+| 🇨🇳 Manhua (China) | 5 | 1077 | 2 | 0 | 2 | 1 | 0 |
 
 ---
 
@@ -37,7 +37,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Genre** | **Series** | **Chapters Read** | **Average Rating** |
 |:---|:---:|:---:|:---:|
 | Drama | 5 | 752 | 7.63 |
-| Fantasy | 10 | 1644 | 7.10 |
+| Fantasy | 10 | 1645 | 7.10 |
 | Murim | 2 | 323 | 8.52 |
 
 ---
@@ -49,7 +49,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Month** | **Series Started** | **Series Completed** | **Chapters Read** |
 |:---|:---:|:---:|:---:|
 | February 2026 | 6 | 4 | 1247 |
-| March 2026 | 3 | 1 | 202 |
+| March 2026 | 3 | 1 | 203 |
 | January 2026 | 2 | 0 | 211 |
 
 ### By Month (2025)
@@ -129,7 +129,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | [Underworld Restaurant](../titles/underworld_restaurant.md) | 🇰🇷 Manhwa | Drama | 9.6/10 | Ch. 107 / Ongoing | Weekly |
 | [Raising Villains the Right Way](../titles/raising_villains_the_right_way.md) | 🇰🇷 Manhwa | Fantasy | 8.2/10 | Ch. 24 / Ongoing | Weekly |
 | [Heavenly Grand Archive's Young Master](../titles/heavenly_grand_archives_young_master.md) | 🇰🇷 Manhwa | Murim | 7.83/10 | Ch. 165 / Ongoing | Weekly |
-| [It Turns Out I've Been Invincible for a Long Time](../titles/it_turns_out_ive_been_invincible.md) | 🇨🇳 Manhua | Fantasy | 6.8/10 | Ch. 76 / Ongoing | Bi-weekly |
+| [It Turns Out I've Been Invincible for a Long Time](../titles/it_turns_out_ive_been_invincible.md) | 🇨🇳 Manhua | Fantasy | 6.8/10 | Ch. 77 / Ongoing | Bi-weekly |
 | [The Top Dungeon Farmer](../titles/the_top_dungeon_farmer.md) | 🇰🇷 Manhwa | Fantasy | 6.30/10 | Ch. 114 / Ongoing | Weekly |
 | [Kim Ohjin's Adventures with Strange Animals](../titles/kim_ohjins_adventures_with_strange_animals.md) | 🇰🇷 Manhwa | Fantasy | 4.87/10 | Ch. 46 / Ongoing | Monthly |
 | [Prices Depreciated, and I Became the World’s Richest Person](../titles/prices_depreciated.md) | 🇨🇳 Manhua | Drama | 5.20/10 | Ch. 68 / Ongoing | TBD |
@@ -194,7 +194,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | 12 | [The Top Dungeon Farmer](../titles/the_top_dungeon_farmer.md) | 🇰🇷 Manhwa | ⏸️ On Hold | 16th Feb 2026 | 21st Feb 2026 | 21st Feb 2026 | 5 days |
 | 13 | [My Superstar Uncle](../titles/my_superstar_uncle.md) | 🇰🇷 Manhwa | ✅ Completed | 21st Feb 2026 | 2nd Mar 2026 | 2nd Mar 2026 | 9 days |
 | 14 | [Raising Villains the Right Way](../titles/raising_villains_the_right_way.md) | 🇰🇷 Manhwa | ⏸️ On Hold | 27th Feb 2026 | 27th Feb 2026 | 27th Feb 2026 | 1 day |
-| 15 | [It Turns Out I've Been Invincible for a Long Time](../titles/it_turns_out_ive_been_invincible.md) | 🇨🇳 Manhua | ⏸️ On Hold | 2nd Mar 2026 | 3rd Mar 2026 | 3rd Mar 2026 | 2 days |
+| 15 | [It Turns Out I've Been Invincible for a Long Time](../titles/it_turns_out_ive_been_invincible.md) | 🇨🇳 Manhua | ⏸️ On Hold | 2nd Mar 2026 | 7th Mar 2026 | 7th Mar 2026 | 5 days |
 | 16 | [Underworld Restaurant](../titles/underworld_restaurant.md) | 🇰🇷 Manhwa | ⏸️ On Hold | 3rd Mar 2026 | 4th Mar 2026 | 4th Mar 2026 | 2 days |
 | 17 | [Prices Depreciated, and I Became the World’s Richest Person](../titles/prices_depreciated.md) | 🇨🇳 Manhua | ⏸️ On Hold | 6th Mar 2026 | 7th Mar 2026 | 7th Mar 2026 | 1 day |
 
