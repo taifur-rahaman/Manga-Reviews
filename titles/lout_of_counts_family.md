@@ -10,7 +10,7 @@
 | Alternative Title | Trash of the Count's Family / The Lout of Count's Family |
 | Release Year | 2020 |
 | Author | Yu Ryeo Han |
-| Artist | PAN4 |
+| Artist | PAN4, Byeol Narae |
 | Origin | 🇰🇷 Manhwa |
 | Genre | Action / Adventure / Comedy / Drama / Fantasy / Seinen |
 | Status | On Hiatus (Manhwa on Hiatus — Season 4) |

@@ -12,7 +12,7 @@
 | Author | 128, Kim Hyun-Young |
 | Artist | Midnight Studio |
 | Origin | 🇰🇷 Manhwa |
-| Genre | Action / Comedy / Historical / Murim / Seinen |
+| Genre | Action / Comedy / Historical / Martial Arts / Seinen |
 | Status | On Hold (Waiting for Next Release — Weekly) |
 | Chapters Read | 165 / Ongoing |
 | Chapters (Raw) | 169 |

@@ -12,7 +12,7 @@
 | Author | Biga |
 | Artist | LICO |
 | Origin | 🇰🇷 Manhwa |
-| Genre | Action / Adventure / Comedy / Drama / Murim / Shounen |
+| Genre | Action / Adventure / Comedy / Drama / Fantasy / Murim / Shounen |
 | Status | On Hiatus (Manhwa on Hiatus — Season 2) |
 | Chapters Read | 153 + 5 Short Stories / Ongoing |
 | Chapters (Raw) | 153 + 5 Short Stories |

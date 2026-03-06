@@ -9,7 +9,7 @@
 | Original Title | 我什么时候无敌了 |
 | Alternative Title | When Did I Become Unbeatable? / When Did I Become Invincible? / Since When Am I Invincible |
 | Release Year | 2021 |
-| Author | 戏柳先生 |
+| Author | 戏柳先生, 番茄小说网 |
 | Artist | 创易文化 |
 | Origin | 🇨🇳 Manhua |
 | Genre | Action / Comedy / Fantasy / Historical / Martial Arts / Romance / Shounen |

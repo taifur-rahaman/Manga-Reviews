@@ -9,10 +9,10 @@
 | Original Title | 物价贬值，我成了世界首富 |
 | Alternative Title | Prices Depreciate, I Become the Richest Man in the World |
 | Release Year | 2024 |
-| Author | Updating |
-| Artist | Updating |
+| Author | 17K漫画 |
+| Artist | 17K漫画 |
 | Origin | 🇨🇳 Manhua |
-| Genre | Action / Adventure / Comedy / Martial Arts / Shounen / Slice of Life |
+| Genre | Drama / Fantasy / Shounen |
 | Status | On Hold |
 | Chapters Read | 68 / Ongoing |
 | Chapters (Raw) | 68 |

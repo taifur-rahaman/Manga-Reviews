@@ -12,7 +12,7 @@
 | Author | Dopamine, Kusa |
 | Artist | Kim Tae-Hyung |
 | Origin | 🇰🇷 Manhwa |
-| Genre | Comedy / Drama / Fantasy / Historical / Shounen |
+| Genre | Drama / Fantasy / Historical / Shounen / Supernatural |
 | Status | Completed |
 | Chapters Read | 88 / 88 (Completed) |
 | Chapters (Raw) | 88 |

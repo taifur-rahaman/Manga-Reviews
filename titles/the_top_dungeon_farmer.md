@@ -7,7 +7,7 @@
 | | |
 |---|---|
 | Original Title | 나 혼자 탑에서 농사 |
-| Alternative Title | Solo Farming in the Tower / Farming in the Tower Alone / Solo Dungeon Farming |
+| Alternative Title | Solo Farming in the Tower / Farming in the Tower Alone / Solo Dungeon Farming / Only I Farm in the Dungeon |
 | Release Year | 2023 |
 | Author | Lim Hyeong, sdcknight |
 | Artist | Lee Ha Kyung |

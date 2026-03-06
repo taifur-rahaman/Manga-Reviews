@@ -12,7 +12,7 @@
 | Author | BK_Moon (novel), Lee Hyun-min (manhwa) |
 | Artist | Kim Hyun-soo |
 | Origin | 🇰🇷 Manhwa |
-| Genre | Action / Adventure / Comedy / Drama / Fantasy / Shounen |
+| Genre | Action / Adventure / Comedy / Drama / Fantasy |
 | Status | Completed |
 | Chapters Read | 222 / 222 |
 | Chapters (Raw) | 222 |
