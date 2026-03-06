@@ -22,7 +22,7 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 | **Metric** | **Value** |
 | :--- | :---: |
 | **📚 Series Documented** | 18 |
-| **📖 Chapters Read** | 3297 |
+| **📖 Chapters Read** | 3303 |
 | **✅ Series Completed** | 7 |
 | **📗 Currently Reading** | 0 |
 | **⏸️ On Hold** | 8 |
@@ -47,7 +47,7 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 | 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
 |:---|:---|:---:|:---|:---:|:---:|
-| [Return of the Mount Hua Sect](titles/return_of_the_mount_hua_sect.md) | Return of the Blossoming Blade | 🇰🇷 Manhwa | 9.2/10 | Ch. 152 / Ongoing | 🚫 Hiatus |
+| [Return of the Mount Hua Sect](titles/return_of_the_mount_hua_sect.md) | Return of the Blossoming Blade | 🇰🇷 Manhwa | 9.2/10 | Ch. 153 + 5 SS / Ongoing | 🚫 Hiatus |
 | [Heavenly Grand Archive's Young Master](titles/heavenly_grand_archives_young_master.md) | Cheonhwa Archive's Young Master | 🇰🇷 Manhwa | 7.83/10 | Ch. 165 / Ongoing | ⏸️ On Hold (Waiting) |
 
 ---

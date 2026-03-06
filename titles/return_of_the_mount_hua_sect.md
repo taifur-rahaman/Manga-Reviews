@@ -12,11 +12,11 @@
 | Origin | 🇰🇷 Manhwa |
 | Genre | Action / Adventure / Comedy / Drama / Murim / Shounen |
 | Status | On Hiatus (Manhwa on Hiatus — Season 2) |
-| Chapters Read | 152 / Ongoing |
-| Chapters (Raw) | 153 |
-| Chapters (English) | 153 |
+| Chapters Read | 153 + 5 Short Stories / Ongoing |
+| Chapters (Raw) | 153 + 5 Short Stories |
+| Chapters (English) | 153 + 5 Short Stories |
 | Start Date | 28th September 2024 |
-| Last Read | 13th October 2024 |
+| Last Read | 7th March 2026 |
 | End Date | - |
 | Rating | 9.2/10 |
 | Platform | Mihon |
@@ -54,9 +54,9 @@ LICO's artwork is stunning. The martial arts action sequences are some of the be
 
 ## Personal Notes & Observations
 
-### Progress Update — On Hiatus (13th October 2024, Ch. 152)
+### Progress Update — On Hiatus (7th March 2026, Ch. 153 + 5 Short Stories)
 
-Tore through 152 chapters in about two weeks and it immediately shot to the top of my reading list. Chung Myung is one of the most entertaining protagonists I've ever encountered in manhwa — his personality alone carries entire arcs. But it's not just comedy; the moments where his grief for the old Mount Hua breaks through the bluster are genuinely heart-wrenching. The combat art is elite. Currently on hold because the manhwa itself has gone on hiatus — waiting for it to resume.
+Tore through the main chapters and it immediately shot to the top of my reading list. Chung Myung is one of the most entertaining protagonists I've ever encountered in manhwa — his personality alone carries entire arcs. But it's not just comedy; the moments where his grief for the old Mount Hua breaks through the bluster are genuinely heart-wrenching. The combat art is elite. Currently on hold because the manhwa itself has gone on hiatus — waiting for it to resume. I have now caught up on Chapter 153 and the 5 spin-off short stories released during the hiatus.
 
 ### Rating Breakdown
 
@@ -78,7 +78,7 @@ This is the manhwa that made me understand what Murim could be at its absolute b
 
 The combat is gorgeous, the comedy is sharp, the emotional beats hit hard, and the ensemble dynamics are some of the warmest I've encountered. The sect restoration arc gives every small victory real weight — when Mount Hua wins, you feel it, because you've watched them rebuild from nothing.
 
-At 152 chapters, this is already an all-time favorite. If it sticks the landing, it could easily be a 9.5.
+At 153 chapters plus ongoing short stories, this is already an all-time favorite. If it sticks the landing, it could easily be a 9.5.
 
 **Bottom line:** The definitive Murim manhwa. Perfect blend of comedy, action, and heart.
 

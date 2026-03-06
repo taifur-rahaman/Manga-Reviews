@@ -11,7 +11,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Metric** | **Value** |
 |:---|:---:|
 | **Total Series Read** | 18 |
-| **Total Chapters Read** | 3297 |
+| **Total Chapters Read** | 3303 |
 | **Series Completed** | 7 |
 | **Currently Reading** | 0 |
 | **On Hold** | 8 |
@@ -27,7 +27,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Origin** | **Series** | **Chapters Read** | **Completed** | **Reading** | **On Hold** | **Hiatus** | **Dropped** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 🇯🇵 Manga (Japan) | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 🇰🇷 Manhwa (Korea) | 12 | 1637 | 5 | 0 | 5 | 2 | 0 |
+| 🇰🇷 Manhwa (Korea) | 12 | 1643 | 5 | 0 | 5 | 2 | 0 |
 | 🇨🇳 Manhua (China) | 6 | 1660 | 2 | 0 | 3 | 1 | 0 |
 
 ---
@@ -38,7 +38,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 |:---|:---:|:---:|:---:|
 | Drama | 5 | 752 | 7.63 |
 | Fantasy | 11 | 2228 | 7.10 |
-| Murim | 2 | 317 | 8.52 |
+| Murim | 2 | 323 | 8.52 |
 
 ---
 
@@ -49,7 +49,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Month** | **Series Started** | **Series Completed** | **Chapters Read** |
 |:---|:---:|:---:|:---:|
 | February 2026 | 6 | 4 | 1247 |
-| March 2026 | 3 | 1 | 196 |
+| March 2026 | 3 | 1 | 202 |
 | January 2026 | 2 | 0 | 211 |
 
 ### By Month (2025)
@@ -151,7 +151,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Series** | **Origin** | **Genre** | **Rating** | **Progress** | **Last Read** |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| [Return of the Mount Hua Sect](../titles/return_of_the_mount_hua_sect.md) | 🇰🇷 Manhwa | Murim | 9.2/10 | Ch. 152 / Ongoing | 13th Oct 2024 |
+| [Return of the Mount Hua Sect](../titles/return_of_the_mount_hua_sect.md) | 🇰🇷 Manhwa | Murim | 9.2/10 | Ch. 153 + 5 SS / Ongoing | 7th Mar 2026 |
 | [Lout of Count's Family](../titles/lout_of_counts_family.md) | 🇰🇷 Manhwa | Fantasy | 8.1/10 | Ch. 172 / Ongoing | 6th Mar 2026 |
 | [Beyond Myriad Peoples](../titles/beyond_myriad_peoples.md) | 🇨🇳 Manhua | Fantasy | 5.13/10 | 314 / 314 | 13th Feb 2026 |
 
@@ -185,7 +185,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | 2 | [Lout of Count's Family](../titles/lout_of_counts_family.md) | 🇰🇷 Manhwa | 🚫 Hiatus | 16th Aug 2024 | 6th Mar 2026 | 6th Mar 2026 | ~19 months |
 | 3 | [The Greatest Estate Developer](../titles/the_greatest_estate_developer.md) | 🇰🇷 Manhwa | ✅ Completed | 24th Aug 2024 | 8th Oct 2025 | 8th Oct 2025 | ~13 months ³ |
 | 4 | [Solo Leveling](../titles/solo_leveling.md) | 🇰🇷 Manhwa | ✅ Completed | 11th Sep 2024 | 16th Sep 2024 | 16th Sep 2024 | 6 days |
-| 5 | [Return of the Mount Hua Sect](../titles/return_of_the_mount_hua_sect.md) | 🇰🇷 Manhwa | 🚫 Hiatus | 28th Sep 2024 | 13th Oct 2024 | 13th Oct 2024 | 16 days |
+| 5 | [Return of the Mount Hua Sect](../titles/return_of_the_mount_hua_sect.md) | 🇰🇷 Manhwa | 🚫 Hiatus | 28th Sep 2024 | 7th Mar 2026 | 7th Mar 2026 | ~5 months |
 | 6 | [Am I Invincible](../titles/am_i_invincible.md) | 🇨🇳 Manhua | ✅ Completed | 9th Nov 2024 | 3rd Feb 2026 | 3rd Feb 2026 | ~15 months ¹ |
 | 7 | [I'm Actually a Cultivation Bigshot](../titles/im_actually_a_cultivation_bigshot.md) | 🇨🇳 Manhua | ⏸️ On Hold | 6th Sep 2025 | 1st Nov 2025 | 1st Nov 2025 | ~2 months |
 | 8 | [Heavenly Grand Archive's Young Master](../titles/heavenly_grand_archives_young_master.md) | 🇰🇷 Manhwa | ⏸️ On Hold | 17th Jan 2026 | 29th Jan 2026 | 29th Jan 2026 | 12 days |
