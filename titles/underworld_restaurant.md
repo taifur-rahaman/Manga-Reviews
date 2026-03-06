@@ -13,6 +13,8 @@
 | Genre | Drama / Shounen / Slice of Life / Supernatural |
 | Status | On Hold (Waiting for Next Release — Weekly) |
 | Chapters Read | 107 / Ongoing |
+| Chapters (Raw) | 107 |
+| Chapters (English) | 107 |
 | Start Date | 3rd March 2026 |
 | Last Read | 4th March 2026 |
 | End Date | - |

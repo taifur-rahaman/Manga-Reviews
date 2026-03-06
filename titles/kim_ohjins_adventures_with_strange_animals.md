@@ -13,6 +13,8 @@
 | Genre | Adventure / Comedy / Fantasy / Slice of Life |
 | Status | On Hold (Waiting for Next Release — Monthly) |
 | Chapters Read | 46 / Ongoing |
+| Chapters (Raw) | 46 |
+| Chapters (English) | 46 |
 | Start Date | 30th January 2026 |
 | Last Read | 2nd February 2026 |
 | End Date | - |

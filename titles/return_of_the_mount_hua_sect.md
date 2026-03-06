@@ -13,6 +13,8 @@
 | Genre | Action / Adventure / Comedy / Drama / Murim / Shounen |
 | Status | On Hiatus (Manhwa on Hiatus — Season 2) |
 | Chapters Read | 152 / Ongoing |
+| Chapters (Raw) | 153 |
+| Chapters (English) | 153 |
 | Start Date | 28th September 2024 |
 | Last Read | 13th October 2024 |
 | End Date | - |

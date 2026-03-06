@@ -13,6 +13,8 @@
 | Genre | Comedy / Drama / Fantasy / Historical / Shounen |
 | Status | Completed |
 | Chapters Read | 88 / 88 (Completed) |
+| Chapters (Raw) | 121 |
+| Chapters (English) | 121 |
 | Start Date | 29th June 2024 |
 | Last Read | 2nd July 2024 |
 | End Date | 2nd July 2024 |

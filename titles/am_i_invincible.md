@@ -13,6 +13,8 @@
 | Genre | Action / Comedy / Fantasy / Historical / Martial Arts / Romance / Shounen |
 | Status | Completed |
 | Chapters Read | 315 / 315 |
+| Chapters (Raw) | 315 |
+| Chapters (English) | 315 |
 | Start Date | 9th November 2024 |
 | Last Read | 3rd February 2026 |
 | End Date | 3rd February 2026 |

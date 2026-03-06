@@ -13,6 +13,8 @@
 | Genre | Action / Adventure / Comedy / Fantasy / Shounen |
 | Status | On Hold (Waiting for Next Release — Bi-weekly) |
 | Chapters Read | 473 / Ongoing |
+| Chapters (Raw) | 513 |
+| Chapters (English) | 513 |
 | Start Date | 13th May 2024 |
 | Last Read | 11th July 2024 |
 | End Date | - |

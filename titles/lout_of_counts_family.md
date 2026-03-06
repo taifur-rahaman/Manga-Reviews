@@ -13,6 +13,8 @@
 | Genre | Action / Adventure / Comedy / Drama / Fantasy / Seinen |
 | Status | On Hiatus (Manhwa on Hiatus — Season 4) |
 | Chapters Read | 172 / Ongoing |
+| Chapters (Raw) | 174 |
+| Chapters (English) | 174 |
 | Start Date | 16th August 2024 |
 | Last Read | 6th March 2026 |
 | End Date | - |

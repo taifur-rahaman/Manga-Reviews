@@ -13,6 +13,8 @@
 | Genre | Action / Adventure / Comedy / Drama / Fantasy / Psychological / Shounen / Supernatural |
 | Status | On Hiatus (Manhwa on Hiatus) |
 | Chapters Read | 118 / Ongoing |
+| Chapters (Raw) | 151 |
+| Chapters (English) | 151 |
 | Start Date | 7th November 2024 |
 | Last Read | 6th March 2026 |
 | End Date | - |

@@ -13,6 +13,8 @@
 | Genre | Comedy / Drama / Fantasy / Romance / Slice of Life |
 | Status | ✅ Completed (Season 3) |
 | Chapters Read | 186 / 186 |
+| Chapters (Raw) | 186 |
+| Chapters (English) | 186 |
 | Start Date | 21st February 2026 |
 | Last Read | 2nd March 2026 |
 | End Date | 2nd March 2026 |

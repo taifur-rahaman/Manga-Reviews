@@ -13,6 +13,8 @@
 | Genre | Action / Comedy / Historical / Murim / Seinen |
 | Status | On Hold (Waiting for Next Release — Weekly) |
 | Chapters Read | 165 / Ongoing |
+| Chapters (Raw) | 169 |
+| Chapters (English) | 168 |
 | Start Date | 17th January 2026 |
 | Last Read | 29th January 2026 |
 | End Date | - |

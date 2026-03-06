@@ -13,6 +13,8 @@
 | Genre | Action / Comedy / Fantasy / Shounen / Slice of Life |
 | Status | On Hold (Waiting for Next Release — Monthly) |
 | Chapters Read | 584 / Ongoing |
+| Chapters (Raw) | 609 |
+| Chapters (English) | 609 |
 | Start Date | 6th September 2025 |
 | Last Read | 1st November 2025 |
 | End Date | - |

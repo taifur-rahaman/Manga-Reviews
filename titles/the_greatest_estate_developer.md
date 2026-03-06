@@ -13,6 +13,8 @@
 | Genre | Action / Adventure / Comedy / Drama / Fantasy / Shounen |
 | Status | Completed |
 | Chapters Read | 222 / 222 |
+| Chapters (Raw) | 222 |
+| Chapters (English) | 222 |
 | Start Date | 24th August 2024 |
 | Last Read | 8th October 2025 |
 | End Date | 8th October 2025 |

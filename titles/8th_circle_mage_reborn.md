@@ -12,7 +12,9 @@
 | Origin | 🇰🇷 Manhwa |
 | Genre | Action / Drama / Fantasy / Historical / Shounen |
 | Status | Completed |
-| Chapters Read | 160 / 160 (Completed) |
+| Chapters Read | 160 / 160 |
+| Chapters (Raw) | 160 |
+| Chapters (English) | 160 |
 | Start Date | 3rd February 2026 |
 | Last Read | 7th February 2026 |
 | End Date | 7th February 2026 |

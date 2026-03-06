@@ -13,6 +13,8 @@
 | Genre | Action / Comedy / Fantasy / Murim / Shounen |
 | Status | Hiatus |
 | Chapters Read | 314 / 314 (Hiatus since 26th March 2024) |
+| Chapters (Raw) | 314 |
+| Chapters (English) | 314 |
 | Start Date | 7th February 2026 |
 | Last Read | 13th February 2026 |
 | End Date | - |

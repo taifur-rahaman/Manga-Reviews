@@ -13,6 +13,8 @@
 | Genre | Adventure / Drama / Fantasy / Shounen |
 | Status | On Hold (Waiting for Next Release — Weekly) |
 | Chapters Read | 114 / Ongoing |
+| Chapters (Raw) | 116 |
+| Chapters (English) | 114 |
 | Start Date | 16th February 2026 |
 | Last Read | 21st February 2026 |
 | End Date | - |

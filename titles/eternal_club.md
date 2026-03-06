@@ -13,6 +13,8 @@
 | Genre | Action / Drama / Fantasy / Psychological / Sci-Fi / Shounen / Supernatural |
 | Status | Completed |
 | Chapters Read | 303 / 303 (Cancelled 5th Nov 2024) |
+| Chapters (Raw) | 303 |
+| Chapters (English) | 303 |
 | Start Date | 13th February 2026 |
 | Last Read | 16th February 2026 |
 | End Date | 16th February 2026 |

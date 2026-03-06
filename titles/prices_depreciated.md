@@ -13,6 +13,8 @@
 | Genre | Action / Adventure / Comedy / Martial Arts / Shounen / Slice of Life |
 | Status | Currently Reading |
 | Chapters Read | 31 / Ongoing |
+| Chapters (Raw) | 68 |
+| Chapters (English) | 68 |
 | Start Date | 6th March 2026 |
 | Last Read | 6th March 2026 |
 | End Date | - |
