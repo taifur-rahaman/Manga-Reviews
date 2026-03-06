@@ -36,7 +36,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 
 | **Genre** | **Series** | **Chapters Read** | **Average Rating** |
 |:---|:---:|:---:|:---:|
-| Drama | 5 | 752 | 8.24 |
+| Drama | 5 | 752 | 7.63 |
 | Fantasy | 11 | 2228 | 7.10 |
 | Murim | 2 | 317 | 8.52 |
 
@@ -92,8 +92,9 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | 13 | [It Turns Out I've Been Invincible for a Long Time](../titles/it_turns_out_ive_been_invincible.md) | 🇨🇳 Manhua | 6.80 | Fantasy | On Hold |
 | 14 | [The Top Dungeon Farmer](../titles/the_top_dungeon_farmer.md) | 🇰🇷 Manhwa | 6.30 | Fantasy | On Hold |
 | 15 | [Am I Invincible](../titles/am_i_invincible.md) | 🇨🇳 Manhua | 6.15 | Fantasy | Completed |
-| 16 | [Beyond Myriad Peoples](../titles/beyond_myriad_peoples.md) | 🇨🇳 Manhua | 5.13 | Fantasy | Hiatus |
-| 17 | [Kim Ohjin's Adventures with Strange Animals](../titles/kim_ohjins_adventures_with_strange_animals.md) | 🇰🇷 Manhwa | 4.87 | Fantasy | On Hold |
+| 16 | [Prices Depreciated, and I Became the World’s Richest Person](../titles/prices_depreciated.md) | 🇨🇳 Manhua | 5.20 | Drama | On Hold |
+| 17 | [Beyond Myriad Peoples](../titles/beyond_myriad_peoples.md) | 🇨🇳 Manhua | 5.13 | Fantasy | Hiatus |
+| 18 | [Kim Ohjin's Adventures with Strange Animals](../titles/kim_ohjins_adventures_with_strange_animals.md) | 🇰🇷 Manhwa | 4.87 | Fantasy | On Hold |
 
 ---
 
@@ -132,7 +133,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | [It Turns Out I've Been Invincible for a Long Time](../titles/it_turns_out_ive_been_invincible.md) | 🇨🇳 Manhua | Fantasy | 6.8/10 | Ch. 76 / Ongoing | Bi-weekly |
 | [The Top Dungeon Farmer](../titles/the_top_dungeon_farmer.md) | 🇰🇷 Manhwa | Fantasy | 6.30/10 | Ch. 114 / Ongoing | Weekly |
 | [Kim Ohjin's Adventures with Strange Animals](../titles/kim_ohjins_adventures_with_strange_animals.md) | 🇰🇷 Manhwa | Fantasy | 4.87/10 | Ch. 46 / Ongoing | Monthly |
-| [Prices Depreciated, and I Became the World’s Richest Person](../titles/prices_depreciated.md) | 🇨🇳 Manhua | Drama | TBD/10 | Ch. 68 / Ongoing | TBD |
+| [Prices Depreciated, and I Became the World’s Richest Person](../titles/prices_depreciated.md) | 🇨🇳 Manhua | Drama | 5.20/10 | Ch. 68 / Ongoing | TBD |
 
 ---
 
