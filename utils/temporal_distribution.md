@@ -132,7 +132,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | [It Turns Out I've Been Invincible for a Long Time](../titles/it_turns_out_ive_been_invincible.md) | 🇨🇳 Manhua | Fantasy | 6.8/10 | Ch. 77 / Ongoing | Bi-weekly |
 | [The Top Dungeon Farmer](../titles/the_top_dungeon_farmer.md) | 🇰🇷 Manhwa | Fantasy | 6.30/10 | Ch. 114 / Ongoing | Weekly |
 | [Kim Ohjin's Adventures with Strange Animals](../titles/kim_ohjins_adventures_with_strange_animals.md) | 🇰🇷 Manhwa | Fantasy | 4.87/10 | Ch. 46 / Ongoing | Monthly |
-| [Prices Depreciated, and I Became the World’s Richest Person](../titles/prices_depreciated.md) | 🇨🇳 Manhua | Drama | 5.20/10 | Ch. 68 / Ongoing | TBD |
+| [Prices Depreciated, and I Became the World’s Richest Person](../titles/prices_depreciated.md) | 🇨🇳 Manhua | Drama | 5.20/10 | Ch. 68 / Ongoing | Sporadic / Hiatus |
 
 ---
 
