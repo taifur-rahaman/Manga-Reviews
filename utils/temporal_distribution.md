@@ -38,7 +38,9 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 |:---|:---:|:---:|:---:|
 | Drama | 5 | 752 | 7.63 |
 | Fantasy | 11 | 1646 | 7.10 |
+| Harem | 1 | 1 | 7.10 |
 | Murim | 2 | 323 | 8.52 |
+| Slice of Life | 1 | 1 | 7.10 |
 
 ---
 
