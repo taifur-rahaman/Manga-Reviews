@@ -12,9 +12,9 @@
 | Origin | 🇰🇷 Manhwa |
 | Genre | Action / Adventure / Comedy / Drama / Fantasy / Psychological / Shounen / Supernatural |
 | Status | On Hiatus (Manhwa on Hiatus) |
-| Chapters Read | 115 / Ongoing |
+| Chapters Read | 118 / Ongoing |
 | Start Date | 7th November 2024 |
-| Last Read | 13th November 2024 |
+| Last Read | 6th March 2026 |
 | End Date | - |
 | Rating | 6.5/10 |
 | Platform | Mihon |
@@ -50,9 +50,9 @@ Bill K's art is serviceable — clean enough for action sequences and expressive
 
 ## Personal Notes & Observations
 
-### Progress Update — On Hiatus (13th November 2024, Ch. 115)
+### Progress Update — On Hiatus (6th March 2026, Ch. 118)
 
-Read through 115 chapters in about a week. The series has genuinely great moments — the civilization arcs where Kim Gong-ja lives through historical tragedies can be surprisingly moving. But the lows drag hard. The philosophical monologuing gets excessive, the MC's growth often feels hand-waved rather than earned, and the tonal inconsistency is a genuine problem. Currently stalled because the manhwa has gone on hiatus at Ch. 151 — the inconsistency meant the enthusiasm to wait for it wasn't there.
+Read through 118 chapters in about a week. The series has genuinely great moments — the civilization arcs where Kim Gong-ja lives through historical tragedies can be surprisingly moving. But the lows drag hard. The philosophical monologuing gets excessive, the MC's growth often feels hand-waved rather than earned, and the tonal inconsistency is a genuine problem. Currently stalled because the manhwa has gone on hiatus at Ch. 118 — the inconsistency meant the enthusiasm to wait for it wasn't there.
 
 ### Rating Breakdown
 
@@ -68,11 +68,11 @@ Read through 115 chapters in about a week. The series has genuinely great moment
 
 ## Verdict
 
-*(Interim verdict at Ch. 115 — to be revised upon completion)*
+*(Interim verdict at Ch. 118 — to be revised upon completion)*
 
 *SSS-Class Suicide Hunter* is the definition of "your mileage may vary." When it's good — during the stronger civilization arcs where the emotional stakes are real and the historical simulations are genuinely moving — it's easy to see why people love it. The concept of living through an entire civilization's tragedy to understand its pain is a genuinely ambitious narrative device.
 
-But the series can't maintain that quality consistently. The weaker arcs drag, the MC's philosophical revelations can feel forced, and the tonal shifts between bombastic action and heavy-handed messaging give it an uneven reading experience. At 115 chapters, there were enough strong moments to keep me reading, but not enough consistency to push the rating higher.
+But the series can't maintain that quality consistently. The weaker arcs drag, the MC's philosophical revelations can feel forced, and the tonal shifts between bombastic action and heavy-handed messaging give it an uneven reading experience. At 118 chapters, there were enough strong moments to keep me reading, but not enough consistency to push the rating higher.
 
 **Bottom line:** A series with genuinely great individual arcs weighed down by inconsistent execution and overwrought philosophizing.
 
@@ -98,6 +98,6 @@ But the series can't maintain that quality consistently. The weaker arcs drag, t
 
 ## Additional Context
 
-Based on the completed web novel by Shin Noah (400 chapters, 16 volumes). The manhwa adaptation by Bill K went on hiatus at Chapter 151, with over 151 chapters published as of early 2026.
+Based on the completed web novel by Shin Noah (400 chapters, 16 volumes). The manhwa adaptation by Bill K went on hiatus at Chapter 118, with over 118 chapters published as of early 2026.
 
 ---

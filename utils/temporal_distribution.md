@@ -1,6 +1,6 @@
 # Temporal Distribution - Manga/Manhwa/Manhua
 
-> **Last Updated:** 4th March 2026
+> **Last Updated:** 6th March 2026
 
 This document tracks the temporal distribution of manga/manhwa/manhua series read, organized by origin, genre, and reading progress.
 
@@ -11,7 +11,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Metric** | **Value** |
 |:---|:---:|
 | **Total Series Read** | 19 |
-| **Total Chapters Read** | 3779 |
+| **Total Chapters Read** | 3820 |
 | **Series Completed** | 7 |
 | **Currently Reading** | 0 |
 | **On Hold** | 8 |
@@ -27,7 +27,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Origin** | **Series** | **Chapters Read** | **Completed** | **Reading** | **On Hold** | **Hiatus** | **Dropped** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 🇯🇵 Manga (Japan) | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 🇰🇷 Manhwa (Korea) | 13 | 1714 | 5 | 0 | 5 | 3 | 0 |
+| 🇰🇷 Manhwa (Korea) | 13 | 1755 | 5 | 0 | 5 | 3 | 0 |
 | 🇨🇳 Manhua (China) | 6 | 2065 | 2 | 0 | 3 | 1 | 0 |
 
 ---
@@ -37,7 +37,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Genre** | **Series** | **Chapters Read** | **Average Rating** |
 |:---|:---:|:---:|:---:|
 | Drama | 4 | 684 | 8.24 |
-| Fantasy | 13 | 2778 | 7.04 |
+| Fantasy | 13 | 2819 | 7.04 |
 | Murim | 2 | 317 | 8.52 |
 
 ---
@@ -49,7 +49,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Month** | **Series Started** | **Series Completed** | **Chapters Read** |
 |:---|:---:|:---:|:---:|
 | February 2026 | 6 | 4 | 1247 |
-| March 2026 | 2 | 1 | 87 |
+| March 2026 | 2 | 1 | 128 |
 | January 2026 | 2 | 0 | 211 |
 
 ### By Month (2025)
@@ -153,8 +153,8 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Series** | **Origin** | **Genre** | **Rating** | **Progress** | **Last Read** |
 |:---|:---:|:---:|:---:|:---:|:---:|
 | [Return of the Mount Hua Sect](../titles/return_of_the_mount_hua_sect.md) | 🇰🇷 Manhwa | Murim | 9.2/10 | Ch. 152 / Ongoing | 13th Oct 2024 |
-| [Lout of Count's Family](../titles/lout_of_counts_family.md) | 🇰🇷 Manhwa | Fantasy | 8.1/10 | Ch. 134 / Ongoing | 27th Sep 2024 |
-| [SSS-Class Suicide Hunter](../titles/sss_class_suicide_hunter.md) | 🇰🇷 Manhwa | Fantasy | 6.5/10 | Ch. 115 / Ongoing | 13th Nov 2024 |
+| [Lout of Count's Family](../titles/lout_of_counts_family.md) | 🇰🇷 Manhwa | Fantasy | 8.1/10 | Ch. 172 / Ongoing | 6th Mar 2026 |
+| [SSS-Class Suicide Hunter](../titles/sss_class_suicide_hunter.md) | 🇰🇷 Manhwa | Fantasy | 6.5/10 | Ch. 118 / Ongoing | 6th Mar 2026 |
 | [Beyond Myriad Peoples](../titles/beyond_myriad_peoples.md) | 🇨🇳 Manhua | Fantasy | 5.13/10 | 314 / 314 | 13th Feb 2026 |
 
 ---
@@ -185,11 +185,11 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 |:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 | [Tales of Demons and Gods](../titles/tales_of_demons_and_gods.md) | 🇨🇳 Manhua | 🚫 Hiatus | 13th May 2024 | 11th Jul 2024 | 11th Jul 2024 | ~2 months |
 | 2 | [I Shall Live as a Prince](../titles/i_shall_live_as_a_prince.md) | 🇰🇷 Manhwa | ✅ Completed | 29th Jun 2024 | 2nd Jul 2024 | 2nd Jul 2024 | 4 days |
-| 3 | [Lout of Count's Family](../titles/lout_of_counts_family.md) | 🇰🇷 Manhwa | 🚫 Hiatus | 16th Aug 2024 | 27th Sep 2024 | 27th Sep 2024 | ~6 weeks |
+| 3 | [Lout of Count's Family](../titles/lout_of_counts_family.md) | 🇰🇷 Manhwa | 🚫 Hiatus | 16th Aug 2024 | 6th Mar 2026 | 6th Mar 2026 | ~19 months |
 | 4 | [The Greatest Estate Developer](../titles/the_greatest_estate_developer.md) | 🇰🇷 Manhwa | ✅ Completed | 24th Aug 2024 | 8th Oct 2025 | 8th Oct 2025 | ~13 months ³ |
 | 5 | [Solo Leveling](../titles/solo_leveling.md) | 🇰🇷 Manhwa | ✅ Completed | 11th Sep 2024 | 16th Sep 2024 | 16th Sep 2024 | 6 days |
 | 6 | [Return of the Mount Hua Sect](../titles/return_of_the_mount_hua_sect.md) | 🇰🇷 Manhwa | 🚫 Hiatus | 28th Sep 2024 | 13th Oct 2024 | 13th Oct 2024 | 16 days |
-| 7 | [SSS-Class Suicide Hunter](../titles/sss_class_suicide_hunter.md) | 🇰🇷 Manhwa | 🚫 Hiatus | 7th Nov 2024 | 13th Nov 2024 | 13th Nov 2024 | 7 days |
+| 7 | [SSS-Class Suicide Hunter](../titles/sss_class_suicide_hunter.md) | 🇰🇷 Manhwa | 🚫 Hiatus | 7th Nov 2024 | 6th Mar 2026 | 6th Mar 2026 | ~4 months |
 | 8 | [Am I Invincible](../titles/am_i_invincible.md) | 🇨🇳 Manhua | ✅ Completed | 9th Nov 2024 | 3rd Feb 2026 | 3rd Feb 2026 | ~15 months ¹ |
 | 9 | [I'm Actually a Cultivation Bigshot](../titles/im_actually_a_cultivation_bigshot.md) | 🇨🇳 Manhua | ⏸️ On Hold | 6th Sep 2025 | 1st Nov 2025 | 1st Nov 2025 | ~2 months |
 | 10 | [Heavenly Grand Archive's Young Master](../titles/heavenly_grand_archives_young_master.md) | 🇰🇷 Manhwa | ⏸️ On Hold | 17th Jan 2026 | 29th Jan 2026 | 29th Jan 2026 | 12 days |

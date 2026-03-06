@@ -12,9 +12,9 @@
 | Origin | 🇰🇷 Manhwa |
 | Genre | Action / Adventure / Comedy / Drama / Fantasy / Seinen |
 | Status | On Hiatus (Manhwa on Hiatus — Season 4) |
-| Chapters Read | 134 / Ongoing |
+| Chapters Read | 172 / Ongoing |
 | Start Date | 16th August 2024 |
-| Last Read | 27th September 2024 |
+| Last Read | 6th March 2026 |
 | End Date | - |
 | Rating | 8.1/10 |
 | Platform | Mihon |
@@ -50,9 +50,9 @@ PAN4's art is clean, polished, and handles both the comedic and dramatic moments
 
 ## Personal Notes & Observations
 
-### Progress Update — On Hiatus (27th September 2024, Ch. 134)
+### Progress Update — On Hiatus (6th March 2026, Ch. 172)
 
-Binged through 134 chapters over about six weeks and loved every bit of it. The found-family dynamics are genuinely heartwarming, and Cale's deadpan personality makes even the most dramatic moments land with comedic timing. The story rewards patience — early chapters build a foundation that pays off beautifully later. Currently stalled because the manhwa has gone on hiatus at Ch. 172 — will resume once it picks back up.
+Binged through 172 chapters over about six weeks and loved every bit of it. The found-family dynamics are genuinely heartwarming, and Cale's deadpan personality makes even the most dramatic moments land with comedic timing. The story rewards patience — early chapters build a foundation that pays off beautifully later. Currently stalled because the manhwa has gone on hiatus at Ch. 172 — will resume once it picks back up.
 
 ### Rating Breakdown
 
@@ -68,11 +68,11 @@ Binged through 134 chapters over about six weeks and loved every bit of it. The 
 
 ## Verdict
 
-*(Interim verdict at Ch. 134 — to be revised upon completion)*
+*(Interim verdict at Ch. 172 — to be revised upon completion)*
 
 *Lout of Count's Family* is what happens when you take the isekai regression formula and actually execute it with care. Cale is the kind of protagonist you root for not because he's the strongest or the most righteous, but because he's genuinely clever and — underneath all his protests about wanting to be lazy — deeply kind. The found-family dynamic with the kids, the ancient dragon, and his loyal companions gives the series an emotional core that elevates it far beyond typical power fantasy.
 
-The worldbuilding can be dense and sometimes requires active attention to keep track of all the moving pieces, but that density is also what makes the payoffs so satisfying. At 134 chapters, the story feels like it's still building toward something bigger, which is exciting.
+The worldbuilding can be dense and sometimes requires active attention to keep track of all the moving pieces, but that density is also what makes the payoffs so satisfying. At 172 chapters, the story feels like it's still building toward something bigger, which is exciting.
 
 **Bottom line:** A meticulously crafted fantasy manhwa with one of the best ensemble casts in the genre and a protagonist who makes reluctant heroism actually compelling.
 
