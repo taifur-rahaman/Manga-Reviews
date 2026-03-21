@@ -37,7 +37,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | **Genre** | **Series** | **Chapters Read** | **Average Rating** |
 |:---|:---:|:---:|:---:|
 | Drama | 5 | 752 | 7.63 |
-| Fantasy | 12 | 2425 | 7.10 |
+| Fantasy | 12 | 2425 | 7.13 |
 | Murim | 2 | 323 | 8.52 |
 
 
@@ -89,15 +89,15 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 | 8 | [I Shall Live as a Prince](../titles/i_shall_live_as_a_prince.md) | 🇰🇷 Manhwa | 7.85 | Drama | Completed |
 | 9 | [Heavenly Grand Archive's Young Master](../titles/heavenly_grand_archives_young_master.md) | 🇰🇷 Manhwa | 7.83 | Murim | On Hold |
 | 10 | [8th Circle Mage Reborn](../titles/8th_circle_mage_reborn.md) | 🇰🇷 Manhwa | 7.68 | Fantasy | Completed |
-| 11 | [Eternal Club](../titles/eternal_club.md) | 🇨🇳 Manhua | 7.10 | Drama | Completed |
-| 12 | [I'm Actually a Cultivation Bigshot](../titles/im_actually_a_cultivation_bigshot.md) | 🇨🇳 Manhua | 7.10 | Fantasy | On Hold |
-| 13 | [It Turns Out I've Been Invincible for a Long Time](../titles/it_turns_out_ive_been_invincible.md) | 🇨🇳 Manhua | 6.80 | Fantasy | On Hold |
-| 14 | [The Top Dungeon Farmer](../titles/the_top_dungeon_farmer.md) | 🇰🇷 Manhwa | 6.30 | Fantasy | On Hold |
-| 15 | [Am I Invincible](../titles/am_i_invincible.md) | 🇨🇳 Manhua | 6.15 | Fantasy | Completed |
-| 16 | [Prices Depreciated, and I Became the World's Richest Person](../titles/prices_depreciated.md) | 🇨🇳 Manhua | 5.20 | Drama | On Hold |
-| 17 | [Beyond Myriad Peoples](../titles/beyond_myriad_peoples.md) | 🇨🇳 Manhua | 5.13 | Fantasy | Hiatus |
-| 18 | [Kim Ohjin's Adventures with Strange Animals](../titles/kim_ohjins_adventures_with_strange_animals.md) | 🇰🇷 Manhwa | 4.87 | Fantasy | On Hold |
-| 19 | [Library to Heaven's Path](../titles/library_to_heavens_path.md) | 🇨🇳 Manhua | — | Fantasy | Hiatus |
+| 11 | [Library to Heaven's Path](../titles/library_to_heavens_path.md) | 🇨🇳 Manhua | 7.40 | Fantasy | Hiatus |
+| 12 | [Eternal Club](../titles/eternal_club.md) | 🇨🇳 Manhua | 7.10 | Drama | Completed |
+| 13 | [I'm Actually a Cultivation Bigshot](../titles/im_actually_a_cultivation_bigshot.md) | 🇨🇳 Manhua | 7.10 | Fantasy | On Hold |
+| 14 | [It Turns Out I've Been Invincible for a Long Time](../titles/it_turns_out_ive_been_invincible.md) | 🇨🇳 Manhua | 6.80 | Fantasy | On Hold |
+| 15 | [The Top Dungeon Farmer](../titles/the_top_dungeon_farmer.md) | 🇰🇷 Manhwa | 6.30 | Fantasy | On Hold |
+| 16 | [Am I Invincible](../titles/am_i_invincible.md) | 🇨🇳 Manhua | 6.15 | Fantasy | Completed |
+| 17 | [Prices Depreciated, and I Became the World's Richest Person](../titles/prices_depreciated.md) | 🇨🇳 Manhua | 5.20 | Drama | On Hold |
+| 18 | [Beyond Myriad Peoples](../titles/beyond_myriad_peoples.md) | 🇨🇳 Manhua | 5.13 | Fantasy | Hiatus |
+| 19 | [Kim Ohjin's Adventures with Strange Animals](../titles/kim_ohjins_adventures_with_strange_animals.md) | 🇰🇷 Manhwa | 4.87 | Fantasy | On Hold |
 
 ---
 
@@ -157,7 +157,7 @@ This document tracks the temporal distribution of manga/manhwa/manhua series rea
 |:---|:---:|:---:|:---:|:---:|:---:|
 | [Return of the Mount Hua Sect](../titles/return_of_the_mount_hua_sect.md) | 🇰🇷 Manhwa | Murim | 9.2/10 | Ch. 153 + 5 SS / Ongoing | 7th Mar 2026 |
 | [Lout of Count's Family](../titles/lout_of_counts_family.md) | 🇰🇷 Manhwa | Fantasy | 8.1/10 | Ch. 172 / Ongoing | 6th Mar 2026 |
-| [Library to Heaven's Path](../titles/library_to_heavens_path.md) | 🇨🇳 Manhua | Fantasy | — | Ch. 324 / 324 (English) | 21st Mar 2026 |
+| [Library to Heaven's Path](../titles/library_to_heavens_path.md) | 🇨🇳 Manhua | Fantasy | 7.4/10 | Ch. 324 / 324 (English) | 21st Mar 2026 |
 | [Beyond Myriad Peoples](../titles/beyond_myriad_peoples.md) | 🇨🇳 Manhua | Fantasy | 5.13/10 | 314 / 314 | 13th Feb 2026 |
 
 ---
