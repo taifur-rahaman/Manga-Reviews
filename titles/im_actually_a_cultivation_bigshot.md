@@ -13,12 +13,12 @@
 | Artist | Huishi TONY, Luanshijiaren (乱室佳人) |
 | Origin | 🇨🇳 Manhua |
 | Genre | Action / Comedy / Fantasy / Shounen |
-| Status | Currently Reading |
-| Chapters Read | 1 / Ongoing |
+| Status | ⏸️ On Hold (Paused) |
+| Chapters Read | 456 / Ongoing |
 | Chapters (Raw) | 609 |
 | Chapters (English) | 609 |
 | Start Date | 7th March 2026 |
-| Last Read | 7th March 2026 |
+| Last Read | 21st March 2026 |
 | Rating | 7.1/10 |
 | Platform | Mihon |
 
@@ -52,6 +52,10 @@ Full-color manhua in vertical scrolling format. The art is bright and clean with
 - **Cultivation World Satire**: Gentle mockery of cultivation world tropes through the mortal's lens
 
 ## Personal Notes & Observations
+
+### Progress Update — On Hold (21st March 2026, Ch. 456)
+
+Putting this on hold at Ch. 456. Still a solid comedy series, but taking a break for now.
 
 ### Progress Update — Currently Reading (7th March 2026, Ch. 1)
 

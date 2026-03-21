@@ -21,12 +21,12 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 | **Metric** | **Value** |
 | :--- | :---: |
-| **📚 Series Documented** | 18 |
-| **📖 Chapters Read** | 2721 |
+| **📚 Series Documented** | 19 |
+| **📖 Chapters Read** | 3500 |
 | **✅ Series Completed** | 7 |
-| **📗 Currently Reading** | 1 |
-| **⏸️ On Hold** | 7 |
-| **🚫 On Hiatus** | 3 |
+| **📗 Currently Reading** | 0 |
+| **⏸️ On Hold** | 8 |
+| **🚫 On Hiatus** | 4 |
 | **❌ Dropped** | 0 |
 
 ---
@@ -37,9 +37,7 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 ## 📖 Currently Reading
 
-| 📚 **Series** | 🌏 **Alt Name** | 🌍 **Origin** | 🌟 **Rating** | 📖 **Progress** | 🛡️ **Status** |
-|:---|:---|:---:|:---:|:---:|:---:|
-| [I'm Actually a Cultivation Bigshot](titles/im_actually_a_cultivation_bigshot.md) | A Big Shot Actually / It Turns Out I'm a Great Immortal | 🇨🇳 Manhua | 7.1/10 | Ch. 1 / Ongoing | 📗 Currently Reading |
+*No series currently being read.*
 
 ---
 
@@ -76,7 +74,8 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 | [Raising Villains the Right Way](titles/raising_villains_the_right_way.md) | Became the Patron of Villains | 🇰🇷 Manhwa | 8.2/10 | Ch. 24 / Ongoing | ⏸️ On Hold (Waiting) |
 | [Lout of Count's Family](titles/lout_of_counts_family.md) | Trash of the Count's Family | 🇰🇷 Manhwa | 8.1/10 | Ch. 172 / Ongoing | 🚫 Hiatus |
 | [8th Circle Mage Reborn](titles/8th_circle_mage_reborn.md) | The Rebirth of an 8th-Circled Mage | 🇰🇷 Manhwa | 7.68/10 | 160 / 160 | ✅ Completed |
-| [I'm Actually a Cultivation Bigshot](titles/im_actually_a_cultivation_bigshot.md) | A Big Shot Actually / It Turns Out I'm a Great Immortal | 🇨🇳 Manhua | 7.1/10 | Ch. 1 / Ongoing | 📗 Currently Reading |
+| [I'm Actually a Cultivation Bigshot](titles/im_actually_a_cultivation_bigshot.md) | A Big Shot Actually / It Turns Out I'm a Great Immortal | 🇨🇳 Manhua | 7.1/10 | Ch. 456 / Ongoing | ⏸️ On Hold (Paused) |
+| [Library to Heaven's Path](titles/library_to_heavens_path.md) | Tian Dao Library / Tiandao Library | 🇨🇳 Manhua | —/10 | Ch. 324 / 324 (English) | 🚫 Hiatus |
 | [It Turns Out I've Been Invincible for a Long Time](titles/it_turns_out_ive_been_invincible.md) | I've Been Invincible for a Long Time | 🇨🇳 Manhua | 6.8/10 | Ch. 77 / Ongoing | ⏸️ On Hold (Waiting) |
 | [The Top Dungeon Farmer](titles/the_top_dungeon_farmer.md) | Solo Farming in the Tower | 🇰🇷 Manhwa | 6.30/10 | Ch. 114 / Ongoing | ⏸️ On Hold (Waiting) |
 | [Am I Invincible](titles/am_i_invincible.md) | When Did I Become Unbeatable? | 🇨🇳 Manhua | 6.15/10 | 315 / 315 | ✅ Completed |
@@ -87,7 +86,7 @@ A personal collection tracking manga from Japan, manhwa from Korea, and manhua f
 
 
 
-*Last Updated: 6th March 2026*
+*Last Updated: 21st March 2026*
 
 </div>
 
