@@ -13,7 +13,7 @@
 | Artist | Fantasy Comics |
 | Origin | 🇨🇳 Manhua |
 | Genre | Action / Adventure / Drama / Fantasy / Martial Arts / Shounen |
-| Status | On Hold (Waiting for Next Release — Bi-weekly) |
+| Status | ⏸️ On Hold (Waiting for Next Release — Bi-weekly) |
 | Chapters Read | 77 / Ongoing |
 | Chapters (Raw) | 324 |
 | Chapters (English) | 77 |

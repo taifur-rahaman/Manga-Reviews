@@ -13,7 +13,7 @@
 | Artist | Kim Hyun-soo |
 | Origin | 🇰🇷 Manhwa |
 | Genre | Action / Adventure / Comedy / Drama / Fantasy |
-| Status | Completed |
+| Status | ✅ Completed |
 | Chapters Read | 222 / 222 |
 | Chapters (Raw) | 222 |
 | Chapters (English) | 222 |

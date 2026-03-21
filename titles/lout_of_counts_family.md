@@ -13,7 +13,7 @@
 | Artist | PAN4, Byeol Narae |
 | Origin | 🇰🇷 Manhwa |
 | Genre | Action / Adventure / Comedy / Drama / Fantasy / Seinen |
-| Status | On Hiatus (Manhwa on Hiatus — Season 4) |
+| Status | 🚫 On Hiatus (Manhwa on Hiatus — Season 4) |
 | Chapters Read | 172 / Ongoing |
 | Chapters (Raw) | 174 |
 | Chapters (English) | 174 |

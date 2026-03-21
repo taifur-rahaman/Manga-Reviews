@@ -7,7 +7,7 @@
 | | |
 |---|---|
 | Original Title | 天道图书馆 (Tiāndào Túshūguǎn) |
-| Alternative Title | Tian Dao Library / Tian Dao Tu Shu Guan / Tiandao Library / Tian Dao Library |
+| Alternative Title | Tian Dao Library / Tian Dao Tu Shu Guan / Tiandao Library |
 | Release Year | 2021 |
 | Author | Heng Sao Tian Ya (横扫天涯), Reading Manga (阅文漫画) |
 | Artist | Heng Sao Tian Ya (横扫天涯), Fire Panda (火力熊猫) |
@@ -19,7 +19,7 @@
 | Chapters (English) | 324 |
 | Start Date | 17th March 2026 |
 | Last Read | 21st March 2026 |
-| End Date | 21st March 2026 |
+| End Date | - |
 | Rating | 7.4/10 |
 | Platform | Mihon |
 

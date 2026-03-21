@@ -13,7 +13,7 @@
 | Artist | chleo |
 | Origin | 🇰🇷 Manhwa |
 | Genre | Action / Drama / Fantasy / Historical / Shounen |
-| Status | Completed |
+| Status | ✅ Completed |
 | Chapters Read | 160 / 160 |
 | Chapters (Raw) | 160 |
 | Chapters (English) | 160 |

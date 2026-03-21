@@ -19,6 +19,7 @@
 | Chapters (English) | 609 |
 | Start Date | 7th March 2026 |
 | Last Read | 21st March 2026 |
+| End Date | - |
 | Rating | 7.1/10 |
 | Platform | Mihon |
 

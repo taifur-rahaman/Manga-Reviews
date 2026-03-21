@@ -13,7 +13,7 @@
 | Artist | Jogen |
 | Origin | 🇰🇷 Manhwa |
 | Genre | Action / Comedy / Drama / Fantasy / Shounen |
-| Status | On Hold (Waiting for Next Release — Weekly) |
+| Status | ⏸️ On Hold (Waiting for Next Release — Weekly) |
 | Chapters Read | 24 / Ongoing |
 | Chapters (Raw) | 25 |
 | Chapters (English) | 25 |

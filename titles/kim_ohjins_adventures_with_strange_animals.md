@@ -13,7 +13,7 @@
 | Artist | Pilsallin |
 | Origin | 🇰🇷 Manhwa |
 | Genre | Adventure / Comedy / Fantasy / Slice of Life |
-| Status | On Hold (Waiting for Next Release — Monthly) |
+| Status | ⏸️ On Hold (Waiting for Next Release — Monthly) |
 | Chapters Read | 46 / Ongoing |
 | Chapters (Raw) | 46 |
 | Chapters (English) | 46 |

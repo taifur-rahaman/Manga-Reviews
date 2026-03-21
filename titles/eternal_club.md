@@ -13,7 +13,7 @@
 | Artist | Wo Xing Yu, Xiao Dong Zai, Three Kilowatts |
 | Origin | 🇨🇳 Manhua |
 | Genre | Action / Drama / Fantasy / Psychological / Sci-Fi / Shounen / Supernatural |
-| Status | Completed |
+| Status | ✅ Completed (Cancelled 5th Nov 2024) |
 | Chapters Read | 303 / 303 (Cancelled 5th Nov 2024) |
 | Chapters (Raw) | 303 |
 | Chapters (English) | 303 |

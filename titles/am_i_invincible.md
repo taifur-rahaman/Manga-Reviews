@@ -13,7 +13,7 @@
 | Artist | 创易文化 |
 | Origin | 🇨🇳 Manhua |
 | Genre | Action / Comedy / Fantasy / Historical / Martial Arts / Romance / Shounen |
-| Status | Completed |
+| Status | ✅ Completed |
 | Chapters Read | 315 / 315 |
 | Chapters (Raw) | 315 |
 | Chapters (English) | 315 |

@@ -13,7 +13,7 @@
 | Artist | Lee Ha Kyung |
 | Origin | 🇰🇷 Manhwa |
 | Genre | Adventure / Drama / Fantasy / Shounen |
-| Status | On Hold (Waiting for Next Release — Weekly) |
+| Status | ⏸️ On Hold (Waiting for Next Release — Weekly) |
 | Chapters Read | 114 / Ongoing |
 | Chapters (Raw) | 116 |
 | Chapters (English) | 114 |

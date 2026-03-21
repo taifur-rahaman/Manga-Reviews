@@ -13,7 +13,7 @@
 | Artist | Jang Sung-Rak (Dubu), REDICE Studio |
 | Origin | 🇰🇷 Manhwa |
 | Genre | Action / Adventure / Drama / Fantasy / Shounen |
-| Status | Completed |
+| Status | ✅ Completed |
 | Chapters Read | 201 / 201 |
 | Chapters (Raw) | 201 |
 | Chapters (English) | 201 |

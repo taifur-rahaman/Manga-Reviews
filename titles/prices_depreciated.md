@@ -13,7 +13,7 @@
 | Artist | 17K漫画 |
 | Origin | 🇨🇳 Manhua |
 | Genre | Drama / Fantasy / Shounen |
-| Status | On Hold |
+| Status | ⏸️ On Hold |
 | Chapters Read | 68 / Ongoing |
 | Chapters (Raw) | 68 |
 | Chapters (English) | 68 |
